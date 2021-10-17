@@ -1,0 +1,4 @@
+baseURL = 'https://ukmac.net/ukmac2.github.io/'
+languageCode = 'en-us'
+title = 'Ukmac'
+theme= 'cactus'

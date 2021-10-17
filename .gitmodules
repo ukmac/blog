@@ -1,0 +1,4 @@
+[submodule "ukmac/public"]
+	path = ukmac/public
+	url = https://github.com/ukmac/ukmac2.github.io.git
+	branch = main
