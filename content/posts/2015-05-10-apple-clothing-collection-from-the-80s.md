@@ -1,8 +1,7 @@
 ---
-
+date: "2015-05-10T00:00:00Z"
 title: Apple Clothing Collection from the 80's
-post_id: 63
-categories: 
+tags: 
 - Apple
 ---
 

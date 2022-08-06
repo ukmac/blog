@@ -1,11 +1,8 @@
 ---
-
+date: "2015-05-09T00:00:00Z"
 title: Where can I buy one of these ?
-post_id: 50
-categories: 
-- Apple
 tags:
-- Pictures
+- Apple
 ---
 
 [![](http://i.imgur.com/SGO1q.jpg)](https://www.pinterest.com/pin/322148179569722698/) iMac Desk Lamp
