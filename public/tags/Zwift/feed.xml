@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Zwift on Ukmac.net</title>
+            <link href="http://localhost/tags/Zwift/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Zwift/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Zwift/</id>
+        <entry>
+            <title>Zwift Knickerbocker Route Achievement</title>
+            <link href="http://localhost/posts/2020-08-04-zwift-knickerbocker/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-08-04-zwift-knickerbocker/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One more Zwift route complete tonight, this time the &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://zwiftinsider.com/nyc&#34;
+&gt;New York route Knickerbocker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-08-04-zwift-planning/knickerbocker-zwifthub.png&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;At just over 22km its not a hard ride but it does include the fairly painful New York KOM that tops out at 17% right in the middle of it, so there is that ! Fairly sure I have ridden this route multiple times before as well though seemingly not to the end as I hadn&amp;rsquo;t got the achievement in the trophy cabinet but now I do.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-08-04-zwift-planning/knickerbocker.jpeg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/blog" term="blog" label="blog" /> 
+                                <category scheme="http://localhost/tags/Zwift" term="Zwift" label="Zwift" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+        <entry>
+            <title>Zwift Planning - Route Achievements</title>
+            <link href="http://localhost/posts/2020-08-04-zwift-planning/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-08-04-zwift-planning/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Over the last few weeks I have been working my way through the Zwift Achievements and so far have managed to complete 61% of the routes ( 46 out of 76 ), obviously not all in the last few weeks&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-08-04-zwift-planning/zwift-progress.png&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Until recently I hadn&amp;rsquo;t seen an easy way of tracking progress on Zwift without actually sitting on my bike, launching Zwift, starting a ride and then navigating to the achievements section. The Zwift companion app does a fairly poor job of showing you historical activity other than the chronological list of activities completed. Then I came across &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://youtu.be/KgSfajJzW6M&#34;
+&gt;this video from GPLama&lt;/a&gt; in which he explains how to use a third party web site called &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://zwifthub.com&#34;
+&gt;Zwifthub&lt;/a&gt; to keep track of all your Zwift badges and achievements. You can setup a Zwifthub account or login with a Google account (unfortunately there is no direct link to your Zwift account) and manually update your profile with all your achievements to date. After that you can use the simple filters in the web site sidebar to show you which routes you have completed, which are still to be done, which are available to ride today and then further sort the lists by distance, elevation, gradient etc.&lt;/p&gt;
+&lt;p&gt;The site is simple in focus but very well executed and fills the gap left by Zwift extremely well. I would imagine that many other Zwifters would find this service useful or at least interesting, even if they are not aiming to complete all the routes and badges on Zwift.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/blog" term="blog" label="blog" /> 
+                                <category scheme="http://localhost/tags/Zwift" term="Zwift" label="Zwift" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+        <entry>
+            <title>Zwift Tron Bike at last !</title>
+            <link href="http://localhost/posts/2020-07-26-zwift-tron-bike-at-last/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-07-26-zwift-tron-bike-at-last/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Yesterday was a big day on &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://zwift.com&#34;
+&gt;Zwift&lt;/a&gt; for me. Finally after about 18 months of rides I passed the 50,000m climbing needed to be awarded the &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://zwiftinsider.com/tron-bike/&#34;
+&gt;Zwift Concept Z1&lt;/a&gt; better known by Zwifters as the Tron Bike !&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-07-26-zwift-tron-bike-at-last/mytronbike.jpeg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Prior to my ride yesterday I had around 800m of climb left to do so decided what better way to knock off those last metres than to do it on &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://zwiftinsider.com/massive-alpe-du-zwift-climb-released/&#34;
+&gt;Alpe du Zwift&lt;/a&gt;. I was about 3/4 of the way up when the notification popped onto the screen to say I had been awarded the Tron bike. As you can see from the picture I took the opportunity when I got to the top to quickly change over to my new steed for the ride down again (with suitably large smile on my face!)&lt;/p&gt;
+&lt;p&gt;Happy cyclist :)&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/blog" term="blog" label="blog" /> 
+                                <category scheme="http://localhost/tags/Zwift" term="Zwift" label="Zwift" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+</feed>

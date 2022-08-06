@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Pictures on Ukmac.net</title>
+            <link href="http://localhost/tags/Pictures/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Pictures/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Pictures/</id>
+        <entry>
+            <title>Fresh Background Wallpapers for your Mac</title>
+            <link href="http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://arkanath.com/FreshBackMac/&#34;
+&gt;FreshBackMac&lt;/a&gt; is a small utility written by Arkanath Pathak, a Computer Science student from eastern India, that refreshes your Mac desktop wallpaper at regular intervals using images from some of the best photo sites on the Internet.&lt;/p&gt;
+&lt;p&gt;You can choose from a range of categories such as Animals, Nature, Technology, Paintings and more and can set the refresh rate from as little as 2 minutes to 12 hours.&lt;/p&gt;
+&lt;p&gt;If you would like a fresh look to your Mac without the effort of searching for new images and setting up as desktop backgrounds this is the app for you.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Pictures" term="Pictures" label="Pictures" />
+        </entry>
+        <entry>
+            <title>Where can I buy one of these ?</title>
+            <link href="http://localhost/posts/2015-05-09-where-can-i-buy-one-of-these/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-05-09-where-can-i-buy-one-of-these/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link--raw&#34;
+  href=&#34;https://www.pinterest.com/pin/322148179569722698/&#34;
+&gt;&lt;img
+  src=&#34;http://i.imgur.com/SGO1q.jpg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/a&gt; iMac Desk Lamp&lt;/p&gt;
+&lt;p&gt;This is so cool&amp;hellip; Would love this for my desk.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Pictures" term="Pictures" label="Pictures" />
+        </entry>
+        <entry>
+            <title>Your time is limited...</title>
+            <link href="http://localhost/posts/2015-05-06-your-time-is-limited/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-05-06-your-time-is-limited/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;img
+  src=&#34;http://media-cache-ak0.pinimg.com/736x/88/03/b9/8803b9a0b234e8454e22fd691ba19188.jpg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Pictures" term="Pictures" label="Pictures" />
+        </entry>
+</feed>

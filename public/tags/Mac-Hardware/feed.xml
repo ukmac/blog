@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>MAC Hardware on Ukmac.net</title>
+            <link href="http://localhost/tags/Mac-Hardware/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Mac-Hardware/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Mac-Hardware/</id>
+        <entry>
+            <title>Kickstarter - Pixo magnetic Tablet Mount</title>
+            <link href="http://localhost/posts/2016-04-06-kickstarter-pixo-magnetic-tablet-mount/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-06-kickstarter-pixo-magnetic-tablet-mount/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;The
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.pixoproducts.com/&#34;
+&gt;Pixo&lt;/a&gt; is an interesting looking Kickstarter project to create a magnetic mounting for iPads/tablets to attach to the side or top of your desktop screen/iMac.&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+&lt;p&gt;Currently they are quite a way off reaching their target of £60,000 but it still has some time to go and may still be able to get funded. I wish them well as this does look like a nice solution.&lt;/p&gt;
+&lt;p&gt;Checkout
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.pixoproducts.com/&#34;
+&gt;their site&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/pixo.gif&#34;
+  alt=&#34;pixo&#34;
+  
+/&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware" />
+        </entry>
+        <entry>
+            <title>On How I Lost Then Found Trackpad Options in El Capitan</title>
+            <link href="http://localhost/posts/2016-04-23-on-how-i-lost-then-found-trackpad-options-in-el-capitan/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-23-on-how-i-lost-then-found-trackpad-options-in-el-capitan/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;My normal approach when a new version of OS X is released is to backup ( create a
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://bombich.com&#34;
+&gt;Carbon Copy Cloner&lt;/a&gt; image of my main drive ) and then do a clean install ( erase the entire drive and install from scratch ). Obviously this takes a little more time and effort than a normal upgrade but I tend to prefer knowing that any legacy cruft built up over the life of the previous version is washed away.&lt;/p&gt;
+&lt;p&gt;When
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/uk/osx/?cid=wwa-uk-kwg-mac&#34;
+&gt;El Capitan&lt;/a&gt; was released last year I decided not to bother with a clean install on my MacBook and ran an upgrade and everything has worked fine since then until the last week or so. Firstly disk space has been getting low on my 256GB drive which is never great but then I started to experience a problem with the App Store taking a long time to load which deteriorated to the point where no matter how long I left it running the content in the main panes failed to materialise at all. As I wanted to load a particular new app this was a bit of a problem to say the least. I looked for solutions to the issue without much success ( admittedly I didn&amp;rsquo;t look that hard ) before deciding to do a re-install to freshen up my OS.&lt;/p&gt;
+&lt;p&gt;Roll forward a couple of hours and I have a clean install of
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/uk/osx/?cid=wwa-uk-kwg-mac&#34;
+&gt;El Capitan&lt;/a&gt;, my essential data restored from backup, apps reinstalled and App Store fully working. I also now have 140GB of my 256GB drive still free which shows how much disk space can get swallowed up by working files and general detritus in the course of a year. Granted there are a few things I have chosen not to restore but nothing that would account for 100GB of disk space.&lt;/p&gt;
+&lt;p&gt;Anyway, all this brings me to the point of this article which is how to enable three finger drag of windows in
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/uk/osx/?cid=wwa-uk-kwg-mac&#34;
+&gt;El Capitan&lt;/a&gt; ! When the re-install had finished one of the first things I did was to go to System Preferences to sort out my Trackpad settings. By default my three main tweaks to the standard configuration are to switch off natural scrolling ( I know old habits die hard ), switch on tap to click and finally switch on the option to drag windows with three finger gesture.&lt;/p&gt;
+&lt;p&gt;This time around the first two options were setup as normal but when I looked for the three finger drag option it seemed to have been moved. I was sure it used to be on the Scroll and Zoom section of the preference pane, or was it under More Gestures ? Nope, not there&amp;hellip; I must admit I looked for an embarrassingly long time going from one tab to the next in the vain hope that somehow I would see it where I hadn&amp;rsquo;t before, but it was gone&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Thankfully it only took a minutes Googling to uncover the answer to the missing setting, Apple in their infinite wisdom have decided in
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/uk/osx/?cid=wwa-uk-kwg-mac&#34;
+&gt;El Capitan&lt;/a&gt; that this is not a Trackpad setting now but an Accessibility option ! To find the setting now first go to Accessibility in System Preferences, click on  
+&lt;strong&gt;Trackpad Options&lt;/strong&gt;
+and on the popup window tick to
+&lt;strong&gt;Enable dragging&lt;/strong&gt;
+ and select
+&lt;strong&gt;three finger drag&lt;/strong&gt;
+from the drop down menu.&lt;/p&gt;
+&lt;p&gt;Of course the other thing I
+&lt;strong&gt;should have done&lt;/strong&gt;
+was to just type &amp;ldquo;three finger drag&amp;rdquo; into the search field in System Preferences which would have instantly told me I was looking in the wrong place !&lt;/p&gt;
+&lt;p&gt;[gallery ids=&amp;ldquo;479,480,481&amp;rdquo; type=&amp;ldquo;slideshow&amp;rdquo;]&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" /> 
+                                <category scheme="http://localhost/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware" />
+        </entry>
+        <entry>
+            <title>Rumour - Ultra-thin 13&#34; and 15&#34; MacBooks due in June-July</title>
+            <link href="http://localhost/posts/2016-03-26-rumour-ultra-thin-13-15-macbooks-due-june-july/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-03-26-rumour-ultra-thin-13-15-macbooks-due-june-july/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.macrumors.com/2016/03/22/new-ultra-thin-13-15-macbooks-june-july/?utm_source=feedly&amp;amp;utm_medium=webfeeds&#34;
+&gt;Interesting&lt;/a&gt;rumour from MacRumors.com&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware" />
+        </entry>
+        <entry>
+            <title>TarDisk Pear - Grow your MacBook Hard drive !</title>
+            <link href="http://localhost/posts/2016-02-15-tardisk-pear-grow-your-macbook-hard-drive/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-02-15-tardisk-pear-grow-your-macbook-hard-drive/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;A little while ago I looked at a device called the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://eu.minidrive.bynifty.com/#&#34;
+&gt;Nifty MiniDrive&lt;/a&gt; a neat little MicroSD card carrier that fits completely snuggly into the SD slot on MacBooks adding disk space for photos/documents and other temporary files. They are relatively cheap and can be used with whatever size of MicroSD card you have available. The downside is that the disk space provided is a separate volume to the internal drive and as such you have to manage which files and folders go where. It is certainly a neater solution than plugging a USB drive into your MacBook but if the internal drive is struggling for space it doesn&amp;rsquo;t immediately solve that issue.&lt;/p&gt;
+&lt;p&gt;Then last night I came across a product called
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://tardisk.com&#34;
+&gt;TarDisk Pear&lt;/a&gt; which uses the same idea of plugging extra storage into the SD card slot in a completely flush carrier but extends it to the next level. With the TarDisk Pear instead of the extra disk space being presented as an external removable volume the additional storage is magically used to extend the space available to the internal drive ! The web site doesn&amp;rsquo;t give many details on exactly how it does this but there are a few hints on the FAQ&amp;rsquo;s page where it talks about the risk of data corruption and loss if you remove the drive after it has been setup. Clearly the magic comes at a price.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/02/TarDisk_Pear_2.0-1024x342.gif&#34;
+  alt=&#34;TarDisk_Pear_2.0&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Despite looking I couldn&amp;rsquo;t find any information about the impact on the performance of the built in drive either. I would hope that it manages the data in a way that optimises the performance of the internal drive but this isn&amp;rsquo;t clear from what I have seen.&lt;/p&gt;
+&lt;p&gt;Pricing starts at $149 for 128GB rising to £399 for 256GB.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware" />
+        </entry>
+        <entry>
+            <title>They just don&#39;t make &#39;em like they used to</title>
+            <link href="http://localhost/posts/2016-03-29-just-dont-make-em-like-used/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-03-29-just-dont-make-em-like-used/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Macworld writer Christopher Phin
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.macworld.com/article/3048727/macs/the-imac-g4-apple-at-its-best.html&#34;
+&gt;takes a fond look back&lt;/a&gt; at what is probably one of the most iconic Macs ever made, the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://en.wikipedia.org/wiki/IMac_G4&#34;
+&gt;iMac G4&lt;/a&gt;.
+more&amp;gt;This was—and is—Apple at its best: Producing something daring, novel, and utterly desirable. Nobody at the time could fail to be impressed almost to the point of shock by the sheer chutzpah of Apple’s vision for a modern computer, and even today it strikes you as a fresh and exciting design.&lt;/p&gt;
+&lt;p&gt;The G4 was a stunning piece of industrial design and despite all the innovations of ever thinner and more powerful iMacs since it will almost certainly never be bettered.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware" />
+        </entry>
+</feed>

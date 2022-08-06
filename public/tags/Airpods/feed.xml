@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Airpods on Ukmac.net</title>
+            <link href="http://localhost/tags/Airpods/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Airpods/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Airpods/</id>
+        <entry>
+            <title>New AirPods Pro noise cancellation</title>
+            <link href="http://localhost/posts/2019-10-31-new-airpods-pro-noise-cancellation/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-10-31-new-airpods-pro-noise-cancellation/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://twitter.com/ryan/status/1189643522418151424&#34;
+&gt;Ryan Block on AirPods Pro vs. Bose QuietComfort 35 Headphones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have to say I am impressed too. Loving them !&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Airpods" term="Airpods" label="Airpods" />
+        </entry>
+</feed>

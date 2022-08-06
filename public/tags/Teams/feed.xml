@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Teams on Ukmac.net</title>
+            <link href="http://localhost/tags/Teams/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Teams/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Teams/</id>
+        <entry>
+            <title>A huge pile of new Teams features !</title>
+            <link href="http://localhost/posts/2019-11-04-a-huge-pile-of-new-teams-features/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-11-04-a-huge-pile-of-new-teams-features/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/What-s-New-in-Microsoft-Teams-Ignite-2019/ba-p/937025&#34;
+&gt;What’s New in Microsoft Teams- Ignite 2019&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a LONG list of new and improved features for Microsoft Teams. Excited to see a lot of these, especially things such as Private Channels and Planner/To Do integration&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Teams" term="Teams" label="Teams" />
+        </entry>
+        <entry>
+            <title>Daily Post - 09/12/2020</title>
+            <link href="http://localhost/posts/2020-12-09-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-09-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://code.visualstudio.com/&#34;
+&gt;Visual Studio Code&lt;/a&gt; is now my preferred text editor for updating this Jekyll blog. The built in Github connectivity and excellent Markdown plugins for previewing posts before they are committed combine to make it one of the simplest ways to create new content.&lt;/p&gt;
+&lt;p&gt;I have tried &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://prose.io&#34;
+&gt;Prose.io&lt;/a&gt; (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://ukmac.net/2020/10/prose.io/&#34;
+&gt;see my post from October&lt;/a&gt;) a lovely simple to use web editor for static content Github hosted sites such as Jekyll. The main limitation of Prose for me is the lack of any way to upload and link to images in my posts. This may or may not be an issue depending on the type of content you need to post but personally I do want a way to upload and link to screenshots within my posts.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-09-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-available-this-week-in-microsoft-teams/ba-p/1968481&#34;
+&gt;Teams Breakout Rooms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Microsoft have announced that Teams will be getting breakout rooms feature starting this week&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://feedproxy.google.com/~r/TheIphoneBlog/~3/PPuDkRXT4Uc/whatsapp-wants-apples-privacy-labels-apply-imessage-well&#34;
+&gt;Whatsapp unhappy with Apple privacy labels&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;iMore article regarding recent complaint from Whatsapp. As much as I dislike Facebook and Whatsapp I tend to agree with the author that they do have a point here. &lt;em&gt;Update&amp;hellip; Apple has confirmed the privacy labels will apply to built in apps as well so that steals Whatsapps thunder a little (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.macrumors.com/2020/12/09/apple-responds-to-whatsapp-app-store-privacy/&#34;
+&gt;link&lt;/a&gt;)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pusherofpedals.com/2020/12/09/christmas-gift-guide/&#34;
+&gt;Xmas Gift Guide for Cyclists&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Some gift ideas for the cyclist(s) in your household&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Teams" term="Teams" label="Teams" /> 
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" /> 
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+        <entry>
+            <title>Teams Tip - Zooming shared screen</title>
+            <link href="http://localhost/posts/2019-08-25-877/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-08-25-877/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://myteamsday.com/2019/06/18/how-to-zoom-into-shared-screen-in-teams-meeting/&#34;
+&gt;How to zoom into a shared screen contents in Teams meeting&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Teams" term="Teams" label="Teams" />
+        </entry>
+</feed>

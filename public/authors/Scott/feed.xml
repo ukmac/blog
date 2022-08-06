@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Scott on Ukmac.net</title>
+            <link href="http://localhost/authors/Scott/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/authors/Scott/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/authors/Scott/</id>
+        <entry>
+            <title>Sweet and Wide...</title>
+            <link href="http://localhost/posts/2015-04-30-sweet-and-wide/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-04-30-sweet-and-wide/</id>
+                    <author>
+                        <name></name>
+                    </author>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link--raw&#34;
+  href=&#34;https://www.flickr.com/photos/48126477@N05/16616199274&#34;
+&gt;&lt;img
+  src=&#34;https://farm8.staticflickr.com/7599/16616199274_7509fe9fbf.jpg&#34;
+  alt=&#34;Ultrawide Macbook&#34;
+  
+/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have looked at these ultra wide screens and have to admit this looks enticing.&lt;/p&gt;
+
+            </content>  
+                                <category scheme="http://localhost/authors/Scott" term="Scott" label="Scott" />  
+                                <category scheme="http://localhost/tags/Mac-Setups" term="Mac-Setups" label="Mac Setups" />
+        </entry>
+</feed>

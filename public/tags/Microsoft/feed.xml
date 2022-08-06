@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Microsoft on Ukmac.net</title>
+            <link href="http://localhost/tags/Microsoft/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Microsoft/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Microsoft/</id>
+        <entry>
+            <title>Daily Post - 02/11/2020</title>
+            <link href="http://localhost/posts/2020-11-02-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-11-02-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ).&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-11-02-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://sccmentor.com/2020/03/04/keep-it-simple-with-intune-17-uninstalling-default-apps-using-the-store-for-business/&#34;
+&gt;Intune - Uninstalling default Windows Apps&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;This is one I am testing at the moment. Many of the staff in my organisation end up using the Windows Mail app instead of Outlook or OWA and I would like to prevent this so I am planning on using this approach to remove Mail app from all PC&amp;rsquo;s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;powerapps&#34;&gt;
+        Powerapps
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-11-02-daily-post/#powerapps&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Powerapps&#34; href=&#34;#powerapps&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn&amp;rsquo;t ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.&lt;/p&gt;
+&lt;p&gt;If you have any ideas on this one please let me know.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Intune" term="Intune" label="Intune" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" />
+        </entry>
+        <entry>
+            <title>Daily Post - 07/12/2020</title>
+            <link href="http://localhost/posts/2020-12-07-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-07-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;macbook-air-update&#34;&gt;
+        MacBook Air Update
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-07-daily-post/#macbook-air-update&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor MacBook Air Update&#34; href=&#34;#macbook-air-update&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Loving the new MacBook. I have it mostly setup as I want it now and Photo Library sync seems to have finished so I should be able to start to see the real world battery life. Currently I don&amp;rsquo;t have any great need for long battery life as I am working at home like most others but knowing that there is no rush to get plugged is nice and so far the lowest the battery has gone is 50% ( at the time I am writing this blog post).&lt;/p&gt;
+&lt;p&gt;Last night was the first time I felt the bottom of the case get warm. I had just helped my son set up a Zoom call when I noticed it. It may have been Zoom, though I didn&amp;rsquo;t investigate it at the time and since then its been cool cool cool&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;mimestream-beta&#34;&gt;
+        Mimestream Beta
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-07-daily-post/#mimestream-beta&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Mimestream Beta&#34; href=&#34;#mimestream-beta&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Whilst setting up the apps I wanted I decided to try to find a decent mail client for my home Gmail account. I have used the Gmail web interface for a long time more out of laziness than anything so this seemed an opportune time to look for a better alternative. &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://mimestream.com/&#34;
+&gt;Mimestream&lt;/a&gt; is free to download at the moment during the beta period. It has a very Gmail-like layout and supports all the Gmail features such as labels that typically don&amp;rsquo;t work well in standard email clients. I will post an update on my thoughts when I have been using it for a while but so far I am quite happy.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-07-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4&#34;
+&gt;A little bit more security&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A quick guide on how to enable default malware policy for Office 365&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://robservatory.com/16gb-of-ram-and-75-open-appswhat-could-go-wrong/&#34;
+&gt;16GB of RAM and 75 open apps&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Stress testing an M1 MacBook Pro&amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" />
+        </entry>
+        <entry>
+            <title>Daily Post - 08/12/2020</title>
+            <link href="http://localhost/posts/2020-12-08-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-08-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;email-pains&#34;&gt;
+        Email Pains
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-08-daily-post/#email-pains&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Email Pains&#34; href=&#34;#email-pains&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Today has been a painful day trying to resolve an issue with Mail rules in Exchange Online. Yesterday I switched on a Malware Policy to block certain files types after reading &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4&#34;
+&gt;this article.&lt;/a&gt; All seemed fine but then first thing this morning I received a number of calls from users unable to email Helpdesk calls to our Helpdesk system (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.freshdesk.com&#34;
+&gt;Freshdesk&lt;/a&gt;). It seems as though the change I made yesterday had triggered a mail rule setup to block users autoforwarding emails externally into action that must not have been working before.&lt;/p&gt;
+&lt;p&gt;To log calls with Freshdesk by email you send to a specific email address that is created when Freshdesk is configured. To make things easy for my organisations users I had setup a shared mailbox with the email address support@xxxx and instructed them to log calls by emailing this address. The shared mailbox was then set to autoforward to the Freshdesk email address. This autoforward was now broken and so users were unable to log calls or reply to existing ones.&lt;/p&gt;
+&lt;p&gt;Unfortunately trying to fix mail rules in Exchange is made more difficult due to the very long time it takes for changes made to become operational. According to &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_exchon-mso_o365b/dlp-and-mail-transport-rules-in-eac/75486160-ee0e-4cc2-a9cb-a9311630cf83&#34;
+&gt;Lance Cal in this Microsoft Community thread&lt;/a&gt; changes can take up to 12 hours to become active. Thats a whole working day before I can see if the change I made to fix our issue works and during which time our IT Helpdesk that relies on email autoforward rules to operate remains unusable.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;update&#34;&gt;
+        Update
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-08-daily-post/#update&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Update&#34; href=&#34;#update&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;It seems that Exchange mail rules is not what I should have been looking at after all. What I discovered was that the mail rule I thought was blocking the autoforward was not being triggered at all. I found this by running the mail rule report ( shown highlighted in red in diagram below )&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-12-08-daily-post/mail-rule-report.jpg&#34;
+  alt=&#34;&#34;
+  title=&#34;Mail rule report&#34;
+/&gt;&lt;/p&gt;
+&lt;p&gt;Once I could see that no emails were matching the rule I started looking for other places where autoforwarding might be blocked. I had suspected there was probably something in the 365 Security and Compliance site that was responsible and the obvious culprit was in the &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://protection.office.com/antispam&#34;
+&gt;Anti-Spam&lt;/a&gt; settings. What I found here was that the &amp;ldquo;Automatic forwarding&amp;rdquo; setting was set to &amp;ldquo;Automatic - System-controlled&amp;rdquo;. Changing this to &amp;ldquo;On - Forwarding is enabled&amp;rdquo; immediately resolved the issue I was having but of course at the same time changed the default policy for all users to allow auto-forwarding externally.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-12-08-daily-post/outboundspam.jpg&#34;
+  alt=&#34;&#34;
+  title=&#34;Outbound spam filter policy&#34;
+/&gt;&lt;/p&gt;
+&lt;p&gt;To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images/2020-12-08-daily-post/outboundrule.jpg&#34;
+  alt=&#34;&#34;
+  title=&#34;Additional outbound rule&#34;
+/&gt;&lt;/p&gt;
+&lt;p&gt;A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" />
+        </entry>
+        <entry>
+            <title>Daily Post - 09/12/2020</title>
+            <link href="http://localhost/posts/2020-12-09-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-09-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://code.visualstudio.com/&#34;
+&gt;Visual Studio Code&lt;/a&gt; is now my preferred text editor for updating this Jekyll blog. The built in Github connectivity and excellent Markdown plugins for previewing posts before they are committed combine to make it one of the simplest ways to create new content.&lt;/p&gt;
+&lt;p&gt;I have tried &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://prose.io&#34;
+&gt;Prose.io&lt;/a&gt; (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://ukmac.net/2020/10/prose.io/&#34;
+&gt;see my post from October&lt;/a&gt;) a lovely simple to use web editor for static content Github hosted sites such as Jekyll. The main limitation of Prose for me is the lack of any way to upload and link to images in my posts. This may or may not be an issue depending on the type of content you need to post but personally I do want a way to upload and link to screenshots within my posts.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-09-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-available-this-week-in-microsoft-teams/ba-p/1968481&#34;
+&gt;Teams Breakout Rooms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Microsoft have announced that Teams will be getting breakout rooms feature starting this week&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://feedproxy.google.com/~r/TheIphoneBlog/~3/PPuDkRXT4Uc/whatsapp-wants-apples-privacy-labels-apply-imessage-well&#34;
+&gt;Whatsapp unhappy with Apple privacy labels&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;iMore article regarding recent complaint from Whatsapp. As much as I dislike Facebook and Whatsapp I tend to agree with the author that they do have a point here. &lt;em&gt;Update&amp;hellip; Apple has confirmed the privacy labels will apply to built in apps as well so that steals Whatsapps thunder a little (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.macrumors.com/2020/12/09/apple-responds-to-whatsapp-app-store-privacy/&#34;
+&gt;link&lt;/a&gt;)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pusherofpedals.com/2020/12/09/christmas-gift-guide/&#34;
+&gt;Xmas Gift Guide for Cyclists&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Some gift ideas for the cyclist(s) in your household&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Teams" term="Teams" label="Teams" /> 
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" /> 
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+        <entry>
+            <title>Microsoft Surface Duo - Preorder</title>
+            <link href="http://localhost/posts/2020-08-13-surface-duo/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-08-13-surface-duo/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;This actually looks pretty nice. Expensive but nice&amp;hellip;.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Surface" term="Surface" label="Surface" /> 
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" />
+        </entry>
+</feed>

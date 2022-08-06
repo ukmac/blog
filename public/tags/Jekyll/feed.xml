@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Jekyll on Ukmac.net</title>
+            <link href="http://localhost/tags/Jekyll/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Jekyll/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Jekyll/</id>
+        <entry>
+            <title>Daily Post - 09/12/2020</title>
+            <link href="http://localhost/posts/2020-12-09-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-09-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://code.visualstudio.com/&#34;
+&gt;Visual Studio Code&lt;/a&gt; is now my preferred text editor for updating this Jekyll blog. The built in Github connectivity and excellent Markdown plugins for previewing posts before they are committed combine to make it one of the simplest ways to create new content.&lt;/p&gt;
+&lt;p&gt;I have tried &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://prose.io&#34;
+&gt;Prose.io&lt;/a&gt; (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://ukmac.net/2020/10/prose.io/&#34;
+&gt;see my post from October&lt;/a&gt;) a lovely simple to use web editor for static content Github hosted sites such as Jekyll. The main limitation of Prose for me is the lack of any way to upload and link to images in my posts. This may or may not be an issue depending on the type of content you need to post but personally I do want a way to upload and link to screenshots within my posts.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-12-09-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-available-this-week-in-microsoft-teams/ba-p/1968481&#34;
+&gt;Teams Breakout Rooms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Microsoft have announced that Teams will be getting breakout rooms feature starting this week&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://feedproxy.google.com/~r/TheIphoneBlog/~3/PPuDkRXT4Uc/whatsapp-wants-apples-privacy-labels-apply-imessage-well&#34;
+&gt;Whatsapp unhappy with Apple privacy labels&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;iMore article regarding recent complaint from Whatsapp. As much as I dislike Facebook and Whatsapp I tend to agree with the author that they do have a point here. &lt;em&gt;Update&amp;hellip; Apple has confirmed the privacy labels will apply to built in apps as well so that steals Whatsapps thunder a little (&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.macrumors.com/2020/12/09/apple-responds-to-whatsapp-app-store-privacy/&#34;
+&gt;link&lt;/a&gt;)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pusherofpedals.com/2020/12/09/christmas-gift-guide/&#34;
+&gt;Xmas Gift Guide for Cyclists&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Some gift ideas for the cyclist(s) in your household&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Teams" term="Teams" label="Teams" /> 
+                                <category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft" /> 
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" /> 
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" /> 
+                                <category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling" />
+        </entry>
+        <entry>
+            <title>Jekyll Go Live Day</title>
+            <link href="http://localhost/posts/2020-07-20-go-live-day/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-07-20-go-live-day/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://ukmac/net&#34;
+&gt;UKMac.net&lt;/a&gt; is now live on &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pages.github.com&#34;
+&gt;Github Pages&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/assets/images/jekyll.svg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;If you are lucky enough to be reading this post today (21st July 2020) then you may have received warnings that the page is not secure from your browser. This should clear itself within the next 24 hours as &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pages.github.com&#34;
+&gt;Github Pages&lt;/a&gt; sets up https on my custom domain.&lt;/p&gt;
+&lt;p&gt;My current Wordpress site hosting renewal was due in August so this seemed a sensible time to move the blog over and save myself some money.&lt;/p&gt;
+&lt;p&gt;Cheers&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" />
+        </entry>
+        <entry>
+            <title>Minimal Mistakes Blogs</title>
+            <link href="http://localhost/posts/2020-07-21-minimal-mistakes-blogs/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-07-21-minimal-mistakes-blogs/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Now I have got a barebones Jekyll site running, DNS sorted and old Wordpress posts migrated its time to do a bit of personalisation. Like a lot of Jekyll blogs I have started with the &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://mmistakes.github.io/minimal-mistakes&#34;
+&gt;Minimal Mistakes theme&lt;/a&gt; which is a nice starting point.&lt;/p&gt;
+&lt;p&gt;As a non-expert in the field of web development I know what I want to do and roughly how to achieve it but working out the detail of how to make the changes I need, especially where the theme is a remote Jekyl theme, is a challenge. This post includes a number of sites that I have found that have helped me to find the solutions to this.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;how-to-sites&#34;&gt;
+        How to sites
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-07-21-minimal-mistakes-blogs/#how-to-sites&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor How to sites&#34; href=&#34;#how-to-sites&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://hannahbarudin.com/theme-setup/&#34;
+&gt;Hannah Barudins Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://dev-notes.eu/categories/jekyll/&#34;
+&gt;Dev Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/#how-to-change-font-type-everywhere&#34;
+&gt;Cross Validated&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://decentralized-id.com/how-to-contribute/website-config-minimal-mistakes/&#34;
+&gt;Digital Identity Decentralized&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;nice-minimal-mistakes-themes&#34;&gt;
+        Nice Minimal Mistakes Themes
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2020-07-21-minimal-mistakes-blogs/#nice-minimal-mistakes-themes&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Nice Minimal Mistakes Themes&#34; href=&#34;#nice-minimal-mistakes-themes&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://azurecitadel.com/&#34;
+&gt;Azure Citadel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://haksoat.github.io/activities/2019-04-10-create-blog-jekyll/&#34;
+&gt;The Haksoat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://solomonvictorino.com/&#34;
+&gt;Solomon Victorino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.justinrummel.com/&#34;
+&gt;Justin Rummel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" />
+        </entry>
+        <entry>
+            <title>Moving to Jekyll!</title>
+            <link href="http://localhost/posts/2020-07-19-moving-to-jekyll/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-07-19-moving-to-jekyll/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;After many years of on and off dabbling with Wordpress blogs I have decided to make the move to &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://jekyllrb.com/&#34;
+&gt;Jekyll&lt;/a&gt; and &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pages.github.com/&#34;
+&gt;Github Pages&lt;/a&gt; for hosting. Jekyll is very different to Wordpress and requires a completely different skill set to implement. It is easy enough to pickup if you have a good understanding of IT but probably not a simple job if you don&amp;rsquo;t&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Typically I spend more time playing with setting up blogs than I do actually blogging. I always have good intentions which quickly fade after the fun of setting up the site is done. Perhaps this time will be different ? I have managed to import the few posts I had on Wordpress into Jekyll, albeit some of them needed manual tweaks and possibly some are still a little broken, but again this was more for the fun of doing it than the need to retain the posts.&lt;/p&gt;
+&lt;p&gt;At the moment I am using &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://code.visualstudio.com/&#34;
+&gt;Visual Studio Code&lt;/a&gt; on my Mac Mini for content editing and testing changes by running Jekyll locally ( there is a short delay after pushing updates to Github for the changes to reflect on your site so having a localhost version running is an essential configuration for most purposes.)&lt;/p&gt;
+&lt;p&gt;This site is currently (at the time this post was written) using the &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://github.com/mmistakes/minimal-mistakes&#34;
+&gt;Minimal Mistakes theme&lt;/a&gt; by Michael Rose. This theme is relatively basic compared to many Wordpress themes but has the functionality I need for this blog while still offering a degree of customisation, which is where I have got to at the moment.&lt;/p&gt;
+&lt;p&gt;So far I am enjoying learning Jekyll and will aim to carry on developing this site, though I can&amp;rsquo;t guarantee I won&amp;rsquo;t get bored with it as I have done many times in the past. We&amp;rsquo;ll have to wait and see.&lt;/p&gt;
+&lt;p&gt;Cheers&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" />
+        </entry>
+        <entry>
+            <title>RSS Struggles</title>
+            <link href="http://localhost/posts/2020-07-24-rss-struggles/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-07-24-rss-struggles/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;As is often the case when learning something new I have run into a problem and the fix for it is alluding me at the moment. In this case it is RSS feeds in Jekyll. The [Minimal Mistakes[(https://mmistakes.github.io/minimal-mistakes)] theme already had  jekyll-feed gem installed which appeared to be working but when I checked my feed in &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://feedly.com&#34;
+&gt;Feedly&lt;/a&gt; I could only see posts that were previously posted on my Wordpress blog and none of the new test posts on Jekyll were showing up.&lt;/p&gt;
+&lt;p&gt;Since then I have been searching in vain for a solution to this issue. Oddly if I add a new feed to Feedly and use &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://ukmac.net/feed.xml&#34;
+&gt;https://ukmac.net/feed.xml&lt;/a&gt; the recent posts show up but Feedly says I only have one subscriber to this feed rather than the rather embarassing 20 or so that I had previously.&lt;/p&gt;
+&lt;p&gt;If anyone does have any experience of this issue with Jekyll and can offer any sort of clue to a fix I would be very grateful, meanwhile I will continue my search.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" />
+        </entry>
+        <entry>
+            <title>Updating Jekyll from iPad with Prose.io</title>
+            <link href="http://localhost/posts/2020-10-30-prose.io/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-10-30-prose.io/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;So I setup this Jekyll blog a few months ago and as usual after getting it going I promptly let it languish. One of the issues I guess is that unlike Wordpress there is no quick iOS or web app out of the box to update Jekyll sites from my phone or iPad.&lt;/p&gt;
+&lt;p&gt;Enter &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://prosie.io&#34;
+&gt;Prose.io&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prose.io is an elegant and clean web app for managing Github sites and &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://medium.com/devseed/how-we-build-cms-free-websites-d7e19d94a0ff&#34;
+&gt;CMS Free web sites&lt;/a&gt; which also works very nicely on iPads (no app required). To start editing a Jekyll web site all you have to do is go to &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://prose.io&#34;
+&gt;https://prose.io&lt;/a&gt; and authenticate with your Github account. You can then open your sites posts folder and either edit existing posts or create new ones.&lt;/p&gt;
+&lt;p&gt;This article is the first I have created using the site. The editor is fairly minimal but does have a simple formatting toolbar and a Markdown preview button for checking that your post looks ok before saving and committing changes to Github.&lt;/p&gt;
+&lt;p&gt;I will be testing this out with future posts but from what I can see this may well be the ideal way to update my site and certainly easier than trying to work with Github clients on iOS.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll" />
+        </entry>
+</feed>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>I Os on Ukmac.net</title>
+            <link href="http://localhost/tags/iOS/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/iOS/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/iOS/</id>
+        <entry>
+            <title>CarPlay in iOS 13</title>
+            <link href="http://localhost/posts/2019-08-25-carplay-in-ios-13/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-08-25-carplay-in-ios-13/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.macstories.net/stories/carplay-in-ios-13-a-big-leap-forward&#34;
+&gt;CarPlay in iOS 13 is a huge upgrade&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Having recently upgraded to beta 7 of iOS 13 I have to say the single biggest improvement for me is CarPlay.&lt;/p&gt;
+&lt;p&gt;Thanks Apple !&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" /> 
+                                <category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone" />
+        </entry>
+        <entry>
+            <title>Copied - Sync your clipboard for iOS and OS X</title>
+            <link href="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied&lt;/a&gt; has recently become one of my favourite apps for iOS and OS X. It is a slick and useful clipboard manager that makes cut/copy and paste on iPhone,iPad and Mac much more useful and when combined with multiple devices introduces a new capability that was previously only possible by emailing or Messaging between devices. That feature is the ability to copy something on one device then jump over to another and paste that data on another device !&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+&lt;p&gt;The
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;iOS version&lt;/a&gt; has a free to use version that allows you to save up to 10 entries into the clipboard and to recall any of these to paste into another app. The entries can be free text, images and links and importantly can be edited after being captured into the clipboard.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;in-use-on-ios&#34;&gt;
+        In Use on iOS
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor In Use on iOS&#34; href=&#34;#in-use-on-ios&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Pasting an existing entry from the clipboard can be done in a number of ways. Firstly you can load the app and scroll through the list of entries to find the one you want. Once located tap on the entry and it opens in an editor where ( if the entry is text ) you can edit the contents of the clipboard if required. From here you also have a standard iOS Share button which allows you to send the entry to  a suitable app as a new item ( document/tweet/Message etc ).&lt;/p&gt;
+&lt;p&gt;Alternatively you can click on the three dots icon to either copy the entry into the current clipboard ( so you can paste it into another app/document ), Share using a template or Transform the text if applicable. Transforming text gives options to convert to upper/lower/title case, removing whitespace etc.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/copiedv2.gif&#34;
+  alt=&#34;copiedv2&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied-keyboard&#34;&gt;
+        Copied Keyboard
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied Keyboard&#34; href=&#34;#copied-keyboard&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;The other method for accessing clipboard entries is through the Copied keyboard. This is accessed in the same way as other third party iOS keyboards by tapping the globe key on the standard keyboard to cycle through any additional keyboards you have installed. The keyboard replaces the normal keys with a grid of clipboard entries which you can scroll through ( sideways ) to find the entry you wish to paste into your document or text. Just tap the entry to paste the data at the cursor. Simple.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied&#34;&gt;
+        Copied+
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied&amp;#43;&#34; href=&#34;#copied&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;For a small in-app purchase ( £1.49 in UK ) the basic free version can be upgraded to Copied+ which increases the clipboard size to 1,000 items and also includes the ability to organise clippings into Lists for better organisation. For example I have is a list of clippings for my address, mobile phone number etc which I can then use to quickly enter these into web forms.
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied+&lt;/a&gt; also enables iCloud sync of the clipboard between devices as mentioned at the beginning of this review.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied-for-mac&#34;&gt;
+        Copied for Mac
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied for Mac&#34; href=&#34;#copied-for-mac&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;The synchronisation doesn&amp;rsquo;t end with iOS though, when used in conjunction with the OS X version of the app data can be easily transferred between Mac and iPhone/iPad in just the same way. This is an incredibly useful feature and one that would really fit into the core operating system on these devices if Apple ever saw fit to develop this, however for now
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied&lt;/a&gt; fills this space very nicely. It should be said that the OS X version of the app is £5.99 which isn&amp;rsquo;t free and there are other apps that provide similar features, but in my experience using Copied is a smooth and effective way of improving the way in which I can transfer data between apps on my iPhone and also between iPhone and Mac and I believe the overall benefit is worth the small outlay.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied for iOS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1026349850?mt=12&amp;amp;at=1000lbQg&#34;
+&gt;Copied for OS X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://copiedapp.com&#34;
+&gt;Copied Web Site&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Game of the day - 2 Cars</title>
+            <link href="http://localhost/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-04-game-day-2-cars/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One of my favourite quick-fix games at the moment is
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/2-cars/id936839198?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;2 Cars from Ketchapp&lt;/a&gt;. It is a very simple top to bottom scroller where the objective is to steer your
+&lt;strong&gt;2 Cars&lt;/strong&gt;
+around the oncoming square blocks whilst at the same time intercepting the round blocks. Any collision with a square block ends the game. Any round block missed also ends the game. Each car can drive in one of two lanes and the only control is to tap the screen on the right to move the right hand car to the alternate lane and the screen on the left to move the left hand car.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/2cars-screen-169x300.png&#34;
+  alt=&#34;2cars-screen&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Sounds simple doesn&amp;rsquo;t it ? Well give it a try and see how far you get, I can pretty much guarantee it will take you quite a few goes before you progress to double digit scores and after that progression is likely to be slow as the speed of the oncoming blocks increases pretty quickly once you get into the 40-50 score bracket.&lt;/p&gt;
+&lt;p&gt;An enjoyable game for passing a few minutes !&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>How to add an item to specific Reminders list AND set a reminder time? - Ask Different</title>
+            <link href="http://localhost/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Siri: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
+— Read on
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&#34;
+&gt;apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Microsoft to release curved keyboard for iOS</title>
+            <link href="http://localhost/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Ars technica has this
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://arstechnica.com/apple/2016/01/microsofts-clever-curved-keyboard-for-ios-looks-very-smart/&#34;
+&gt;interesting article&lt;/a&gt; about a planned new keyboard from Microsoft that will potentially make one handed typing on larger iPhones more practical.&lt;/p&gt;
+&lt;p&gt;Looks promising and seems to be yet another sign that the Microsoft of old is long gone and has been replaced by a very different animal&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://cdn.arstechnica.net/wp-content/uploads/2016/01/ioswordflow-22.0.0.jpg&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" /> 
+                                <category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone" />
+        </entry>
+        <entry>
+            <title>More Problems with iOS 9.3 ?</title>
+            <link href="http://localhost/posts/2016-03-27-problems-ios-9-3/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-03-27-problems-ios-9-3/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;It seems the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.techradar.com/how-to/phone-and-communications/mobile-phones/ios-9-3-problems-here-s-how-to-fix-the-most-common-issues-1317618&#34;
+&gt;recent reported problems&lt;/a&gt; with iOS 9.3 and older iPads isn&amp;rsquo;t the only issue with the latest release.&lt;/p&gt;
+&lt;p&gt;My wife has an iPhone 6 that was working fine until it suddenly stopped being able to open hyperlinks in Safari and Messages&amp;hellip; Oddly when searching in Safari with the browser set to use
+&lt;strong&gt;Google&lt;/strong&gt;
+as the default browser none of the returned links worked when tapping on them. The links simply refused to load. Changing the search engine to
+&lt;strong&gt;DuckDuckGo&lt;/strong&gt;
+also generated faulty links but when trying
+&lt;strong&gt;Bing&lt;/strong&gt;
+the returned result links worked fine !&lt;/p&gt;
+&lt;p&gt;Further testing with web links sent to Messages had the same result and worse, when I tried long pressing the link to bring up the menu to Copy the link the app ( Safari or Messages ) seemed to hang requiring it to be force quit. My initial search for solutions to this problem were unsuccessful as most of the returned links referred to similar issues reported a couple of years ago in previous iOS releases, so I
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://twitter.com/ukmac/status/714063636856180739&#34;
+&gt;threw this question out&lt;/a&gt; to the Twitterverse for assistance.
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://themacfixer.co.uk&#34;
+&gt;@theMacFixer&lt;/a&gt; helpfully replied advising the only fix currently seemed to be a complete reset of the affected device, so I tried a quick
+Reset All Settings which didn&amp;rsquo;t resolve the issue, followed by the more drastic
+Erase All Content And Settings which did the trick !&lt;/p&gt;
+&lt;p&gt;Obviously if you are affected by this issue and decide to do a complete Erase make sure you have all your settings and passwords available beforehand as you will need to setup accounts and applications from scratch afterwards ( don&amp;rsquo;t try restoring old backups because you will most likely just restore the problem ).&lt;/p&gt;
+&lt;p&gt;Hopefully not too many others are affected by this glitch and Apple get it sorted in the next update&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title>
+            <link href="http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Near Lock&lt;/a&gt; is a new pair of apps for iOS and OS X that allows you to unlock your Mac with your iPhone or Apple Watch. Once installed and configured the app can be configured to lock or unlock your Mac as soon as it detects the presence of your iPhone. The sensitivity of the detection can be adjusted from as little as 1m to as much as 10m so you can optimise the point at which it locks or unlocks your Mac according to your requirements.&lt;/p&gt;
+&lt;p&gt;The app works with recent iPhones and Macs that support Bluetooth LE and as a result can be left switched on all the time without it causing a significant drain on iPhone batteries. Furthermore the currently free in app upgrade to the Pro version on iOS allows the app to work even when in the background so there is no need to unlock your iPhone or run an app to unlock your Mac. If you are worried that just being able to walk up to your Mac with your iPhone is a little insecure ( think someone gets your phone and can unlock and access your Mac ) then the iOS app can be setup to require Touch ID authentication before it will unlock which is a nice but still convenient way of accessing your Mac.&lt;/p&gt;
+&lt;p&gt;Wonderful stuff&amp;hellip; Get it now while it is free !&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Web Site :
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://nearlock.me&#34;
+&gt;Near Lock&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" /> 
+                                <category scheme="http://localhost/tags/Security" term="Security" label="Security" />
+        </entry>
+        <entry>
+            <title>Swapping Between Hardware and On Screen Keyboards on iOS</title>
+            <link href="http://localhost/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;I recently bought the excellent
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.amazon.co.uk/gp/product/B013SL1YXO/ref=as_li_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=6738&amp;amp;creativeASIN=B013SL1YXO&amp;amp;linkCode=as2&amp;amp;tag=muxtoncom-21&#34;
+&gt;Logitech K380 Multi-Device Bluetooth Keyboard&lt;/a&gt;&lt;img
+  src=&#34;http://ir-uk.amazon-adsystem.com/e/ir?t=muxtoncom-21&amp;amp;l=as2&amp;amp;o=2&amp;amp;a=B013SL1YXO&#34;
+  alt=&#34;&#34;
+  
+/&gt; to share between my iPad, Work laptop and iPhone. It&amp;rsquo;s a great little keyboard, light enough to carry around with a decent layout and spacing that suits my typing style well ( your mileage may vary ). There are however times that I need to switch to the on screen iOS keyboard, typing emojis for example, and I recently discovered this quick tip to bring up the iOS keyboard.&lt;/p&gt;
+&lt;p&gt;All you need to do is double tap on a text field and the on screen keyboard will pop smoothly into view. Once you have completed using it just hit any key on your Bluetooth keyboard and the hardware device will take control again and the on screen keyboard will slide out of the way.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Testing Obsidian/Working Copy on iPad</title>
+            <link href="http://localhost/posts/2021-08-14-testing-obsidian/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2021-08-14-testing-obsidian/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;So this post was written in &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://obsidian.md&#34;
+&gt;Obsidian&lt;/a&gt; on my iPad and synced to GitHub Pages by &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://workingcopy.app/&#34;
+&gt;Working Copy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A few weeks ago I happened across a previously owned Apple Magic Keyboard for iPad 12.9&amp;quot; on Amazon at a big discount. I have tried to justify £350 for a keyboard since I bought the 12.9&amp;quot; iPad Pro but just couldn&amp;rsquo;t find a compelling enough reason but when I saw this one I figured I would take a punt and if it was no good I could always return it. Well that was a while back now and I am still a happy Magic Keyboard owner. It really does make the iPad Pro into a  powerhouse portable device. The keyboard is great and the trackpad works as you would expect from an Apple device, smooth and slick.&lt;/p&gt;
+&lt;p&gt;I am pretty much only using the iPad when not at my desk now, even though I also have the amazing M1 MacBook Air ( lucky me eh ? ) and now Obsidian is out on iPad I have decided to try to use it on the iPad for updating this blog. To do this does require something to sync to GitHub and this is where WorkingCopy comes in.&lt;/p&gt;
+&lt;p&gt;Working Copy is a full git client for iOS and at £17.99 is not a cheap app but it seems to be the only real option for this sort of workflow and is an established solution so if you have a need for git on iPad its a bit of a no-brainer.&lt;/p&gt;
+&lt;p&gt;Anyway, this is my first post using this setup and it worked first time which is great. Maybe I will finally start posting here a bit more ( how many times have I written that ? )&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>TextExpander Alternatives for Disgruntled Smile Customers</title>
+            <link href="http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Over the last couple of days there has been a lot written about the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://smilesoftware.com/&#34;
+&gt;Smile Software&lt;/a&gt; decision to move to a subscription model for version 6 of
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt;more, their popular text snippet app for OS X and iOS. Most of the words have understandably been pretty negative with users feeling that the change is purely a money grab by Smile. Obviously the economics of making a niche product like
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt; pay its way are not simple and I really don&amp;rsquo;t know if the change was actually an unavoidable option, but regardless of the reasons behind the decision it is fairly clear that a fair number of Smiles previous customers will be thinking twice about the upgrade and looking at alternative options.&lt;/p&gt;
+&lt;p&gt;There are a few alternatives to
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt; and one of the main ones,
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.ergonis.com/products/typinator/&#34;
+&gt;Typinator&lt;/a&gt; from
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.ergonis.com&#34;
+&gt;Ergonis&lt;/a&gt; are
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://store.ergonis.com/products/typinator/?cp=TE1604W&#34;
+&gt;offering a discount&lt;/a&gt; to existing TextExpander users to move to their product during April.&lt;/p&gt;
+&lt;p&gt;The app is normally EUR 24.99 for a single user or EUR 37.99 for a family pack so the reduction makes it EUR 18.75 and EUR 28.50 respectively. To access the offer
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://store.ergonis.com/products/typinator/?cp=TE1604W&#34;
+&gt;go to this link&lt;/a&gt; before the end of the month.&lt;/p&gt;
+&lt;p&gt;If you are not happy spending this much on an alternative then a cheaper option is
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.trankynam.com/atext/&#34;
+&gt;aText&lt;/a&gt; at just $4.99.###UPDATE:&lt;/p&gt;
+&lt;p&gt;So it seems that the reasoning that Smile have given for the decision is based on the sharing features added in the updated version of TextExpander. They state
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://smilesoftware.com/blog/entry/textexpander-release-follow-up&#34;
+&gt;on this page&lt;/a&gt; that the iCloud/Dropbox services would not allow them to implement the Group Sharing features that are the key new element of TextExpander.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Group sharing in the new TextExpander is quite different than syncing via Dropbox or iCloud. Sharing, as it stands, couldn’t work using either sync service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+</feed>

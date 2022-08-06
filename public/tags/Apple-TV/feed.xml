@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Apple Tv on Ukmac.net</title>
+            <link href="http://localhost/tags/Apple-TV/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Apple-TV/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Apple-TV/</id>
+        <entry>
+            <title>Amazon Removes Apple TV From Store</title>
+            <link href="http://localhost/posts/2015-10-30-amazon-removes-apple-tv-from-store/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-10-30-amazon-removes-apple-tv-from-store/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;It seems that Amazon was serious with recent threats to pull ads for media streaming devices that don&amp;rsquo;t support their own
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.amazon.co.uk/Instant-Video/b/ref=nav_shopall_aiv?ie=UTF8&amp;amp;node=3010085031&#34;
+&gt;Prime Video&lt;/a&gt; service from the Amazon Store as today they have removed both
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/tv/&#34;
+&gt;Apple TV&lt;/a&gt; and Chromecast devices.&lt;/p&gt;
+&lt;p&gt;Searches for
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/tv/&#34;
+&gt;Apple TV&lt;/a&gt; on Amazon now list only Amazon&amp;rsquo;s own
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.amazon.co.uk/gp/product/B00UH2O6T2/ref=topnav_storetab_kin_ftv&#34;
+&gt;Fire TV&lt;/a&gt; plus devices such as the Roku which already provide access to the Prime Video service. Amazon have released the following statement in response to questions about this change.&amp;gt;&amp;ldquo;It&amp;rsquo;s important that the streaming media players we sell interact well with
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.amazon.co.uk/Instant-Video/b/ref=nav_shopall_aiv?ie=UTF8&amp;amp;node=3010085031&#34;
+&gt;Prime Video&lt;/a&gt; in order to avoid customer confusion.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;It seems somewhat coincidental that this should happen on the first day that the new Apple TV is available to buy in stores.&lt;/p&gt;
+&lt;p&gt;Apples requirement for a share of the revenues from subscription services accessed by their devices has been an issue in the past and it may be that this is a play by Amazon to try to force a better deal from Apple. It will certainly be interesting to see how this plays out and what the response from Apple and Google is to this.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apple-TV" term="Apple-TV" label="Apple TV" />
+        </entry>
+        <entry>
+            <title>Apple TV Updated - Search Apple Music with Siri</title>
+            <link href="http://localhost/posts/2015-12-09-apple-tv-updated-search-apple-music-with-siri/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-12-09-apple-tv-updated-search-apple-music-with-siri/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One of the big missing features of the new Apple TV was the inability to play music from Apple Music using Siri. Clearly Apple held this back for good reason when the new device launched a few weeks ago but thankfully they have plugged the gap today with a new tvOS update that allows you to search for music by Siri.&lt;/p&gt;
+&lt;p&gt;The new update also fixes the other glaring omission of the iPhone Remote App not working with the new Apple TV.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apple-Music" term="Apple-Music" label="Apple Music" /> 
+                                <category scheme="http://localhost/tags/Apple-TV" term="Apple-TV" label="Apple TV" />
+        </entry>
+        <entry>
+            <title>New Apple TV Starts Shipping Next Week</title>
+            <link href="http://localhost/posts/2015-10-20-new-apple-tv-starts-shipping-next-week/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-10-20-new-apple-tv-starts-shipping-next-week/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;The new
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.apple.com/tv&#34;
+&gt;Apple TV&lt;/a&gt; announced at last months iPhone and iPad Pro event is due to start shipping next week. UK pricing is still not available on the Apple site so this may mean that availability is going to be limited to the US at first.&lt;/p&gt;
+&lt;p&gt;Price in the US will be $149 for the 32GB version and $199 for the 64GB version.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apple-TV" term="Apple-TV" label="Apple TV" />
+        </entry>
+</feed>

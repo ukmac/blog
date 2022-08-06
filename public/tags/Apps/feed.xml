@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Apps on Ukmac.net</title>
+            <link href="http://localhost/tags/Apps/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/Apps/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/Apps/</id>
+        <entry>
+            <title>Capture Animated GIFs using free GifGrabber</title>
+            <link href="http://localhost/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;GifGrabber is a free utility available from the App Store that lets you easily create animated GIFs by capturing a user definable area of the screen. It is the perfect tool for creating a snip of your favourite movie or video clip or recording a quick screen cast to send to friends or colleagues to demonstrate how to do something on your Mac.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" />
+        </entry>
+        <entry>
+            <title>Copied - Sync your clipboard for iOS and OS X</title>
+            <link href="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied&lt;/a&gt; has recently become one of my favourite apps for iOS and OS X. It is a slick and useful clipboard manager that makes cut/copy and paste on iPhone,iPad and Mac much more useful and when combined with multiple devices introduces a new capability that was previously only possible by emailing or Messaging between devices. That feature is the ability to copy something on one device then jump over to another and paste that data on another device !&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+&lt;p&gt;The
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;iOS version&lt;/a&gt; has a free to use version that allows you to save up to 10 entries into the clipboard and to recall any of these to paste into another app. The entries can be free text, images and links and importantly can be edited after being captured into the clipboard.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;in-use-on-ios&#34;&gt;
+        In Use on iOS
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor In Use on iOS&#34; href=&#34;#in-use-on-ios&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;Pasting an existing entry from the clipboard can be done in a number of ways. Firstly you can load the app and scroll through the list of entries to find the one you want. Once located tap on the entry and it opens in an editor where ( if the entry is text ) you can edit the contents of the clipboard if required. From here you also have a standard iOS Share button which allows you to send the entry to  a suitable app as a new item ( document/tweet/Message etc ).&lt;/p&gt;
+&lt;p&gt;Alternatively you can click on the three dots icon to either copy the entry into the current clipboard ( so you can paste it into another app/document ), Share using a template or Transform the text if applicable. Transforming text gives options to convert to upper/lower/title case, removing whitespace etc.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/copiedv2.gif&#34;
+  alt=&#34;copiedv2&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied-keyboard&#34;&gt;
+        Copied Keyboard
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied Keyboard&#34; href=&#34;#copied-keyboard&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;The other method for accessing clipboard entries is through the Copied keyboard. This is accessed in the same way as other third party iOS keyboards by tapping the globe key on the standard keyboard to cycle through any additional keyboards you have installed. The keyboard replaces the normal keys with a grid of clipboard entries which you can scroll through ( sideways ) to find the entry you wish to paste into your document or text. Just tap the entry to paste the data at the cursor. Simple.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied&#34;&gt;
+        Copied+
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied&amp;#43;&#34; href=&#34;#copied&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;For a small in-app purchase ( £1.49 in UK ) the basic free version can be upgraded to Copied+ which increases the clipboard size to 1,000 items and also includes the ability to organise clippings into Lists for better organisation. For example I have is a list of clippings for my address, mobile phone number etc which I can then use to quickly enter these into web forms.
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied+&lt;/a&gt; also enables iCloud sync of the clipboard between devices as mentioned at the beginning of this review.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;copied-for-mac&#34;&gt;
+        Copied for Mac
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Copied for Mac&#34; href=&#34;#copied-for-mac&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;The synchronisation doesn&amp;rsquo;t end with iOS though, when used in conjunction with the OS X version of the app data can be easily transferred between Mac and iPhone/iPad in just the same way. This is an incredibly useful feature and one that would really fit into the core operating system on these devices if Apple ever saw fit to develop this, however for now
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied&lt;/a&gt; fills this space very nicely. It should be said that the OS X version of the app is £5.99 which isn&amp;rsquo;t free and there are other apps that provide similar features, but in my experience using Copied is a smooth and effective way of improving the way in which I can transfer data between apps on my iPhone and also between iPhone and Mac and I believe the overall benefit is worth the small outlay.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Copied for iOS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1026349850?mt=12&amp;amp;at=1000lbQg&#34;
+&gt;Copied for OS X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://copiedapp.com&#34;
+&gt;Copied Web Site&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Daily Post - 2/7/2021</title>
+            <link href="http://localhost/posts/2021-07-02-daily-post/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2021-07-02-daily-post/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://en.wikipedia.org/wiki/Klaus_Schulze&#34;
+&gt;Klaus Schulze&lt;/a&gt; is one of my regular favourites.&lt;/p&gt;
+&lt;p&gt;This week I managed to get hold of a copy of his &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://en.wikipedia.org/wiki/The_Ultimate_Edition&#34;
+&gt;Ultimate Edition&lt;/a&gt; 50 CD box set in FLAC format that I needed to convert to import into Apple Music for playback. Today I came across a nice conversion tool &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://tmkk.undo.jp/xld/index_e.html&#34;
+&gt;XLD&lt;/a&gt; that I have used to split the single .flac files into seperate Apple Lossless files. If you have flac files with accompanying .cue files XLD will open the cue file and transcode the source file into seperate files quickly and easily. Its a pretty basic application (when you launch it there isn&amp;rsquo;t even a gui interface displayed, just a set of menu options on the menu bar) but is still updated and the latest version even has native Apple Silicon support. There is also a command line version of the app for those who prefer to work in a terminal window.&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;daily-links&#34;&gt;
+        Daily Links
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2021-07-02-daily-post/#daily-links&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Daily Links&#34; href=&#34;#daily-links&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://tmkk.undo.jp/xld/index_e.html&#34;
+&gt;XLD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;X Lossless Decoder (XLD) is a simple tool for Macs to decode/convert/play lossless audio files. GUI and CLI tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://readme.so/editor&#34;
+&gt;readme.so&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Readme.so is a very simple web site for creating readme.md files quickly and easily. A generic version of this site with user definable blocks would be a great way of creating standard template documents of all sorts.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://pandoc.org&#34;
+&gt;pandoc&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Want to convert a markup file to a different format ? Pandoc is your tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post" /> 
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Apple-Music" term="Apple-Music" label="Apple Music" />
+        </entry>
+        <entry>
+            <title>Facebook App Draining iPhone Batteries</title>
+            <link href="http://localhost/posts/2015-10-20-facebook-app-draining-iphone-batteries/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-10-20-facebook-app-draining-iphone-batteries/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;According to
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://techcrunch.com/2015/10/15/facebook-working-on-fix-for-ios-app-battery-drain-issue/&#34;
+&gt;this article&lt;/a&gt;on TechCrunch Facebook have confirmed that they are aware of a problem with their iOS app causing excessive battery drain even when the app has background refresh disabled.&lt;/p&gt;
+&lt;p&gt;If you are experiencing issues with decreased battery life recently and have the Facebook app installed you could try deleting the app and using Safari to access the site until a fix is released.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone" />
+        </entry>
+        <entry>
+            <title>Fresh Background Wallpapers for your Mac</title>
+            <link href="http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://arkanath.com/FreshBackMac/&#34;
+&gt;FreshBackMac&lt;/a&gt; is a small utility written by Arkanath Pathak, a Computer Science student from eastern India, that refreshes your Mac desktop wallpaper at regular intervals using images from some of the best photo sites on the Internet.&lt;/p&gt;
+&lt;p&gt;You can choose from a range of categories such as Animals, Nature, Technology, Paintings and more and can set the refresh rate from as little as 2 minutes to 12 hours.&lt;/p&gt;
+&lt;p&gt;If you would like a fresh look to your Mac without the effort of searching for new images and setting up as desktop backgrounds this is the app for you.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Pictures" term="Pictures" label="Pictures" />
+        </entry>
+        <entry>
+            <title>Game of the day - 2 Cars</title>
+            <link href="http://localhost/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-04-game-day-2-cars/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One of my favourite quick-fix games at the moment is
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/2-cars/id936839198?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;2 Cars from Ketchapp&lt;/a&gt;. It is a very simple top to bottom scroller where the objective is to steer your
+&lt;strong&gt;2 Cars&lt;/strong&gt;
+around the oncoming square blocks whilst at the same time intercepting the round blocks. Any collision with a square block ends the game. Any round block missed also ends the game. Each car can drive in one of two lanes and the only control is to tap the screen on the right to move the right hand car to the alternate lane and the screen on the left to move the left hand car.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/2cars-screen-169x300.png&#34;
+  alt=&#34;2cars-screen&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Sounds simple doesn&amp;rsquo;t it ? Well give it a try and see how far you get, I can pretty much guarantee it will take you quite a few goes before you progress to double digit scores and after that progression is likely to be slow as the speed of the oncoming blocks increases pretty quickly once you get into the 40-50 score bracket.&lt;/p&gt;
+&lt;p&gt;An enjoyable game for passing a few minutes !&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Hidden Bar - menu bar management for macOS</title>
+            <link href="http://localhost/posts/2020-12-27-hidden-bar/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2020-12-27-hidden-bar/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Mac menu bar utiities are great for quick access to apps that perform simple tasks and that don&amp;rsquo;t need to sit in the dock or occupy space on your desktop however they do tend to proliferate and before you know it the list of little icons at the top right of your menu bar can get out of control.&lt;/p&gt;
+&lt;p&gt;There are a couple of utilities that aim to help with this. &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12&#34;
+&gt;Hidden Bar&lt;/a&gt; is a simple and free to download app that allows you to quickly hide menu bar icons that you don&amp;rsquo;t want on the screen all the time but still want access to. &lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.macbartender.com/&#34;
+&gt;Bartender&lt;/a&gt; is a pay-for app (currently $15) that goes quite a bit further in features but for my money (ahem) the free Hidden Bar app hits the spot. Worth a look.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>How do you backup your digital data ?</title>
+            <link href="http://localhost/posts/2015-07-26-how-do-you-backup-your-digital-data/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-07-26-how-do-you-backup-your-digital-data/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Unless you have a background in IT the chances are that the only time you have ever considered backups of your information was just after you found out you had lost something precious ? Perhaps it was a bunch of irretrievable photos lost when your hard drive suddenly and inexplicably died ? Or maybe it was your lifetimes collection of music or movies, carefully downloaded and collated onto that 4TB external hard drive connected to your desktop computer that you hadn&amp;rsquo;t noticed had been accidentally deleted ?&lt;/p&gt;
+&lt;p&gt;Whichever it was, when the day arrives and you suffer that unrecoverable data loss the chances are you will be asking yourself why you hadn&amp;rsquo;t taken the time to backup to another disk.&lt;/p&gt;
+&lt;p&gt;My preferred and recommended backup solution is an online service called
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://backblaze.com&#34;
+&gt;Backblaze&lt;/a&gt;. Backblaze is cheap ( as little as $5 a month ), reliable and easy to setup and better yet, once configured you can forget it is there and relax in the knowledge that should the worst happen your data is safe and easily retrieved.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link--raw&#34;
+  href=&#34;https://secure.backblaze.com/r/00isdf&#34;
+&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2015/07/backblaze-trial-300x250.gif&#34;
+  alt=&#34;backblaze trial&#34;
+  
+/&gt;&lt;/a&gt;Unlike most Internet file storage solutions (
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;www.dropbox.com&#34;
+&gt;Dropbox&lt;/a&gt;,
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;onedrive.com&#34;
+&gt;OneDrive&lt;/a&gt; etc ) the cost for Backblaze is the same whether you are backing up 100MB or 20TB ! The only difference will be the amount of time it takes to complete the initial backup, something that is getting easier as home broadband speeds steadily increase. This initial &amp;ldquo;seeding&amp;rdquo; of your backup may take some weeks to complete but it happens in the background and is carefully controlled by the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;www.backblaze.com&#34;
+&gt;Backblaze&lt;/a&gt; software to not interfere with your Internet access too much. Once the first backup is complete the software then only has to update the backup when anything changes to your local data, again a process that happens in the background without manual intervention.&lt;/p&gt;
+&lt;p&gt;Backblaze will backup any of your hard drives, not just the internal drive in your PC or Mac. Just plugin your external USB drives, configure the application settings and wait for the data to be secured. One thing to note here though is that if you do this Backblaze needs to &amp;ldquo;see&amp;rdquo; that drive at least once every 30 days or it will assume the data does not need to be retained and will delete it.&lt;/p&gt;
+&lt;p&gt;Obviously paying for backup services is not sexy, it doesn&amp;rsquo;t really give you anything other than piece of mind, but it is something that everyone who has any amount of data in digital form should consider putting in place.&lt;/p&gt;
+&lt;p&gt;If you would like to try out Backblaze you can sign up for a
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://secure.backblaze.com/r/00isdf&#34;
+&gt;months free trial by clicking on this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This post is not sponsored by Backblaze it is purely my personal choice of backup service and something that I recommend to friends and relatives when the subject arises. Please try it out, you may thank me one day !&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" />
+        </entry>
+        <entry>
+            <title>How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?</title>
+            <link href="http://localhost/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Sam Soffes released a small app onto the Mac App Store this week and was shocked to find it quickly elevated into the top grossing apps list, so you can imagine his shock when he checked how much he had made the next day and found he had made only $302 on sales of 92 units !&lt;/p&gt;
+&lt;p&gt;Read his article here for the full details.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://blog.soff.es/redacted-for-mac-launch/&#34;
+&gt;Redacted for Mac Launch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What I find strange about this article is the fact that he has 538 votes on 
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.producthunt.com/posts/redacted-2&#34;
+&gt;Producthunt.com&lt;/a&gt;. Presumably these people are voting for an app they haven&amp;rsquo;t actually used ?&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>How to Access Magazines on Zinio for Free</title>
+            <link href="http://localhost/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;In the days before the Internet I was a regular magazine subscriber and the shelves in my home office used to groan under the weight of all those glossy pages. My magazine buying days have long since gone, replaced by a diet of online news delivered first by USENET followed by online forums, web sites and most recently RSS feeds read through services like
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://feedly.com&#34;
+&gt;Feedly.com&lt;/a&gt; or apps like
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://flipboard.com&#34;
+&gt;Flipboard&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Earlier this year I started a volunteer role at my local library to show local residents how to use the library computers or if they prefer their own devices to get more out of the Internet and PC and tablet applications. It was during my familiarisation with the library services on their web site that I came across
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.telford.gov.uk/info/1012/libraries/668/emagazines&#34;
+&gt;this page&lt;/a&gt; ! Basically library members can register for FREE to access a range of magazines through the popular service 
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://zinio.com&#34;
+&gt;Zinio.com&lt;/a&gt;. Zinio has been around for a long time and I had looked at the magazines available through the service over the years, in fact before I spotted the library link I had been debating subscribing to National Geographic for cash ! So glad I didn&amp;rsquo;t now as the Nat Geo is one of the magazines available through the Telford library service for free.&lt;/p&gt;
+&lt;p&gt;All that is needed to take advantage of the deal is a library membership card ( available for free to local residents ). Once you are a member you can register through the link on the library web site which gives you access to select from the range of magazines that the library make available ( currently 31 titles at Telford ) and download to your tablet/desktop Zinio reader app or to read online through the Zinio web site.&lt;/p&gt;
+&lt;p&gt;Since signing up for this service I have spoken with a variety of friends and work colleagues and told them how I can access magazines online for free. When we have looked at the services available from their local libraries ( Birmingham, Wolverhampton, Walsall etc ) we have discovered that they also offer the same sort of service. In fact most of them have a wider range of magazine titles available than my library in Telford !&lt;/p&gt;
+&lt;p&gt;If you would like to subscribe to this service head over to your local library web site and do a search for Zinio, I am betting that you will find there is a free service available to you that you didn&amp;rsquo;t know was there !&lt;/p&gt;
+&lt;p&gt;Enjoy,&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" />
+        </entry>
+        <entry>
+            <title>ImageOptim - An Excellent Free Image Compressor for Mac</title>
+            <link href="http://localhost/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://imageoptim.com&#34;
+&gt;ImageOptim&lt;/a&gt; is a small free utility for Mac OS X that does one thing well. It compresses image files but without reducing image quality. On test files I have found that compression rates vary between a few percent up to over 50% and the resulting images look exactly the same.&lt;/p&gt;
+&lt;p&gt;ImageOptim is only available through the developers web site and NOT the App Store (although the author does note that copies have been sold through the app store so buyer beware).&lt;/p&gt;
+&lt;p&gt;If you are looking for a quick convenient app to reduce image file sizes without sacrificing original image quality ImageOptim is a recommended download.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>Infinite Loop - Lovely Relaxing Game for iOS</title>
+            <link href="http://localhost/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://loopgame.co&#34;
+&gt;Infinite Loop&lt;/a&gt; is my latest go to iPhone game for instant gratification or the gamers equivalent of meditation. Jonas Lekevicious has created a beautiful puzzle game that requires no instructions and is suitable for young and old. Whats more he has created an
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://itunes.apple.com/us/app/infinite-loop/id977028266?mt=8&#34;
+&gt;iPhone&lt;/a&gt; and
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://play.google.com/store/apps/details?id=com.balysv.loop&#34;
+&gt;Android&lt;/a&gt; version so everyone can play.&lt;/p&gt;
+&lt;p&gt;Grab it now its free to play.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>Itsycal for OS X - Minimal Calendar Utility</title>
+            <link href="http://localhost/posts/2016-02-14-266/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-02-14-266/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.mowglii.com/itsycal/&#34;
+&gt;Itsycal&lt;/a&gt; is a tiny menu bar application for OS X that gives rapid access to a pop up view of the current month of the calendar.&lt;/p&gt;
+&lt;p&gt;Just click the menu bar icon (the current date by default) and a compact view of the current month is displayed. This is really handy  when you want to work out what day a particular date falls on for example. In addition you can configure it to show events from the next few days of your calendar rather than launching the Mac calendar app.&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/02/itsycal.png&#34;
+  alt=&#34;&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;One of my favourite little time saver apps.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>Monosnap - Free Screen Capture for Images and Video</title>
+            <link href="http://localhost/posts/2016-04-11-mono-snap-free-screen-capture-images-video/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-11-mono-snap-free-screen-capture-images-video/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://monosnap.com/welcome&#34;
+&gt;Monosnap&lt;/a&gt; is a free utility for OS X and Windows that can quickly and easily capture screenshots and save them for editing and annotation, ideal for grabbing images for documentation or publishing to social media streams.
+more The included editing tools are basic but adequate with the usual circles, rectangles, crop, line capability but also and importantly for screen capture a blur tool for obscuring passwords or other areas with sensitive information.&lt;/p&gt;
+&lt;p&gt;Example Screenshot showing editing tools&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/04/Monosnap-2016-04-11-22-29-10.png&#34;
+  alt=&#34;Mono snap example screen capture&#34;
+  
+/&gt;&lt;/p&gt;
+&lt;p&gt;Unlike most of the apps of this type though Monosnap has a power feature for bloggers and potential YouTubers, the ability to record a video of the screen including a lower thirds capture of your webcam to add narration with video to give your video tutorials a personal touch. The area captured can be adjusted to cover just the window or application required or expanded to record the whole screen if required.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://monosnap.com/welcome&#34;
+&gt;Monosnap&lt;/a&gt; supports a variety of options for storing images to a number of cloud storage services including Amazon S3, Dropbox, Box.com but this requires a $4.99 in app purchase. Depending on your needs and workflow this might be something you would find useful but personally I am happy to save to my desktop for subsequent upload to Wordpress and don&amp;rsquo;t see much benefit in this facility. YMMV.&lt;/p&gt;
+&lt;p&gt;All in though this is a decent app and if you are looking for a way to dip your toes into creating video tutorials its really a no brainer to try out before spending on the more complex and costly solutions such as
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.telestream.net/screenflow/overview.htm&#34;
+&gt;Screenflow&lt;/a&gt; and
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.techsmith.com/camtasia.html&#34;
+&gt;Camtasia&lt;/a&gt;.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" />
+        </entry>
+        <entry>
+            <title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title>
+            <link href="http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Near Lock&lt;/a&gt; is a new pair of apps for iOS and OS X that allows you to unlock your Mac with your iPhone or Apple Watch. Once installed and configured the app can be configured to lock or unlock your Mac as soon as it detects the presence of your iPhone. The sensitivity of the detection can be adjusted from as little as 1m to as much as 10m so you can optimise the point at which it locks or unlocks your Mac according to your requirements.&lt;/p&gt;
+&lt;p&gt;The app works with recent iPhones and Macs that support Bluetooth LE and as a result can be left switched on all the time without it causing a significant drain on iPhone batteries. Furthermore the currently free in app upgrade to the Pro version on iOS allows the app to work even when in the background so there is no need to unlock your iPhone or run an app to unlock your Mac. If you are worried that just being able to walk up to your Mac with your iPhone is a little insecure ( think someone gets your phone and can unlock and access your Mac ) then the iOS app can be setup to require Touch ID authentication before it will unlock which is a nice but still convenient way of accessing your Mac.&lt;/p&gt;
+&lt;p&gt;Wonderful stuff&amp;hellip; Get it now while it is free !&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Web Site :
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://nearlock.me&#34;
+&gt;Near Lock&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" /> 
+                                <category scheme="http://localhost/tags/Security" term="Security" label="Security" />
+        </entry>
+        <entry>
+            <title>Stocard - All your loyalty cards on your iPhone</title>
+            <link href="http://localhost/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;One of my pet peeves is the number of plastic cards I have to carry in my wallet. Most of the time I tend to strip the contents to the essential debit cards that I use all the time but this sometimes means that I miss out on discounts or other benefits by not having a particular stores loyalty card with me.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Stocard&lt;/a&gt; solves this little problem by providing a simple way of importing store loyalty cards into your iPhone allowing you to leave the plastic at home without having to pass up on the discounts or loyalty points. Adding cards is very quick, just search for the store name from the extensive list then scan the card bar code using the iPhone camera and the cards details are captured. Now you can present the bar code on your iPhone to the cashier when making a purchase and they can scan this instead of the plastic. The app can also store card details for shops/companies not listed including adding a photo of the card for easy reference. I have used it to import my library cards for example.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Stocard&lt;/a&gt; do acknowledge that some older scanners aren&amp;rsquo;t able to read the iPhone screen but in these cases the bar code can be entered manually by the cashier.&lt;/p&gt;
+&lt;p&gt;The app is available for iOS and Android and is a free download.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8&#34;
+&gt;&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone" />
+        </entry>
+        <entry>
+            <title>TextExpander Alternatives for Disgruntled Smile Customers</title>
+            <link href="http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;Over the last couple of days there has been a lot written about the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://smilesoftware.com/&#34;
+&gt;Smile Software&lt;/a&gt; decision to move to a subscription model for version 6 of
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt;more, their popular text snippet app for OS X and iOS. Most of the words have understandably been pretty negative with users feeling that the change is purely a money grab by Smile. Obviously the economics of making a niche product like
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt; pay its way are not simple and I really don&amp;rsquo;t know if the change was actually an unavoidable option, but regardless of the reasons behind the decision it is fairly clear that a fair number of Smiles previous customers will be thinking twice about the upgrade and looking at alternative options.&lt;/p&gt;
+&lt;p&gt;There are a few alternatives to
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://textexpander.com/&#34;
+&gt;TextExpander&lt;/a&gt; and one of the main ones,
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.ergonis.com/products/typinator/&#34;
+&gt;Typinator&lt;/a&gt; from
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.ergonis.com&#34;
+&gt;Ergonis&lt;/a&gt; are
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://store.ergonis.com/products/typinator/?cp=TE1604W&#34;
+&gt;offering a discount&lt;/a&gt; to existing TextExpander users to move to their product during April.&lt;/p&gt;
+&lt;p&gt;The app is normally EUR 24.99 for a single user or EUR 37.99 for a family pack so the reduction makes it EUR 18.75 and EUR 28.50 respectively. To access the offer
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://store.ergonis.com/products/typinator/?cp=TE1604W&#34;
+&gt;go to this link&lt;/a&gt; before the end of the month.&lt;/p&gt;
+&lt;p&gt;If you are not happy spending this much on an alternative then a cheaper option is
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://www.trankynam.com/atext/&#34;
+&gt;aText&lt;/a&gt; at just $4.99.###UPDATE:&lt;/p&gt;
+&lt;p&gt;So it seems that the reasoning that Smile have given for the decision is based on the sharing features added in the updated version of TextExpander. They state
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://smilesoftware.com/blog/entry/textexpander-release-follow-up&#34;
+&gt;on this page&lt;/a&gt; that the iCloud/Dropbox services would not allow them to implement the Group Sharing features that are the key new element of TextExpander.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Group sharing in the new TextExpander is quite different than syncing via Dropbox or iCloud. Sharing, as it stands, couldn’t work using either sync service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/iOS" term="iOS" label="iOS" />
+        </entry>
+        <entry>
+            <title>Using Duet Display As A Primary Monitor</title>
+            <link href="http://localhost/posts/2016-01-03-using-duet-display-as-a-primary-monitor/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2016-01-03-using-duet-display-as-a-primary-monitor/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Duet Display&lt;/a&gt; is a slick app developed by ex-Apple employees designed to allow your iPad to function as a second monitor on your laptop or iMac using a lightning or iPad 30 pin cable ( for older iPads ). The application works extremely well with none of the lag or latency in display refresh experienced by some of the alternative apps that use the iPads WiFi connection to transfer screen updates.&lt;/p&gt;
+&lt;p&gt;As the Duet name suggests the intended use for the app is to create an easy to use portable secondary display for MacBook users ( or in fact Windows laptop users as there is a Windows version of the server application as well as one for OS X ) but it isn&amp;rsquo;t limited to this use case. My main use of Duet is as a primary monitor on my Mac Mini media server.&lt;/p&gt;
+&lt;p&gt;I have used my Mac Mini in a headless ( no monitor ) setup for a long time and use Screen Sharing from my MacBook to login and manage it, however it recently struck me that the
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8&amp;amp;at=1000lbQg&#34;
+&gt;Duet Display app&lt;/a&gt;that I had purchased some time ago would be perfect for creating a tiny compact keyboard/monitor setup. Combined with a small bluetooth keyboard from Anker and bluetooth mouse I now have full access to my Mini in a compact little setup that looks pretty slick on the shelf in my study.&lt;/p&gt;
+&lt;p&gt;Duet Display is £7.99 in the UK iOS App store which I admit is probably at the high side of many peoples acceptable budget for an app of this type, however this app is extremely good and provides amazing functionally and performance. For people who travel with a MacBook and iPad the benefit of being able to setup a usable dual monitor setup whilst on the move can be liberating, and for home media servers like mine it can create a slick, compact and usable alternative to a bulky VGA/HDMI monitor.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8&#34;
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_228&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;640&amp;rdquo;]
+&lt;img
+  src=&#34;http://ukmac.net/wp-content/uploads/2016/01/IMG_1173.jpg&#34;
+  alt=&#34;Duet Display&#34;
+  
+/&gt; Duet Display on iPad and Mac Mini[/caption]&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Apps" term="Apps" label="Apps" /> 
+                                <category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips" />
+        </entry>
+</feed>

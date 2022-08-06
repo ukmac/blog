@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <title>Power Apps on Ukmac.net</title>
+            <link href="http://localhost/tags/PowerApps/" rel="alternate" type="text/html" title="HTML" />
+            <link href="http://localhost/tags/PowerApps/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-08-06T21:46:23+01:00</updated>
+    <id>http://localhost/tags/PowerApps/</id>
+        <entry>
+            <title>Add attachments in PowerApps</title>
+            <link href="http://localhost/posts/2019-08-19-add-attachments-in-powerapps/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-08-19-add-attachments-in-powerapps/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;This Microsoft guide explains how to add attachments in a PowerApps form to a Sharepoint list.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://powerapps.microsoft.com/en-us/blog/add-attachments-to-sharepoint-lists/&#34;
+&gt;Add attachments to SharePoint lists&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps" />
+        </entry>
+        <entry>
+            <title>Monday 22 July 2019</title>
+            <link href="http://localhost/posts/2019-07-22-monday-22-july-2019/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-07-22-monday-22-july-2019/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;##&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://ukmac.net/category/microsoft/powerapps/&#34;
+&gt;PowerApps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Continuing to dabble with PowerApps.&lt;/p&gt;
+&lt;p&gt;*&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.spsimply.com/home/powerapps-submit-multiple-forms-at-once&#34;
+&gt;PowerApps: Submit multiple forms at the same time — SharePoint Simply&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;##&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;http://ukmac.net/category/microsoft/teams/&#34;
+&gt;Teams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Just discovered that you can change individual folder permissions in Sharepoint Groups Document Library using the Manage Access panel. I had been under the impression that to make changes like this you needed to drop into the Advanced Permissions settings ( something that most of the users in my organisation would not cope with easily ).&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://support.office.com/en-us/article/Use-folders-to-create-read-only-files-for-students-or-other-team-members-0e7791d7-8c9c-4749-9bca-984289477988&#34;
+&gt;This Microsoft article shows how to do it&lt;/a&gt;. I will definitely be making use of this now I know about it, and helping my users to use it too.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps" />
+        </entry>
+        <entry>
+            <title>Powershell connection from MFA Account</title>
+            <link href="http://localhost/posts/2019-07-31-wednesday-31-july-2019/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-07-31-wednesday-31-july-2019/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.&lt;/p&gt;
+&lt;p&gt;Interestingly when I tried this today if I ran Connect-EXOPSSesion with parameter for my UPN it didn&amp;rsquo;t seem to work. If instead just ran the command with no parameters the standard login dialog appeared fine and I could enter my email address and authenticate with my Authenticator app ! Odd one&amp;hellip;&lt;/p&gt;
+&lt;p&gt;via
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell?view=exchange-ps&#34;
+&gt;Connect to Exchange Online PowerShell using multi-factor authentication | Microsoft Docs&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
+    &lt;h2 id=&#34;powerapps&#34;&gt;
+        PowerApps
+        &lt;a data-clipboard-text=&#34;http://localhost/posts/2019-07-31-wednesday-31-july-2019/#powerapps&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor PowerApps&#34; href=&#34;#powerapps&#34;&gt;
+            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+    &lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;I definitely need to come back to this one ! One of the tips here is to enable permissions to Sharepoint lists for PowerApps. The bit I need for my current project is to enable row level permissions so that users can only see entries they created. Very useful tip..&lt;/p&gt;
+&lt;p&gt;via
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.sharepointeurope.com/3-tips-need-know-using-powerapps-forms-sharepoint-lists/&#34;
+&gt;3 tips you need to know when using PowerApps forms on SharePoint lists - European SharePoint, Office 365 &amp;amp; Azure Conference, 2019, Prague, Czech Republic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ARGHH !&lt;/p&gt;
+&lt;p&gt;So I have created an app that uses the AzureAD connector to find the logged in users account details (Office location) only to find that when deploying this app to actual users ( who aren&amp;rsquo;t Azure AD admins ) it doesn&amp;rsquo;t work ! The user needs admin rights to query AzureAD so the connector is effectively no good for what I want to use it for.. Ah well.. Back to the Drawing board ! See article below for more.&lt;/p&gt;
+&lt;p&gt;via
+&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://powerusers.microsoft.com/t5/Connectors/Issue-with-Azure-AD-Connector/td-p/66322&#34;
+&gt;Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps" /> 
+                                <category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell" />
+        </entry>
+        <entry>
+            <title>Sunday 28 July 2019</title>
+            <link href="http://localhost/posts/2019-07-28-sunday-28-july-2019/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/2019-07-28-sunday-28-july-2019/</id>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;p&gt;##PowerApps&lt;/p&gt;
+&lt;p&gt;So I am making some progress with learning PowerApps and have the start of a new app for the charity to use. Just came across this resource which will be worth having a look through, a showcase for what others have done with PowerApps&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://powerusers.microsoft.com/t5/Community-Apps-Gallery/bd-p/AppFeedbackGallery&#34;
+&gt;Community Apps Gallery - Power Platform Community&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference&#34;
+&gt;A useful quick link  to the PowerApps function reference on Microsoft Docs&lt;/a&gt;&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps" />
+        </entry>
+</feed>
