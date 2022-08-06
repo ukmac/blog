@@ -1,4 +1,4 @@
-baseURL = "http://ukmac.github.io/blog"
+baseURL = "https://ukmac.github.io/blog"
 title = "Ukmac.net"
 theme = "hugo-geekblog"
 
