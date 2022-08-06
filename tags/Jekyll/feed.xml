@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Jekyll on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/Jekyll/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/Jekyll/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/Jekyll/</id><entry><title>Daily Post - 09/12/2020</title><link href="http://ukmac.github.io/blog/posts/2020-12-09-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-12-09-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Jekyll on Ukmac.net</title><link href="https://ukmac.github.io/blog/tags/Jekyll/" rel="alternate" type="text/html" title="HTML"/><link href="https://ukmac.github.io/blog/tags/Jekyll/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:55+00:00</updated><id>https://ukmac.github.io/blog/tags/Jekyll/</id><entry><title>Daily Post - 09/12/2020</title><link href="https://ukmac.github.io/blog/posts/2020-12-09-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-12-09-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://code.visualstudio.com/"
@@ -13,7 +13,7 @@ href="http://ukmac.net/2020/10/prose.io/"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-09-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="https://ukmac.github.io/blog/posts/2020-12-09-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -51,7 +51,7 @@ href="https://pusherofpedals.com/2020/12/09/christmas-gift-guide/"
 &lt;td>Some gift ideas for the cyclist(s) in your household&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Teams" term="Teams" label="Teams"/><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/><category scheme="http://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Jekyll Go Live Day</title><link href="http://ukmac.github.io/blog/posts/2020-07-20-go-live-day/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-07-20-go-live-day/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="https://ukmac.github.io/blog/tags/Teams" term="Teams" label="Teams"/><category scheme="https://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="https://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/><category scheme="https://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Jekyll Go Live Day</title><link href="https://ukmac.github.io/blog/posts/2020-07-20-go-live-day/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-20-go-live-day/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://ukmac/net"
@@ -68,7 +68,7 @@ class="gblog-markdown__link"
 href="https://pages.github.com"
 >Github Pages&lt;/a> sets up https on my custom domain.&lt;/p>
 &lt;p>My current Wordpress site hosting renewal was due in August so this seemed a sensible time to move the blog over and save myself some money.&lt;/p>
-&lt;p>Cheers&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Minimal Mistakes Blogs</title><link href="http://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Cheers&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Minimal Mistakes Blogs</title><link href="https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Now I have got a barebones Jekyll site running, DNS sorted and old Wordpress posts migrated its time to do a bit of personalisation. Like a lot of Jekyll blogs I have started with the &lt;a
 class="gblog-markdown__link"
 href="https://mmistakes.github.io/minimal-mistakes"
@@ -77,7 +77,7 @@ href="https://mmistakes.github.io/minimal-mistakes"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="how-to-sites">
 How to sites
-&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/#how-to-sites" class="gblog-post__anchor clip flex align-center" aria-label="Anchor How to sites" href="#how-to-sites">
+&lt;a data-clipboard-text="https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/#how-to-sites" class="gblog-post__anchor clip flex align-center" aria-label="Anchor How to sites" href="#how-to-sites">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -103,7 +103,7 @@ href="https://decentralized-id.com/how-to-contribute/website-config-minimal-mist
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="nice-minimal-mistakes-themes">
 Nice Minimal Mistakes Themes
-&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/#nice-minimal-mistakes-themes" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Nice Minimal Mistakes Themes" href="#nice-minimal-mistakes-themes">
+&lt;a data-clipboard-text="https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/#nice-minimal-mistakes-themes" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Nice Minimal Mistakes Themes" href="#nice-minimal-mistakes-themes">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -125,7 +125,7 @@ href="https://solomonvictorino.com/"
 class="gblog-markdown__link"
 href="https://www.justinrummel.com/"
 >Justin Rummel&lt;/a>&lt;/li>
-&lt;/ul></content><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Moving to Jekyll!</title><link href="http://ukmac.github.io/blog/posts/2020-07-19-moving-to-jekyll/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-07-19-moving-to-jekyll/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/ul></content><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Moving to Jekyll!</title><link href="https://ukmac.github.io/blog/posts/2020-07-19-moving-to-jekyll/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-19-moving-to-jekyll/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>After many years of on and off dabbling with Wordpress blogs I have decided to make the move to &lt;a
 class="gblog-markdown__link"
 href="https://jekyllrb.com/"
@@ -143,7 +143,7 @@ class="gblog-markdown__link"
 href="https://github.com/mmistakes/minimal-mistakes"
 >Minimal Mistakes theme&lt;/a> by Michael Rose. This theme is relatively basic compared to many Wordpress themes but has the functionality I need for this blog while still offering a degree of customisation, which is where I have got to at the moment.&lt;/p>
 &lt;p>So far I am enjoying learning Jekyll and will aim to carry on developing this site, though I can&amp;rsquo;t guarantee I won&amp;rsquo;t get bored with it as I have done many times in the past. We&amp;rsquo;ll have to wait and see.&lt;/p>
-&lt;p>Cheers&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>RSS Struggles</title><link href="http://ukmac.github.io/blog/posts/2020-07-24-rss-struggles/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-07-24-rss-struggles/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Cheers&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>RSS Struggles</title><link href="https://ukmac.github.io/blog/posts/2020-07-24-rss-struggles/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-24-rss-struggles/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>As is often the case when learning something new I have run into a problem and the fix for it is alluding me at the moment. In this case it is RSS feeds in Jekyll. The [Minimal Mistakes[(https://mmistakes.github.io/minimal-mistakes)] theme already had jekyll-feed gem installed which appeared to be working but when I checked my feed in &lt;a
 class="gblog-markdown__link"
 href="https://feedly.com"
@@ -152,7 +152,7 @@ href="https://feedly.com"
 class="gblog-markdown__link"
 href="https://ukmac.net/feed.xml"
 >https://ukmac.net/feed.xml&lt;/a> the recent posts show up but Feedly says I only have one subscriber to this feed rather than the rather embarassing 20 or so that I had previously.&lt;/p>
-&lt;p>If anyone does have any experience of this issue with Jekyll and can offer any sort of clue to a fix I would be very grateful, meanwhile I will continue my search.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Updating Jekyll from iPad with Prose.io</title><link href="http://ukmac.github.io/blog/posts/2020-10-30-prose.io/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-10-30-prose.io/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>If anyone does have any experience of this issue with Jekyll and can offer any sort of clue to a fix I would be very grateful, meanwhile I will continue my search.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry><entry><title>Updating Jekyll from iPad with Prose.io</title><link href="https://ukmac.github.io/blog/posts/2020-10-30-prose.io/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-10-30-prose.io/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>So I setup this Jekyll blog a few months ago and as usual after getting it going I promptly let it languish. One of the issues I guess is that unlike Wordpress there is no quick iOS or web app out of the box to update Jekyll sites from my phone or iPad.&lt;/p>
 &lt;p>Enter &lt;a
 class="gblog-markdown__link"
@@ -166,4 +166,4 @@ class="gblog-markdown__link"
 href="https://prose.io"
 >https://prose.io&lt;/a> and authenticate with your Github account. You can then open your sites posts folder and either edit existing posts or create new ones.&lt;/p>
 &lt;p>This article is the first I have created using the site. The editor is fairly minimal but does have a simple formatting toolbar and a Markdown preview button for checking that your post looks ok before saving and committing changes to Github.&lt;/p>
-&lt;p>I will be testing this out with future posts but from what I can see this may well be the ideal way to update my site and certainly easier than trying to work with Github clients on iOS.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry></feed>
+&lt;p>I will be testing this out with future posts but from what I can see this may well be the ideal way to update my site and certainly easier than trying to work with Github clients on iOS.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/></entry></feed>
