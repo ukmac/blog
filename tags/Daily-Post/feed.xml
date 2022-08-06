@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Daily Post on Ukmac.net</title><link href="http://localhost/tags/Daily-Post/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Daily-Post/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Daily-Post/</id><entry><title>Daily Post - 27/12/21</title><link href="http://localhost/posts/2021-12-27-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-12-27-daily-post/</id><published>2021-12-27T00:00:00+00:00</published><updated>2021-12-27T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Daily Post on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/Daily-Post/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/Daily-Post/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/Daily-Post/</id><entry><title>Daily Post - 27/12/21</title><link href="http://ukmac.github.io/blog/posts/2021-12-27-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-12-27-daily-post/</id><published>2021-12-27T00:00:00+00:00</published><updated>2021-12-27T00:00:00+00:00</updated><content type="html">
 &lt;p>Over the Christmas break I have been testing out a few different Linux Distros on a Microsoft Surface Go Laptop. This laptop was my test machine for Windows 11 but the experience was less than favourable, slow, unresponsive and noisy as the fan seemed to run pretty constantly.&lt;/p>
 &lt;p>After a brief test of &lt;a
 class="gblog-markdown__link"
@@ -15,7 +15,7 @@ href="https://pop.system76.com/"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2021-12-27-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-12-27-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -36,12 +36,12 @@ href="https://pop.system76.com"
 &lt;td>Ubuntu based Linux&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 02/11/2020</title><link href="http://localhost/posts/2020-11-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-11-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 02/11/2020</title><link href="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-11-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ).&lt;/p>
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -66,17 +66,17 @@ href="https://sccmentor.com/2020/03/04/keep-it-simple-with-intune-17-uninstallin
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="powerapps">
 Powerapps
-&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powerapps" href="#powerapps">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powerapps" href="#powerapps">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
 &lt;/div>
 &lt;p>Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn&amp;rsquo;t ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.&lt;/p>
-&lt;p>If you have any ideas on this one please let me know.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 07/12/2020</title><link href="http://localhost/posts/2020-12-07-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-07-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>If you have any ideas on this one please let me know.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 07/12/2020</title><link href="http://ukmac.github.io/blog/posts/2020-12-07-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-12-07-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="macbook-air-update">
 MacBook Air Update
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#macbook-air-update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor MacBook Air Update" href="#macbook-air-update">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-07-daily-post/#macbook-air-update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor MacBook Air Update" href="#macbook-air-update">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -86,7 +86,7 @@ MacBook Air Update
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="mimestream-beta">
 Mimestream Beta
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#mimestream-beta" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Mimestream Beta" href="#mimestream-beta">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-07-daily-post/#mimestream-beta" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Mimestream Beta" href="#mimestream-beta">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -98,7 +98,7 @@ href="https://mimestream.com/"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-07-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -126,11 +126,11 @@ href="https://robservatory.com/16gb-of-ram-and-75-open-appswhat-could-go-wrong/"
 &lt;td>Stress testing an M1 MacBook Pro&amp;hellip;&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 08/12/2020</title><link href="http://localhost/posts/2020-12-08-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-08-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 08/12/2020</title><link href="http://ukmac.github.io/blog/posts/2020-12-08-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-12-08-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="email-pains">
 Email Pains
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#email-pains" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Email Pains" href="#email-pains">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-08-daily-post/#email-pains" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Email Pains" href="#email-pains">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -150,7 +150,7 @@ href="https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="update">
 Update
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Update" href="#update">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-08-daily-post/#update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Update" href="#update">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -176,7 +176,7 @@ src="/images/2020-12-08-daily-post/outboundrule.jpg"
 alt=""
 title="Additional outbound rule"
 />&lt;/p>
-&lt;p>A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 09/12/2020</title><link href="http://localhost/posts/2020-12-09-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-09-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 09/12/2020</title><link href="http://ukmac.github.io/blog/posts/2020-12-09-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-12-09-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://code.visualstudio.com/"
@@ -191,7 +191,7 @@ href="http://ukmac.net/2020/10/prose.io/"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2020-12-09-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-12-09-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -229,7 +229,7 @@ href="https://pusherofpedals.com/2020/12/09/christmas-gift-guide/"
 &lt;td>Some gift ideas for the cyclist(s) in your household&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Teams" term="Teams" label="Teams"/><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll"/><category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Daily Post - 11/09/21</title><link href="http://localhost/posts/2021-09-11-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-09-11-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Teams" term="Teams" label="Teams"/><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://ukmac.github.io/blog/tags/Jekyll" term="Jekyll" label="Jekyll"/><category scheme="http://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Daily Post - 11/09/21</title><link href="http://ukmac.github.io/blog/posts/2021-09-11-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-09-11-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Whew..&lt;/p>
 &lt;p>Relaxing on the decking with a well deserved beer after a busy Saturday. Badminton at Oakengates Leisure Centre with the kids this morning then a trip over to eldest&amp;rsquo;s new house to help with sorting the garden which was a tad overgrown.&lt;/p>
 &lt;p>Still loving the iPad Pro and Apple Magic keyboard and so glad I finally overcame the reservations over price and bought one ( though it was helped by the fact that I got mine for half price as a second user unit through Amazon ). I am looking forward to the forthcoming release of macOS Monterey and the new Universal Control feature.&lt;/p>
@@ -237,7 +237,7 @@ href="https://pusherofpedals.com/2020/12/09/christmas-gift-guide/"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2021-09-11-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-09-11-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -265,11 +265,11 @@ href="https://how-i-experience-web-today.com/"
 &lt;td>Try this, its not far from the truth&amp;hellip;&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 15/08/2021</title><link href="http://localhost/posts/2021-08-15-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-15-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 15/08/2021</title><link href="http://ukmac.github.io/blog/posts/2021-08-15-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-08-15-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="new-komoot-route">
 New Komoot Route
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#new-komoot-route" class="gblog-post__anchor clip flex align-center" aria-label="Anchor New Komoot Route" href="#new-komoot-route">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-15-daily-post/#new-komoot-route" class="gblog-post__anchor clip flex align-center" aria-label="Anchor New Komoot Route" href="#new-komoot-route">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -284,7 +284,7 @@ href="https://www.komoot.com/tour/454744827?ref=itd"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="iphone-plans">
 iPhone plans
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#iphone-plans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor iPhone plans" href="#iphone-plans">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-15-daily-post/#iphone-plans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor iPhone plans" href="#iphone-plans">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -296,21 +296,21 @@ href="https://en.m.wikipedia.org/wiki/Norbury_Junction"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="edge-grumbles">
 Edge Grumbles
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#edge-grumbles" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Edge Grumbles" href="#edge-grumbles">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-15-daily-post/#edge-grumbles" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Edge Grumbles" href="#edge-grumbles">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
 &lt;/div>
-&lt;p>I like Edge ( the new one ). I started using it early in the beta and immediately decided it was the way forward for myself and my work ( I pushed it out to all PCs early too ), but on my iPad there are things that bug me. The big one is when I create a new tab and start typing a URL or search term only to look at the screen and see nothing has appeared because I haven&amp;rsquo;t selected the address field ( clicked into it or pressed CMD-L ). Not sure if its me but if you open a tab in a browser what else would you normally do but enter a URL or search term ? Why can&amp;rsquo;t it select the address bar ready without having to manually select it ? Come on Microsoft this isn&amp;rsquo;t really difficult is it ?&lt;/p></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 19/08/2021</title><link href="http://localhost/posts/2021-08-19-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-19-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>I like Edge ( the new one ). I started using it early in the beta and immediately decided it was the way forward for myself and my work ( I pushed it out to all PCs early too ), but on my iPad there are things that bug me. The big one is when I create a new tab and start typing a URL or search term only to look at the screen and see nothing has appeared because I haven&amp;rsquo;t selected the address field ( clicked into it or pressed CMD-L ). Not sure if its me but if you open a tab in a browser what else would you normally do but enter a URL or search term ? Why can&amp;rsquo;t it select the address bar ready without having to manually select it ? Come on Microsoft this isn&amp;rsquo;t really difficult is it ?&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 19/08/2021</title><link href="http://ukmac.github.io/blog/posts/2021-08-19-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-08-19-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="st-albans">
 St Albans
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-19-daily-post/#st-albans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor St Albans" href="#st-albans">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-19-daily-post/#st-albans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor St Albans" href="#st-albans">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
 &lt;/div>
-&lt;p>On site at St Albans today and Watford tomorrow so overnight stay for first time in a while. I am staying at the Jury&amp;rsquo;s Inn in Watford and just back from evening meal in the bar that was pretty rubbish. I ordered burger and chips for £15. The burger was overcooked, dry and tasteless and the chips had been covered in salt ( which I dont eat on food ) so were pretty much inedible. I should have taken myself out into town to find somewhere to eat but after an early start and a long day I couldn&amp;rsquo;t be bothered and opted for the easy option of eating in the hotel. I&amp;rsquo;ll never learn, hotel food is generally pretty meh and often worse than that. Would have been better off with a McDonalds !&lt;/p></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 2/7/2021</title><link href="http://localhost/posts/2021-07-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-07-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>On site at St Albans today and Watford tomorrow so overnight stay for first time in a while. I am staying at the Jury&amp;rsquo;s Inn in Watford and just back from evening meal in the bar that was pretty rubbish. I ordered burger and chips for £15. The burger was overcooked, dry and tasteless and the chips had been covered in salt ( which I dont eat on food ) so were pretty much inedible. I should have taken myself out into town to find somewhere to eat but after an early start and a long day I couldn&amp;rsquo;t be bothered and opted for the easy option of eating in the hotel. I&amp;rsquo;ll never learn, hotel food is generally pretty meh and often worse than that. Would have been better off with a McDonalds !&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 2/7/2021</title><link href="http://ukmac.github.io/blog/posts/2021-07-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-07-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and &lt;a
 class="gblog-markdown__link"
 href="https://en.wikipedia.org/wiki/Klaus_Schulze"
@@ -325,7 +325,7 @@ href="https://tmkk.undo.jp/xld/index_e.html"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2021-07-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-07-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -360,11 +360,11 @@ href="https://pandoc.org"
 &lt;td>Want to convert a markup file to a different format ? Pandoc is your tool&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Apple-Music" term="Apple-Music" label="Apple Music"/></entry><entry><title>Daily Post - 28/08/21</title><link href="http://localhost/posts/2021-08-28-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-28-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Apple-Music" term="Apple-Music" label="Apple Music"/></entry><entry><title>Daily Post - 28/08/21</title><link href="http://ukmac.github.io/blog/posts/2021-08-28-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-08-28-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="more-obsidian-testing">
 More Obsidian testing
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-28-daily-post/#more-obsidian-testing" class="gblog-post__anchor clip flex align-center" aria-label="Anchor More Obsidian testing" href="#more-obsidian-testing">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-28-daily-post/#more-obsidian-testing" class="gblog-post__anchor clip flex align-center" aria-label="Anchor More Obsidian testing" href="#more-obsidian-testing">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -383,7 +383,7 @@ href="https://apps.apple.com/gb/app/pretext/id1347707000"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2021-08-28-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-08-28-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -404,4 +404,4 @@ href="https://9to5mac.com/2021/08/25/icloud-custom-email-domains-now-available-i
 &lt;td>This is an interesting development. I have been thinking about moving to a family subscription of Windows 365 from my current Google apps for Domains setup but now I have a third option for hosting the families email and this one comes free ( well as part of our iCloud subscription at least )&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry></feed>
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry></feed>

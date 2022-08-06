@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Power Apps on Ukmac.net</title><link href="http://localhost/tags/PowerApps/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/PowerApps/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/PowerApps/</id><entry><title>Add attachments in PowerApps</title><link href="http://localhost/posts/2019-08-19-add-attachments-in-powerapps/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-08-19-add-attachments-in-powerapps/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Power Apps on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/PowerApps/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/PowerApps/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/PowerApps/</id><entry><title>Add attachments in PowerApps</title><link href="http://ukmac.github.io/blog/posts/2019-08-19-add-attachments-in-powerapps/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-08-19-add-attachments-in-powerapps/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>This Microsoft guide explains how to add attachments in a PowerApps form to a Sharepoint list.&lt;/p>
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://powerapps.microsoft.com/en-us/blog/add-attachments-to-sharepoint-lists/"
->Add attachments to SharePoint lists&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry><entry><title>Monday 22 July 2019</title><link href="http://localhost/posts/2019-07-22-monday-22-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-22-monday-22-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Add attachments to SharePoint lists&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry><entry><title>Monday 22 July 2019</title><link href="http://ukmac.github.io/blog/posts/2019-07-22-monday-22-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-07-22-monday-22-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>##&lt;a
 class="gblog-markdown__link"
 href="http://ukmac.net/category/microsoft/powerapps/"
@@ -21,7 +21,7 @@ href="http://ukmac.net/category/microsoft/teams/"
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://support.office.com/en-us/article/Use-folders-to-create-read-only-files-for-students-or-other-team-members-0e7791d7-8c9c-4749-9bca-984289477988"
->This Microsoft article shows how to do it&lt;/a>. I will definitely be making use of this now I know about it, and helping my users to use it too.&lt;/p></content><category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry><entry><title>Powershell connection from MFA Account</title><link href="http://localhost/posts/2019-07-31-wednesday-31-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-31-wednesday-31-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>This Microsoft article shows how to do it&lt;/a>. I will definitely be making use of this now I know about it, and helping my users to use it too.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry><entry><title>Powershell connection from MFA Account</title><link href="http://ukmac.github.io/blog/posts/2019-07-31-wednesday-31-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-07-31-wednesday-31-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.&lt;/p>
 &lt;p>Interestingly when I tried this today if I ran Connect-EXOPSSesion with parameter for my UPN it didn&amp;rsquo;t seem to work. If instead just ran the command with no parameters the standard login dialog appeared fine and I could enter my email address and authenticate with my Authenticator app ! Odd one&amp;hellip;&lt;/p>
 &lt;p>via
@@ -32,7 +32,7 @@ href="https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/conne
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="powerapps">
 PowerApps
-&lt;a data-clipboard-text="http://localhost/posts/2019-07-31-wednesday-31-july-2019/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor PowerApps" href="#powerapps">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2019-07-31-wednesday-31-july-2019/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor PowerApps" href="#powerapps">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -49,7 +49,7 @@ href="https://www.sharepointeurope.com/3-tips-need-know-using-powerapps-forms-sh
 &lt;a
 class="gblog-markdown__link"
 href="https://powerusers.microsoft.com/t5/Connectors/Issue-with-Azure-AD-Connector/td-p/66322"
->Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Sunday 28 July 2019</title><link href="http://localhost/posts/2019-07-28-sunday-28-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-28-sunday-28-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/PowerApps" term="PowerApps" label="PowerApps"/><category scheme="http://ukmac.github.io/blog/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Sunday 28 July 2019</title><link href="http://ukmac.github.io/blog/posts/2019-07-28-sunday-28-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-07-28-sunday-28-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>##PowerApps&lt;/p>
 &lt;p>So I am making some progress with learning PowerApps and have the start of a new app for the charity to use. Just came across this resource which will be worth having a look through, a showcase for what others have done with PowerApps&lt;/p>
 &lt;p>&lt;a
@@ -59,4 +59,4 @@ href="https://powerusers.microsoft.com/t5/Community-Apps-Gallery/bd-p/AppFeedbac
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
->A useful quick link  to the PowerApps function reference on Microsoft Docs&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry></feed>
+>A useful quick link  to the PowerApps function reference on Microsoft Docs&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/PowerApps" term="PowerApps" label="PowerApps"/></entry></feed>

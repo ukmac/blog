@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>I Os on Ukmac.net</title><link href="http://localhost/tags/iOS/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/iOS/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/iOS/</id><entry><title>CarPlay in iOS 13</title><link href="http://localhost/posts/2019-08-25-carplay-in-ios-13/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-08-25-carplay-in-ios-13/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>I Os on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/iOS/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/iOS/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/iOS/</id><entry><title>CarPlay in iOS 13</title><link href="http://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://www.macstories.net/stories/carplay-in-ios-13-a-big-leap-forward"
 >CarPlay in iOS 13 is a huge upgrade&lt;/a>&lt;/p>
 &lt;p>Having recently upgraded to beta 7 of iOS 13 I have to say the single biggest improvement for me is CarPlay.&lt;/p>
-&lt;p>Thanks Apple !&lt;/p></content><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/><category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Copied - Sync your clipboard for iOS and OS X</title><link href="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Thanks Apple !&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="http://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Copied - Sync your clipboard for iOS and OS X</title><link href="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg"
@@ -18,7 +18,7 @@ href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="in-use-on-ios">
 In Use on iOS
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios" class="gblog-post__anchor clip flex align-center" aria-label="Anchor In Use on iOS" href="#in-use-on-ios">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios" class="gblog-post__anchor clip flex align-center" aria-label="Anchor In Use on iOS" href="#in-use-on-ios">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -32,7 +32,7 @@ alt="copiedv2"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied-keyboard">
 Copied Keyboard
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied Keyboard" href="#copied-keyboard">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied Keyboard" href="#copied-keyboard">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -41,7 +41,7 @@ Copied Keyboard
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied">
 Copied+
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied&amp;#43;" href="#copied">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied&amp;#43;" href="#copied">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -54,7 +54,7 @@ href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied-for-mac">
 Copied for Mac
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied for Mac" href="#copied-for-mac">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied for Mac" href="#copied-for-mac">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -75,7 +75,7 @@ href="https://itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1026349850?
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="http://copiedapp.com"
->Copied Web Site&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Game of the day - 2 Cars</title><link href="http://localhost/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-04-game-day-2-cars/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Copied Web Site&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Game of the day - 2 Cars</title><link href="http://ukmac.github.io/blog/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-04-game-day-2-cars/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>One of my favourite quick-fix games at the moment is
 &lt;a
 class="gblog-markdown__link"
@@ -88,13 +88,13 @@ src="http://ukmac.net/wp-content/uploads/2016/04/2cars-screen-169x300.png"
 alt="2cars-screen"
 />&lt;/p>
 &lt;p>Sounds simple doesn&amp;rsquo;t it ? Well give it a try and see how far you get, I can pretty much guarantee it will take you quite a few goes before you progress to double digit scores and after that progression is likely to be slow as the speed of the oncoming blocks increases pretty quickly once you get into the 40-50 score bracket.&lt;/p>
-&lt;p>An enjoyable game for passing a few minutes !&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>How to add an item to specific Reminders list AND set a reminder time? - Ask Different</title><link href="http://localhost/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>An enjoyable game for passing a few minutes !&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>How to add an item to specific Reminders list AND set a reminder time? - Ask Different</title><link href="http://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Siri: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
 — Read on
 &lt;a
 class="gblog-markdown__link"
 href="https://apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time"
->apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Microsoft to release curved keyboard for iOS</title><link href="http://localhost/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Microsoft to release curved keyboard for iOS</title><link href="http://ukmac.github.io/blog/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-01-26-microsoft-to-release-curved-keyboard-for-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Ars technica has this
 &lt;a
 class="gblog-markdown__link"
@@ -104,7 +104,7 @@ href="http://arstechnica.com/apple/2016/01/microsofts-clever-curved-keyboard-for
 &lt;p>&lt;img
 src="http://cdn.arstechnica.net/wp-content/uploads/2016/01/ioswordflow-22.0.0.jpg"
 alt=""
-/>&lt;/p></content><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/><category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>More Problems with iOS 9.3 ?</title><link href="http://localhost/posts/2016-03-27-problems-ios-9-3/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-03-27-problems-ios-9-3/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+/>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="http://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>More Problems with iOS 9.3 ?</title><link href="http://ukmac.github.io/blog/posts/2016-03-27-problems-ios-9-3/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-03-27-problems-ios-9-3/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>It seems the
 &lt;a
 class="gblog-markdown__link"
@@ -129,7 +129,7 @@ href="http://themacfixer.co.uk"
 Reset All Settings which didn&amp;rsquo;t resolve the issue, followed by the more drastic
 Erase All Content And Settings which did the trick !&lt;/p>
 &lt;p>Obviously if you are affected by this issue and decide to do a complete Erase make sure you have all your settings and passwords available beforehand as you will need to setup accounts and applications from scratch afterwards ( don&amp;rsquo;t try restoring old backups because you will most likely just restore the problem ).&lt;/p>
-&lt;p>Hopefully not too many others are affected by this glitch and Apple get it sorted in the next update&lt;/p></content><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title><link href="http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Hopefully not too many others are affected by this glitch and Apple get it sorted in the next update&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title><link href="http://ukmac.github.io/blog/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg"
@@ -144,7 +144,7 @@ href="https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252
 &lt;a
 class="gblog-markdown__link"
 href="http://nearlock.me"
->Near Lock&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/><category scheme="http://localhost/tags/Security" term="Security" label="Security"/></entry><entry><title>Swapping Between Hardware and On Screen Keyboards on iOS</title><link href="http://localhost/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Near Lock&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="http://ukmac.github.io/blog/tags/Security" term="Security" label="Security"/></entry><entry><title>Swapping Between Hardware and On Screen Keyboards on iOS</title><link href="http://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>I recently bought the excellent
 &lt;a
 class="gblog-markdown__link"
@@ -153,7 +153,7 @@ href="http://www.amazon.co.uk/gp/product/B013SL1YXO/ref=as_li_tl?ie=UTF8&amp;amp
 src="http://ir-uk.amazon-adsystem.com/e/ir?t=muxtoncom-21&amp;amp;l=as2&amp;amp;o=2&amp;amp;a=B013SL1YXO"
 alt=""
 /> to share between my iPad, Work laptop and iPhone. It&amp;rsquo;s a great little keyboard, light enough to carry around with a decent layout and spacing that suits my typing style well ( your mileage may vary ). There are however times that I need to switch to the on screen iOS keyboard, typing emojis for example, and I recently discovered this quick tip to bring up the iOS keyboard.&lt;/p>
-&lt;p>All you need to do is double tap on a text field and the on screen keyboard will pop smoothly into view. Once you have completed using it just hit any key on your Bluetooth keyboard and the hardware device will take control again and the on screen keyboard will slide out of the way.&lt;/p></content><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Testing Obsidian/Working Copy on iPad</title><link href="http://localhost/posts/2021-08-14-testing-obsidian/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-14-testing-obsidian/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>All you need to do is double tap on a text field and the on screen keyboard will pop smoothly into view. Once you have completed using it just hit any key on your Bluetooth keyboard and the hardware device will take control again and the on screen keyboard will slide out of the way.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Testing Obsidian/Working Copy on iPad</title><link href="http://ukmac.github.io/blog/posts/2021-08-14-testing-obsidian/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-08-14-testing-obsidian/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>So this post was written in &lt;a
 class="gblog-markdown__link"
 href="https://obsidian.md"
@@ -164,7 +164,7 @@ href="https://workingcopy.app/"
 &lt;p>A few weeks ago I happened across a previously owned Apple Magic Keyboard for iPad 12.9&amp;quot; on Amazon at a big discount. I have tried to justify £350 for a keyboard since I bought the 12.9&amp;quot; iPad Pro but just couldn&amp;rsquo;t find a compelling enough reason but when I saw this one I figured I would take a punt and if it was no good I could always return it. Well that was a while back now and I am still a happy Magic Keyboard owner. It really does make the iPad Pro into a powerhouse portable device. The keyboard is great and the trackpad works as you would expect from an Apple device, smooth and slick.&lt;/p>
 &lt;p>I am pretty much only using the iPad when not at my desk now, even though I also have the amazing M1 MacBook Air ( lucky me eh ? ) and now Obsidian is out on iPad I have decided to try to use it on the iPad for updating this blog. To do this does require something to sync to GitHub and this is where WorkingCopy comes in.&lt;/p>
 &lt;p>Working Copy is a full git client for iOS and at £17.99 is not a cheap app but it seems to be the only real option for this sort of workflow and is an established solution so if you have a need for git on iPad its a bit of a no-brainer.&lt;/p>
-&lt;p>Anyway, this is my first post using this setup and it worked first time which is great. Maybe I will finally start posting here a bit more ( how many times have I written that ? )&lt;/p></content><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>TextExpander Alternatives for Disgruntled Smile Customers</title><link href="http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Anyway, this is my first post using this setup and it worked first time which is great. Maybe I will finally start posting here a bit more ( how many times have I written that ? )&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>TextExpander Alternatives for Disgruntled Smile Customers</title><link href="http://ukmac.github.io/blog/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Over the last couple of days there has been a lot written about the
 &lt;a
 class="gblog-markdown__link"
@@ -212,4 +212,4 @@ href="https://smilesoftware.com/blog/entry/textexpander-release-follow-up"
 >on this page&lt;/a> that the iCloud/Dropbox services would not allow them to implement the Group Sharing features that are the key new element of TextExpander.&lt;/p>
 &lt;blockquote>
 &lt;p>Group sharing in the new TextExpander is quite different than syncing via Dropbox or iCloud. Sharing, as it stands, couldn’t work using either sync service.&lt;/p>
-&lt;/blockquote></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry></feed>
+&lt;/blockquote></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry></feed>

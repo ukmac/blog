@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Apps on Ukmac.net</title><link href="http://localhost/tags/Apps/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Apps/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Apps/</id><entry><title>Capture Animated GIFs using free GifGrabber</title><link href="http://localhost/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/</id><published>2015-05-06T00:00:00+00:00</published><updated>2015-05-06T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Apps on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/Apps/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/Apps/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/Apps/</id><entry><title>Capture Animated GIFs using free GifGrabber</title><link href="http://ukmac.github.io/blog/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-05-06-capture-animated-gifs-using-free-gifgrabber/</id><published>2015-05-06T00:00:00+00:00</published><updated>2015-05-06T00:00:00+00:00</updated><content type="html">
 &lt;p>GifGrabber is a free utility available from the App Store that lets you easily create animated GIFs by capturing a user definable area of the screen. It is the perfect tool for creating a snip of your favourite movie or video clip or recording a quick screen cast to send to friends or colleagues to demonstrate how to do something on your Mac.&lt;/p>
-&lt;p> &lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Copied - Sync your clipboard for iOS and OS X</title><link href="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Copied - Sync your clipboard for iOS and OS X</title><link href="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;amp;at=1000lbQg"
@@ -14,7 +14,7 @@ href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="in-use-on-ios">
 In Use on iOS
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios" class="gblog-post__anchor clip flex align-center" aria-label="Anchor In Use on iOS" href="#in-use-on-ios">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#in-use-on-ios" class="gblog-post__anchor clip flex align-center" aria-label="Anchor In Use on iOS" href="#in-use-on-ios">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -28,7 +28,7 @@ alt="copiedv2"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied-keyboard">
 Copied Keyboard
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied Keyboard" href="#copied-keyboard">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-keyboard" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied Keyboard" href="#copied-keyboard">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -37,7 +37,7 @@ Copied Keyboard
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied">
 Copied+
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied&amp;#43;" href="#copied">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied&amp;#43;" href="#copied">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -50,7 +50,7 @@ href="https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="copied-for-mac">
 Copied for Mac
-&lt;a data-clipboard-text="http://localhost/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied for Mac" href="#copied-for-mac">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2016-04-06-copied-sync-clipboard-ios-os-x/#copied-for-mac" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Copied for Mac" href="#copied-for-mac">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -71,7 +71,7 @@ href="https://itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1026349850?
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="http://copiedapp.com"
->Copied Web Site&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Daily Post - 2/7/2021</title><link href="http://localhost/posts/2021-07-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-07-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Copied Web Site&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Daily Post - 2/7/2021</title><link href="http://ukmac.github.io/blog/posts/2021-07-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2021-07-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and &lt;a
 class="gblog-markdown__link"
 href="https://en.wikipedia.org/wiki/Klaus_Schulze"
@@ -86,7 +86,7 @@ href="https://tmkk.undo.jp/xld/index_e.html"
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2021-07-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2021-07-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -121,21 +121,21 @@ href="https://pandoc.org"
 &lt;td>Want to convert a markup file to a different format ? Pandoc is your tool&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Apple-Music" term="Apple-Music" label="Apple Music"/></entry><entry><title>Facebook App Draining iPhone Batteries</title><link href="http://localhost/posts/2015-10-20-facebook-app-draining-iphone-batteries/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-10-20-facebook-app-draining-iphone-batteries/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Apple-Music" term="Apple-Music" label="Apple Music"/></entry><entry><title>Facebook App Draining iPhone Batteries</title><link href="http://ukmac.github.io/blog/posts/2015-10-20-facebook-app-draining-iphone-batteries/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-10-20-facebook-app-draining-iphone-batteries/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>According to
 &lt;a
 class="gblog-markdown__link"
 href="http://techcrunch.com/2015/10/15/facebook-working-on-fix-for-ios-app-battery-drain-issue/"
 >this article&lt;/a>on TechCrunch Facebook have confirmed that they are aware of a problem with their iOS app causing excessive battery drain even when the app has background refresh disabled.&lt;/p>
 &lt;p>If you are experiencing issues with decreased battery life recently and have the Facebook app installed you could try deleting the app and using Safari to access the site until a fix is released.&lt;/p>
-&lt;p> &lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Fresh Background Wallpapers for your Mac</title><link href="http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Fresh Background Wallpapers for your Mac</title><link href="http://ukmac.github.io/blog/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-02-22-fresh-background-wallpapers-for-your-mac/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="http://arkanath.com/FreshBackMac/"
 >FreshBackMac&lt;/a> is a small utility written by Arkanath Pathak, a Computer Science student from eastern India, that refreshes your Mac desktop wallpaper at regular intervals using images from some of the best photo sites on the Internet.&lt;/p>
 &lt;p>You can choose from a range of categories such as Animals, Nature, Technology, Paintings and more and can set the refresh rate from as little as 2 minutes to 12 hours.&lt;/p>
 &lt;p>If you would like a fresh look to your Mac without the effort of searching for new images and setting up as desktop backgrounds this is the app for you.&lt;/p>
-&lt;p> &lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Pictures" term="Pictures" label="Pictures"/></entry><entry><title>Game of the day - 2 Cars</title><link href="http://localhost/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-04-game-day-2-cars/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Pictures" term="Pictures" label="Pictures"/></entry><entry><title>Game of the day - 2 Cars</title><link href="http://ukmac.github.io/blog/posts/2016-04-04-game-day-2-cars/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-04-game-day-2-cars/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>One of my favourite quick-fix games at the moment is
 &lt;a
 class="gblog-markdown__link"
@@ -148,7 +148,7 @@ src="http://ukmac.net/wp-content/uploads/2016/04/2cars-screen-169x300.png"
 alt="2cars-screen"
 />&lt;/p>
 &lt;p>Sounds simple doesn&amp;rsquo;t it ? Well give it a try and see how far you get, I can pretty much guarantee it will take you quite a few goes before you progress to double digit scores and after that progression is likely to be slow as the speed of the oncoming blocks increases pretty quickly once you get into the 40-50 score bracket.&lt;/p>
-&lt;p>An enjoyable game for passing a few minutes !&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Hidden Bar - menu bar management for macOS</title><link href="http://localhost/posts/2020-12-27-hidden-bar/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-27-hidden-bar/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>An enjoyable game for passing a few minutes !&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Hidden Bar - menu bar management for macOS</title><link href="http://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Mac menu bar utiities are great for quick access to apps that perform simple tasks and that don&amp;rsquo;t need to sit in the dock or occupy space on your desktop however they do tend to proliferate and before you know it the list of little icons at the top right of your menu bar can get out of control.&lt;/p>
 &lt;p>There are a couple of utilities that aim to help with this. &lt;a
 class="gblog-markdown__link"
@@ -156,7 +156,7 @@ href="https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12"
 >Hidden Bar&lt;/a> is a simple and free to download app that allows you to quickly hide menu bar icons that you don&amp;rsquo;t want on the screen all the time but still want access to. &lt;a
 class="gblog-markdown__link"
 href="https://www.macbartender.com/"
->Bartender&lt;/a> is a pay-for app (currently $15) that goes quite a bit further in features but for my money (ahem) the free Hidden Bar app hits the spot. Worth a look.&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>How do you backup your digital data ?</title><link href="http://localhost/posts/2015-07-26-how-do-you-backup-your-digital-data/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-07-26-how-do-you-backup-your-digital-data/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Bartender&lt;/a> is a pay-for app (currently $15) that goes quite a bit further in features but for my money (ahem) the free Hidden Bar app hits the spot. Worth a look.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>How do you backup your digital data ?</title><link href="http://ukmac.github.io/blog/posts/2015-07-26-how-do-you-backup-your-digital-data/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-07-26-how-do-you-backup-your-digital-data/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Unless you have a background in IT the chances are that the only time you have ever considered backups of your information was just after you found out you had lost something precious ? Perhaps it was a bunch of irretrievable photos lost when your hard drive suddenly and inexplicably died ? Or maybe it was your lifetimes collection of music or movies, carefully downloaded and collated onto that 4TB external hard drive connected to your desktop computer that you hadn&amp;rsquo;t noticed had been accidentally deleted ?&lt;/p>
 &lt;p>Whichever it was, when the day arrives and you suffer that unrecoverable data loss the chances are you will be asking yourself why you hadn&amp;rsquo;t taken the time to backup to another disk.&lt;/p>
 &lt;p>My preferred and recommended backup solution is an online service called
@@ -190,7 +190,7 @@ href="www.backblaze.com"
 class="gblog-markdown__link"
 href="https://secure.backblaze.com/r/00isdf"
 >months free trial by clicking on this link&lt;/a>.&lt;/p>
-&lt;p>This post is not sponsored by Backblaze it is purely my personal choice of backup service and something that I recommend to friends and relatives when the subject arises. Please try it out, you may thank me one day !&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?</title><link href="http://localhost/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>This post is not sponsored by Backblaze it is purely my personal choice of backup service and something that I recommend to friends and relatives when the subject arises. Please try it out, you may thank me one day !&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?</title><link href="http://ukmac.github.io/blog/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-05-10-how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Sam Soffes released a small app onto the Mac App Store this week and was shocked to find it quickly elevated into the top grossing apps list, so you can imagine his shock when he checked how much he had made the next day and found he had made only $302 on sales of 92 units !&lt;/p>
 &lt;p>Read his article here for the full details.&lt;/p>
 &lt;p>&lt;a
@@ -201,7 +201,7 @@ href="http://blog.soff.es/redacted-for-mac-launch/"
 &lt;a
 class="gblog-markdown__link"
 href="http://www.producthunt.com/posts/redacted-2"
->Producthunt.com&lt;/a>. Presumably these people are voting for an app they haven&amp;rsquo;t actually used ?&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>How to Access Magazines on Zinio for Free</title><link href="http://localhost/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Producthunt.com&lt;/a>. Presumably these people are voting for an app they haven&amp;rsquo;t actually used ?&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>How to Access Magazines on Zinio for Free</title><link href="http://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>In the days before the Internet I was a regular magazine subscriber and the shelves in my home office used to groan under the weight of all those glossy pages. My magazine buying days have long since gone, replaced by a diet of online news delivered first by USENET followed by online forums, web sites and most recently RSS feeds read through services like
 &lt;a
 class="gblog-markdown__link"
@@ -225,13 +225,13 @@ href="http://zinio.com"
 &lt;p>If you would like to subscribe to this service head over to your local library web site and do a search for Zinio, I am betting that you will find there is a free service available to you that you didn&amp;rsquo;t know was there !&lt;/p>
 &lt;p>Enjoy,&lt;/p>
 &lt;p> &lt;/p>
-&lt;p> &lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>ImageOptim - An Excellent Free Image Compressor for Mac</title><link href="http://localhost/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>ImageOptim - An Excellent Free Image Compressor for Mac</title><link href="http://ukmac.github.io/blog/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-05-11-imageoptim-an-excellent-free-image-compressor-for-mac/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://imageoptim.com"
 >ImageOptim&lt;/a> is a small free utility for Mac OS X that does one thing well. It compresses image files but without reducing image quality. On test files I have found that compression rates vary between a few percent up to over 50% and the resulting images look exactly the same.&lt;/p>
 &lt;p>ImageOptim is only available through the developers web site and NOT the App Store (although the author does note that copies have been sold through the app store so buyer beware).&lt;/p>
-&lt;p>If you are looking for a quick convenient app to reduce image file sizes without sacrificing original image quality ImageOptim is a recommended download.&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Infinite Loop - Lovely Relaxing Game for iOS</title><link href="http://localhost/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>If you are looking for a quick convenient app to reduce image file sizes without sacrificing original image quality ImageOptim is a recommended download.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Infinite Loop - Lovely Relaxing Game for iOS</title><link href="http://ukmac.github.io/blog/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="http://loopgame.co"
@@ -244,7 +244,7 @@ href="https://itunes.apple.com/us/app/infinite-loop/id977028266?mt=8"
 class="gblog-markdown__link"
 href="https://play.google.com/store/apps/details?id=com.balysv.loop"
 >Android&lt;/a> version so everyone can play.&lt;/p>
-&lt;p>Grab it now its free to play.&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Itsycal for OS X - Minimal Calendar Utility</title><link href="http://localhost/posts/2016-02-14-266/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-02-14-266/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Grab it now its free to play.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Itsycal for OS X - Minimal Calendar Utility</title><link href="http://ukmac.github.io/blog/posts/2016-02-14-266/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-02-14-266/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://www.mowglii.com/itsycal/"
@@ -254,7 +254,7 @@ href="https://www.mowglii.com/itsycal/"
 src="http://ukmac.net/wp-content/uploads/2016/02/itsycal.png"
 alt=""
 />&lt;/p>
-&lt;p>One of my favourite little time saver apps.&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Monosnap - Free Screen Capture for Images and Video</title><link href="http://localhost/posts/2016-04-11-mono-snap-free-screen-capture-images-video/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-11-mono-snap-free-screen-capture-images-video/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>One of my favourite little time saver apps.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Monosnap - Free Screen Capture for Images and Video</title><link href="http://ukmac.github.io/blog/posts/2016-04-11-mono-snap-free-screen-capture-images-video/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-11-mono-snap-free-screen-capture-images-video/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="http://monosnap.com/welcome"
@@ -278,7 +278,7 @@ href="http://www.telestream.net/screenflow/overview.htm"
 &lt;a
 class="gblog-markdown__link"
 href="https://www.techsmith.com/camtasia.html"
->Camtasia&lt;/a>.&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title><link href="http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Camtasia&lt;/a>.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/></entry><entry><title>Near Lock - Unlock your Mac with your iPhone or Apple Watch</title><link href="http://ukmac.github.io/blog/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-06-near-lock-unlock-mac-iphone-apple-watch/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&amp;amp;at=1000lbQg"
@@ -293,7 +293,7 @@ href="https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252
 &lt;a
 class="gblog-markdown__link"
 href="http://nearlock.me"
->Near Lock&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/><category scheme="http://localhost/tags/Security" term="Security" label="Security"/></entry><entry><title>Stocard - All your loyalty cards on your iPhone</title><link href="http://localhost/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Near Lock&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="http://ukmac.github.io/blog/tags/Security" term="Security" label="Security"/></entry><entry><title>Stocard - All your loyalty cards on your iPhone</title><link href="http://ukmac.github.io/blog/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>One of my pet peeves is the number of plastic cards I have to carry in my wallet. Most of the time I tend to strip the contents to the essential debit cards that I use all the time but this sometimes means that I miss out on discounts or other benefits by not having a particular stores loyalty card with me.&lt;/p>
 &lt;p>&lt;a
 class="gblog-markdown__link"
@@ -307,7 +307,7 @@ href="https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id4445788
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8"
->&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>TextExpander Alternatives for Disgruntled Smile Customers</title><link href="http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>&lt;/a>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>TextExpander Alternatives for Disgruntled Smile Customers</title><link href="http://ukmac.github.io/blog/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-04-07-textexpander-alternatives-disgruntled-smile-customers/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Over the last couple of days there has been a lot written about the
 &lt;a
 class="gblog-markdown__link"
@@ -355,7 +355,7 @@ href="https://smilesoftware.com/blog/entry/textexpander-release-follow-up"
 >on this page&lt;/a> that the iCloud/Dropbox services would not allow them to implement the Group Sharing features that are the key new element of TextExpander.&lt;/p>
 &lt;blockquote>
 &lt;p>Group sharing in the new TextExpander is quite different than syncing via Dropbox or iCloud. Sharing, as it stands, couldn’t work using either sync service.&lt;/p>
-&lt;/blockquote></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Using Duet Display As A Primary Monitor</title><link href="http://localhost/posts/2016-01-03-using-duet-display-as-a-primary-monitor/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-01-03-using-duet-display-as-a-primary-monitor/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;/blockquote></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>Using Duet Display As A Primary Monitor</title><link href="http://ukmac.github.io/blog/posts/2016-01-03-using-duet-display-as-a-primary-monitor/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2016-01-03-using-duet-display-as-a-primary-monitor/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8&amp;amp;at=1000lbQg"
@@ -375,4 +375,4 @@ href="https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8"
 &lt;img
 src="http://ukmac.net/wp-content/uploads/2016/01/IMG_1173.jpg"
 alt="Duet Display"
-/> Duet Display on iPad and Mac Mini[/caption]&lt;/p></content><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry></feed>
+/> Duet Display on iPad and Mac Mini[/caption]&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="http://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry></feed>

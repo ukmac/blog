@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Intune on Ukmac.net</title><link href="http://localhost/tags/Intune/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Intune/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Intune/</id><entry><title>Creating desktop shortcuts with Intune</title><link href="http://localhost/posts/2019-08-09-friday-9-august-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-08-09-friday-9-august-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Intune on Ukmac.net</title><link href="http://ukmac.github.io/blog/tags/Intune/" rel="alternate" type="text/html" title="HTML"/><link href="http://ukmac.github.io/blog/tags/Intune/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:10:00+00:00</updated><id>http://ukmac.github.io/blog/tags/Intune/</id><entry><title>Creating desktop shortcuts with Intune</title><link href="http://ukmac.github.io/blog/posts/2019-08-09-friday-9-august-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-08-09-friday-9-august-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>I have previously setup a script to push simple shortcuts to Desktop with Intune but this guide from
 &lt;a
 class="gblog-markdown__link"
@@ -8,11 +8,11 @@ href="https://tech.nicolonsky.ch"
 &lt;a
 class="gblog-markdown__link"
 href="https://tech.nicolonsky.ch/intune-create-desktop-shortcut/"
->Intune create desktop shortcut&lt;/a> &lt;i class='fa fa-link'>&lt;/i>&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/></entry><entry><title>Daily Log - Tuesday 23 July 2019</title><link href="http://localhost/posts/2019-07-23-tuesday-23-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-23-tuesday-23-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>Intune create desktop shortcut&lt;/a> &lt;i class='fa fa-link'>&lt;/i>&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/></entry><entry><title>Daily Log - Tuesday 23 July 2019</title><link href="http://ukmac.github.io/blog/posts/2019-07-23-tuesday-23-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-07-23-tuesday-23-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="powershell">
 Powershell
-&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#powershell" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powershell" href="#powershell">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2019-07-23-tuesday-23-july-2019/#powershell" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powershell" href="#powershell">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -23,7 +23,7 @@ Powershell
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="intune">
 Intune
-&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#intune" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Intune" href="#intune">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2019-07-23-tuesday-23-july-2019/#intune" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Intune" href="#intune">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -36,7 +36,7 @@ href="https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Micros
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="software">
 Software
-&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#software" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Software" href="#software">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2019-07-23-tuesday-23-july-2019/#software" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Software" href="#software">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -51,12 +51,12 @@ class="gblog-markdown__link"
 href="http://ukmac.net/2016/04/copied-sync-clipboard-ios-os-x/"
 >previous post on Copied&lt;/a>.&lt;/p>
 &lt;p>If you work on a PC or a Mac you should look into clipboard managers, one of those tools that you come to rely on and miss when you are using a PC without one. &lt;/p>
-&lt;p>Anyone with suggestions on how to manage clipboards across Windows AND Mac please let me know in comments…&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Daily Post - 02/11/2020</title><link href="http://localhost/posts/2020-11-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-11-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Anyone with suggestions on how to manage clipboards across Windows AND Mac please let me know in comments…&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/><category scheme="http://ukmac.github.io/blog/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Daily Post - 02/11/2020</title><link href="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2020-11-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ).&lt;/p>
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="daily-links">
 Daily Links
-&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
@@ -81,13 +81,13 @@ href="https://sccmentor.com/2020/03/04/keep-it-simple-with-intune-17-uninstallin
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="powerapps">
 Powerapps
-&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powerapps" href="#powerapps">
+&lt;a data-clipboard-text="http://ukmac.github.io/blog/posts/2020-11-02-daily-post/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powerapps" href="#powerapps">
 &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
 &lt;/a>
 &lt;/h2>
 &lt;/div>
 &lt;p>Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn&amp;rsquo;t ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.&lt;/p>
-&lt;p>If you have any ideas on this one please let me know.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Setting Lock Screen Wallpaper with InTune</title><link href="http://localhost/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>If you have any ideas on this one please let me know.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/><category scheme="http://ukmac.github.io/blog/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Setting Lock Screen Wallpaper with InTune</title><link href="http://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Just found
 &lt;a
 class="gblog-markdown__link"
@@ -97,11 +97,11 @@ href="https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-
 class="gblog-markdown__link"
 href="https://www.thelazyadministrator.com/"
 >Lazy Administrator&lt;/a> that describes how to enforce a Windows lock screen wallpaper on Windows 10 for all editions ( not just Enterprise and Education which is all Microsoft allow you to do with Intune out of the box ! )&lt;/p>
-&lt;p>I will be using this script. Thanks Brad.&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>What about Win 10 Pro ?</title><link href="http://localhost/posts/2019-10-17-what-about-win-10-pro/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-10-17-what-about-win-10-pro/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>I will be using this script. Thanks Brad.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/><category scheme="http://ukmac.github.io/blog/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>What about Win 10 Pro ?</title><link href="http://ukmac.github.io/blog/posts/2019-10-17-what-about-win-10-pro/" rel="alternate" type="text/html" hreflang="en"/><id>http://ukmac.github.io/blog/posts/2019-10-17-what-about-win-10-pro/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>So I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.&lt;/p>
 &lt;p>If you want a policy to lock down the Windows Store to only show applications in your organisations Store then you are going to be out of luck&amp;hellip;&lt;/p>
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store"
 >https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store&lt;/a>&lt;/p>
-&lt;p>If anyone knows a way to block the Windows Store for Pro editions I would be interested to hear from you.&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/></entry></feed>
+&lt;p>If anyone knows a way to block the Windows Store for Pro editions I would be interested to hear from you.&lt;/p></content><category scheme="http://ukmac.github.io/blog/tags/Intune" term="Intune" label="Intune"/></entry></feed>
