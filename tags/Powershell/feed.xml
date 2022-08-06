@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Powershell on Ukmac.net</title><link href="http://localhost/tags/Powershell/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Powershell/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Powershell/</id><entry><title>Customise Room Resource work hours in Office 365</title><link href="http://localhost/posts/2019-09-18-customise-room-resource-work-hours-in-office-365/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-09-18-customise-room-resource-work-hours-in-office-365/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>I have recently started setting up Room Resources in our Office 365 tenant and quickly discovered that that rooms are only available Monday to Friday 08:00 to 17:00 by default.&lt;/p>
+&lt;p>Fortunately there is a Powershell command to modify this to suit your room requirements.&lt;/p>
+&lt;p>First connect to Exchange PowershellSet-MailboxCalendarConfiguration -Identity &lt;SMTPRoomResource> -WorkingHoursStartTime 00:00:00 -WorkingHoursEndTime 23:59:59&lt;/p>
+&lt;p>This is for an individual room resource. Alternatively if all your rooms have the same availability schedule you can change all at once with the command below&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Powershell" data-lang="Powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Get-MailBox&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">where &lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nv">$_&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ResourceType&lt;/span> &lt;span class="o">-eq&lt;/span> &lt;span class="s2">&amp;#34;Room&amp;#34;&lt;/span>&lt;span class="p">}&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">Set-MailboxCalendarConfiguration&lt;/span> &lt;span class="n">-WorkingHoursStartTime&lt;/span> &lt;span class="n">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">00&lt;/span> &lt;span class="n">-WorkingHoursEndTime&lt;/span> &lt;span class="n">23&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">59&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">59&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">```&lt;/span> 
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Customise the Office 365 encryption Message</title><link href="http://localhost/posts/2019-12-09-customise-the-office-365-encryption-message/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-12-09-customise-the-office-365-encryption-message/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://www.msb365.blog/?p=3513"
+>Customize the Office 365 encryption Message&lt;/a>&lt;/p>
+&lt;p>This is a useful guide on branding the messages sent out by Office Message Encryption (OME). I will be coming back to this one in the New Year.&lt;/p></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Daily Log - Tuesday 23 July 2019</title><link href="http://localhost/posts/2019-07-23-tuesday-23-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-23-tuesday-23-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="powershell">
+Powershell
+&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#powershell" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powershell" href="#powershell">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Following a recent re-brand of our charity the Marketing team distributed a number of new template documents to various teams throughout the organisation and it wasnt until after this had happened that I discovered the blank Word template they had issued was over 26MB !&lt;/p>
+&lt;p>Basically they had dropped a full page high resolution image onto the document to create the header and footer that resulted in a huge template. I immediately recreated ( my version was 80KB ! ) using compressed versions of the graphics cut out from their original and sent back to them, but of course the big template was already in the wild. I did manage to track down a few areas who had already created their own templates based on the huge original by running a quick Powershell script to filter out Word documents over 2MB. The script is reproduced below if you are interested&lt;/p>
+&lt;p>Get-ChildItem *.docx -File -Recurse -ErrorAction SilentlyContinue | Where-Object {$&lt;em>.Length -gt 2MB} | Sort-Object length -Descending | Select-Object Name,Directory,@{n=&amp;lsquo;GB&amp;rsquo;;e={&amp;quot;{0:N2}&amp;quot; -F ($&lt;/em>.length/ 1MB)}} | Format-List Name,Directory,GB&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="intune">
+Intune
+&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#intune" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Intune" href="#intune">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>This is something I have been waiting for… Adm template deployment to Windows 10 PC’s by Intune. I will definitely been looking at this more closely tomorrow&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Intune-announces-general-availability-of/ba-p/737412"
+>Microsoft Intune announces general availability of administrative templates - Microsoft Tech Community - 737412&lt;/a>&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="software">
+Software
+&lt;a data-clipboard-text="http://localhost/posts/2019-07-23-tuesday-23-july-2019/#software" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Software" href="#software">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>One of the little utilities that I use ALL the time on Windows is
+&lt;a
+class="gblog-markdown__link"
+href="https://www.microsoft.com/en-gb/p/ditto-clipboard/9nblggh3zbjq?activetab=pivot:overviewtab"
+>Ditto&lt;/a> a nice small and unobtrusive download from the Windows Store that provides clipboard management and saves me loads of time. If you are a Mac user then check out my
+&lt;a
+class="gblog-markdown__link"
+href="http://ukmac.net/2016/04/copied-sync-clipboard-ios-os-x/"
+>previous post on Copied&lt;/a>.&lt;/p>
+&lt;p>If you work on a PC or a Mac you should look into clipboard managers, one of those tools that you come to rely on and miss when you are using a PC without one. &lt;/p>
+&lt;p>Anyone with suggestions on how to manage clipboards across Windows AND Mac please let me know in comments…&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Powershell connection from MFA Account</title><link href="http://localhost/posts/2019-07-31-wednesday-31-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-31-wednesday-31-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.&lt;/p>
+&lt;p>Interestingly when I tried this today if I ran Connect-EXOPSSesion with parameter for my UPN it didn&amp;rsquo;t seem to work. If instead just ran the command with no parameters the standard login dialog appeared fine and I could enter my email address and authenticate with my Authenticator app ! Odd one&amp;hellip;&lt;/p>
+&lt;p>via
+&lt;a
+class="gblog-markdown__link"
+href="https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell?view=exchange-ps"
+>Connect to Exchange Online PowerShell using multi-factor authentication | Microsoft Docs&lt;/a>&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="powerapps">
+PowerApps
+&lt;a data-clipboard-text="http://localhost/posts/2019-07-31-wednesday-31-july-2019/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor PowerApps" href="#powerapps">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>I definitely need to come back to this one ! One of the tips here is to enable permissions to Sharepoint lists for PowerApps. The bit I need for my current project is to enable row level permissions so that users can only see entries they created. Very useful tip..&lt;/p>
+&lt;p>via
+&lt;a
+class="gblog-markdown__link"
+href="https://www.sharepointeurope.com/3-tips-need-know-using-powerapps-forms-sharepoint-lists/"
+>3 tips you need to know when using PowerApps forms on SharePoint lists - European SharePoint, Office 365 &amp;amp; Azure Conference, 2019, Prague, Czech Republic&lt;/a>&lt;/p>
+&lt;p>ARGHH !&lt;/p>
+&lt;p>So I have created an app that uses the AzureAD connector to find the logged in users account details (Office location) only to find that when deploying this app to actual users ( who aren&amp;rsquo;t Azure AD admins ) it doesn&amp;rsquo;t work ! The user needs admin rights to query AzureAD so the connector is effectively no good for what I want to use it for.. Ah well.. Back to the Drawing board ! See article below for more.&lt;/p>
+&lt;p>via
+&lt;a
+class="gblog-markdown__link"
+href="https://powerusers.microsoft.com/t5/Connectors/Issue-with-Azure-AD-Connector/td-p/66322"
+>Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/PowerApps" term="PowerApps" label="PowerApps"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Setting Lock Screen Wallpaper with InTune</title><link href="http://localhost/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Just found
+&lt;a
+class="gblog-markdown__link"
+href="https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-wallpaper-with-intune-for-non-windows-10-enterprise-or-windows-10-education-machines/"
+>this article&lt;/a> on the
+&lt;a
+class="gblog-markdown__link"
+href="https://www.thelazyadministrator.com/"
+>Lazy Administrator&lt;/a> that describes how to enforce a Windows lock screen wallpaper on Windows 10 for all editions ( not just Enterprise and Education which is all Microsoft allow you to do with Intune out of the box ! )&lt;/p>
+&lt;p>I will be using this script. Thanks Brad.&lt;/p></content><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry></feed>

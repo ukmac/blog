@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Office 365 on Ukmac.net</title><link href="http://localhost/tags/Office-365/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Office-365/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Office-365/</id><entry><title>Adaptive Cards for Beginners</title><link href="http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="teams-and-flow">
+Teams and Flow
+&lt;a data-clipboard-text="http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/#teams-and-flow" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Teams and Flow" href="#teams-and-flow">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com"
+>Regarding365.com&lt;/a> has this very neat how to article on creating an Adaptive Card in Teams when someone sends a specific Tweet.&lt;/p>
+&lt;p>I&amp;rsquo;ve not seen the adaptive card designer mentioned in the post but will check it out as this looks pretty useful.&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/adaptive-cards-for-beginners-monitor-a-hashtag-on-twitter-1b9c1ea6e56f"
+>Adaptive Cards for Beginners- Monitor a Hashtag on Twitter&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Flow" term="Flow" label="Flow"/></entry><entry><title>Customise Room Resource work hours in Office 365</title><link href="http://localhost/posts/2019-09-18-customise-room-resource-work-hours-in-office-365/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-09-18-customise-room-resource-work-hours-in-office-365/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>I have recently started setting up Room Resources in our Office 365 tenant and quickly discovered that that rooms are only available Monday to Friday 08:00 to 17:00 by default.&lt;/p>
+&lt;p>Fortunately there is a Powershell command to modify this to suit your room requirements.&lt;/p>
+&lt;p>First connect to Exchange PowershellSet-MailboxCalendarConfiguration -Identity &lt;SMTPRoomResource> -WorkingHoursStartTime 00:00:00 -WorkingHoursEndTime 23:59:59&lt;/p>
+&lt;p>This is for an individual room resource. Alternatively if all your rooms have the same availability schedule you can change all at once with the command below&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Powershell" data-lang="Powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Get-MailBox&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">where &lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nv">$_&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">ResourceType&lt;/span> &lt;span class="o">-eq&lt;/span> &lt;span class="s2">&amp;#34;Room&amp;#34;&lt;/span>&lt;span class="p">}&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">Set-MailboxCalendarConfiguration&lt;/span> &lt;span class="n">-WorkingHoursStartTime&lt;/span> &lt;span class="n">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">00&lt;/span> &lt;span class="n">-WorkingHoursEndTime&lt;/span> &lt;span class="n">23&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">59&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="n">59&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">```&lt;/span> 
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Customise the Office 365 encryption Message</title><link href="http://localhost/posts/2019-12-09-customise-the-office-365-encryption-message/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-12-09-customise-the-office-365-encryption-message/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://www.msb365.blog/?p=3513"
+>Customize the Office 365 encryption Message&lt;/a>&lt;/p>
+&lt;p>This is a useful guide on branding the messages sent out by Office Message Encryption (OME). I will be coming back to this one in the New Year.&lt;/p></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Powershell" term="Powershell" label="Powershell"/></entry><entry><title>Daily Post - 07/12/2020</title><link href="http://localhost/posts/2020-12-07-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-07-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="macbook-air-update">
+MacBook Air Update
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#macbook-air-update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor MacBook Air Update" href="#macbook-air-update">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Loving the new MacBook. I have it mostly setup as I want it now and Photo Library sync seems to have finished so I should be able to start to see the real world battery life. Currently I don&amp;rsquo;t have any great need for long battery life as I am working at home like most others but knowing that there is no rush to get plugged is nice and so far the lowest the battery has gone is 50% ( at the time I am writing this blog post).&lt;/p>
+&lt;p>Last night was the first time I felt the bottom of the case get warm. I had just helped my son set up a Zoom call when I noticed it. It may have been Zoom, though I didn&amp;rsquo;t investigate it at the time and since then its been cool cool cool&amp;hellip;&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="mimestream-beta">
+Mimestream Beta
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#mimestream-beta" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Mimestream Beta" href="#mimestream-beta">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Whilst setting up the apps I wanted I decided to try to find a decent mail client for my home Gmail account. I have used the Gmail web interface for a long time more out of laziness than anything so this seemed an opportune time to look for a better alternative. &lt;a
+class="gblog-markdown__link"
+href="https://mimestream.com/"
+>Mimestream&lt;/a> is free to download at the moment during the beta period. It has a very Gmail-like layout and supports all the Gmail features such as labels that typically don&amp;rsquo;t work well in standard email clients. I will post an update on my thoughts when I have been using it for a while but so far I am quite happy.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4"
+>A little bit more security&lt;/a>&lt;/td>
+&lt;td>A quick guide on how to enable default malware policy for Office 365&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://robservatory.com/16gb-of-ram-and-75-open-appswhat-could-go-wrong/"
+>16GB of RAM and 75 open apps&lt;/a>&lt;/td>
+&lt;td>Stress testing an M1 MacBook Pro&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 08/12/2020</title><link href="http://localhost/posts/2020-12-08-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-08-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="email-pains">
+Email Pains
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#email-pains" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Email Pains" href="#email-pains">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Today has been a painful day trying to resolve an issue with Mail rules in Exchange Online. Yesterday I switched on a Malware Policy to block certain files types after reading &lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4"
+>this article.&lt;/a> All seemed fine but then first thing this morning I received a number of calls from users unable to email Helpdesk calls to our Helpdesk system (&lt;a
+class="gblog-markdown__link"
+href="https://www.freshdesk.com"
+>Freshdesk&lt;/a>). It seems as though the change I made yesterday had triggered a mail rule setup to block users autoforwarding emails externally into action that must not have been working before.&lt;/p>
+&lt;p>To log calls with Freshdesk by email you send to a specific email address that is created when Freshdesk is configured. To make things easy for my organisations users I had setup a shared mailbox with the email address support@xxxx and instructed them to log calls by emailing this address. The shared mailbox was then set to autoforward to the Freshdesk email address. This autoforward was now broken and so users were unable to log calls or reply to existing ones.&lt;/p>
+&lt;p>Unfortunately trying to fix mail rules in Exchange is made more difficult due to the very long time it takes for changes made to become operational. According to &lt;a
+class="gblog-markdown__link"
+href="https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_exchon-mso_o365b/dlp-and-mail-transport-rules-in-eac/75486160-ee0e-4cc2-a9cb-a9311630cf83"
+>Lance Cal in this Microsoft Community thread&lt;/a> changes can take up to 12 hours to become active. Thats a whole working day before I can see if the change I made to fix our issue works and during which time our IT Helpdesk that relies on email autoforward rules to operate remains unusable.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="update">
+Update
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Update" href="#update">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>It seems that Exchange mail rules is not what I should have been looking at after all. What I discovered was that the mail rule I thought was blocking the autoforward was not being triggered at all. I found this by running the mail rule report ( shown highlighted in red in diagram below )&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/mail-rule-report.jpg"
+alt=""
+title="Mail rule report"
+/>&lt;/p>
+&lt;p>Once I could see that no emails were matching the rule I started looking for other places where autoforwarding might be blocked. I had suspected there was probably something in the 365 Security and Compliance site that was responsible and the obvious culprit was in the &lt;a
+class="gblog-markdown__link"
+href="https://protection.office.com/antispam"
+>Anti-Spam&lt;/a> settings. What I found here was that the &amp;ldquo;Automatic forwarding&amp;rdquo; setting was set to &amp;ldquo;Automatic - System-controlled&amp;rdquo;. Changing this to &amp;ldquo;On - Forwarding is enabled&amp;rdquo; immediately resolved the issue I was having but of course at the same time changed the default policy for all users to allow auto-forwarding externally.&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/outboundspam.jpg"
+alt=""
+title="Outbound spam filter policy"
+/>&lt;/p>
+&lt;p>To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/outboundrule.jpg"
+alt=""
+title="Additional outbound rule"
+/>&lt;/p>
+&lt;p>A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Wednesday 24 July 2019</title><link href="http://localhost/posts/2019-07-24-wednesday-24-july-2019/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-24-wednesday-24-july-2019/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>##Microsoft Forms&lt;/p>
+&lt;p>I am currently trying to create a new starter process with Microsoft Forms/Flow and Sharepoint. One feature that would make this process work a lot better would be to enable the initial Form to have some of the information pre-populated so when it is submitted the information can be linked to existing data in Sharepoint. It seems this is a requirement that others have found lacking in Forms at the moment&lt;/p>
+&lt;p>Discussion at 
+&lt;a
+class="gblog-markdown__link"
+href="https://techcommunity.microsoft.com/t5/Microsoft-Forms/Pre-populate-fields-in-Microsoft-Forms-via-URL-parameter/td-p/113803"
+>Pre-populate fields in Microsoft Forms via URL parameter? - Microsoft Tech Community - 113803&lt;/a>&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box/suggestions/18741331-allow-pre-populated-data-via-url-parameter"
+>Vote for this requirement at Uservoice for Forms&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/></entry></feed>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Cyber Attacks on Ukmac.net</title><link href="http://localhost/tags/Cyber-Attacks/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Cyber-Attacks/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Cyber-Attacks/</id><entry><title>An Alternative Approach to Preventing Ransomware ?</title><link href="http://localhost/posts/2016-04-23-an-alternative-approach-to-preventing-ransomware/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2016-04-23-an-alternative-approach-to-preventing-ransomware/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>The rise in the prevelance of
+&lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Ransomware"
+>Ransomware&lt;/a> hasn&amp;rsquo;t really impacted on Mac Users as it has with the Windows community so far&amp;hellip;
+Of course the Mac has benefited from a secure design and being a smaller (relatively) target over the years, but with the growth in use of OS X and the maturity of the tools used by unscrupulous elements this security by obscurity can no longer be guaranteed.&lt;/p>
+&lt;p>When the official downloadable version of the popular BitTorrent client,
+&lt;a
+class="gblog-markdown__link"
+href="https://www.transmissionbt.com"
+>Transmission&lt;/a>, was infected with a Ransomware client (
+&lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/KeRanger"
+>KeRanger&lt;/a>) in March year it seemed that the reality had come home to roost. The fact is Ransomware poses one of the biggest risks to everyones personal data so it is exciting to hear of a company who are trying to tackle the issue with a form of early detection and blocking for this type of computer virus.&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://objective-see.com/"
+>Objective-see&lt;/a> is a company created by Patrick Wardle to publish security tools to protect Mac users and one of his products recently released,
+&lt;a
+class="gblog-markdown__link"
+href="https://objective-see.com/products/ransomwhere.html"
+>RansomWhere?&lt;/a>, aims to mitigate the impact of a Ransomware infection. It does this by monitoring for activity that looks like Ransomware, notably the rapid modification of multiple files. When it detects suspicious access it identifies and stops the process responsible and prompts the user to warn them that there is a potential ongoing infection. It then offers the option of killing the process or if the alert is a false positive triggered by some known bulk update process for example, to ignore it.&lt;/p>
+&lt;p>This approach is not infallible and of course there may still be a small number of files encrypted before it detects what is going on but if it prevents hundreds or thousands of documents from being irretrievably encrypted (without handing over cash to the Ransomware creators) it is certainly better than nothing, especially when you consider that this is not a pay monthly service or even a pay-for app but is in fact free to download. It should be noted that this is not a fully developed solution and is more of a working proof of concept so you may chose to wait for future more stable version arrives.&lt;/p>
+&lt;p>Patrick&amp;rsquo;s site goes into quite a bit of detail which might put off less technical users and I wonder if this program works well whether it should be launched in a more user friendly package ? It&amp;rsquo;s great to know the detail behind a solution such as this but most users are not that interested, they just need to know what it does and how to install. The low level information can be presented in technical specification page or a blog post. Speaking of which Patrick has a really interesting article on his site titled
+&lt;a
+class="gblog-markdown__link"
+href="https://objective-see.com/blog/blog_0x0F.html"
+>&amp;lsquo;Towards Generic Ransomware Detection?&amp;rsquo;&lt;/a> that is worth a read.&lt;/p>
+&lt;p>I have bookmarked
+&lt;a
+class="gblog-markdown__link"
+href="https://objective-see.com/"
+>Objective-see&lt;/a> and will be watching this project with interest.&lt;/p></content><category scheme="http://localhost/tags/Cyber-Attacks" term="Cyber-Attacks" label="Cyber Attacks"/></entry><entry><title>Louisiana declares emergency over cyberattacks targeting schools</title><link href="http://localhost/posts/2019-07-30-louisiana-declares-emergency-over-cyberattacks-targeting-schools/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-07-30-louisiana-declares-emergency-over-cyberattacks-targeting-schools/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://statescoop.com/louisiana-declares-emergency-over-cyberattacks-targeting-schools/"
+>Louisiana declares emergency over cyberattacks targeting schools&lt;/a>&lt;/p>
+&lt;p>Things seem to be going pretty badly for a lot of small states in America at the moment. As a regular listener to
+&lt;a
+class="gblog-markdown__link"
+href="https://www.grc.com/SecurityNow.htm"
+>Security Now&lt;/a> it seems there aren&amp;rsquo;t many weeks that go by at the moment where one state or another isn&amp;rsquo;t being crippled by ransomware. As they have discussed there is money to be made and it seems some governers are paying the ransom rather than trying to recover manually. Either way there are some significant sums of money involved in responding to this events and it seems that cyber insurance policies may not continue to be the way out in the future.&lt;/p>
+&lt;p> &lt;/p></content><category scheme="http://localhost/tags/Cyber-Attacks" term="Cyber-Attacks" label="Cyber Attacks"/></entry></feed>

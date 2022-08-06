@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Daily Post on Ukmac.net</title><link href="http://localhost/tags/Daily-Post/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Daily-Post/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Daily-Post/</id><entry><title>Daily Post - 27/12/21</title><link href="http://localhost/posts/2021-12-27-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-12-27-daily-post/</id><published>2021-12-27T00:00:00+00:00</published><updated>2021-12-27T00:00:00+00:00</updated><content type="html">
+&lt;p>Over the Christmas break I have been testing out a few different Linux Distros on a Microsoft Surface Go Laptop. This laptop was my test machine for Windows 11 but the experience was less than favourable, slow, unresponsive and noisy as the fan seemed to run pretty constantly.&lt;/p>
+&lt;p>After a brief test of &lt;a
+class="gblog-markdown__link"
+href="https://elementary.io/"
+>Elementary OS&lt;/a> then &lt;a
+class="gblog-markdown__link"
+href="https://mxlinux.org/"
+>MX Linux&lt;/a> I have settled on &lt;a
+class="gblog-markdown__link"
+href="https://pop.system76.com/"
+>Pop!_OS&lt;/a>. On this laptop Pop!_OS runs really well, performance is snappy and the fan rarely kicks in.&lt;/p>
+&lt;p>Testing this as a work machine for me means installing Microsoft Edge as my default browser. Unfortunately the Linux version of Edge is still missing Azure AD sign in and sync which is a real shame and surprising given that Windows and Mac versions have had this feature for a long time now.&lt;/p>
+&lt;p>Almost all my&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2021-12-27-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://pop.system76.com"
+>Pop!_OS&lt;/a>&lt;/td>
+&lt;td>Ubuntu based Linux&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 02/11/2020</title><link href="http://localhost/posts/2020-11-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-11-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ).&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://sccmentor.com/2020/03/04/keep-it-simple-with-intune-17-uninstalling-default-apps-using-the-store-for-business/"
+>Intune - Uninstalling default Windows Apps&lt;/a>&lt;/td>
+&lt;td>This is one I am testing at the moment. Many of the staff in my organisation end up using the Windows Mail app instead of Outlook or OWA and I would like to prevent this so I am planning on using this approach to remove Mail app from all PC&amp;rsquo;s&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="powerapps">
+Powerapps
+&lt;a data-clipboard-text="http://localhost/posts/2020-11-02-daily-post/#powerapps" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Powerapps" href="#powerapps">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn&amp;rsquo;t ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.&lt;/p>
+&lt;p>If you have any ideas on this one please let me know.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Intune" term="Intune" label="Intune"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 07/12/2020</title><link href="http://localhost/posts/2020-12-07-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-07-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="macbook-air-update">
+MacBook Air Update
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#macbook-air-update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor MacBook Air Update" href="#macbook-air-update">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Loving the new MacBook. I have it mostly setup as I want it now and Photo Library sync seems to have finished so I should be able to start to see the real world battery life. Currently I don&amp;rsquo;t have any great need for long battery life as I am working at home like most others but knowing that there is no rush to get plugged is nice and so far the lowest the battery has gone is 50% ( at the time I am writing this blog post).&lt;/p>
+&lt;p>Last night was the first time I felt the bottom of the case get warm. I had just helped my son set up a Zoom call when I noticed it. It may have been Zoom, though I didn&amp;rsquo;t investigate it at the time and since then its been cool cool cool&amp;hellip;&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="mimestream-beta">
+Mimestream Beta
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#mimestream-beta" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Mimestream Beta" href="#mimestream-beta">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Whilst setting up the apps I wanted I decided to try to find a decent mail client for my home Gmail account. I have used the Gmail web interface for a long time more out of laziness than anything so this seemed an opportune time to look for a better alternative. &lt;a
+class="gblog-markdown__link"
+href="https://mimestream.com/"
+>Mimestream&lt;/a> is free to download at the moment during the beta period. It has a very Gmail-like layout and supports all the Gmail features such as labels that typically don&amp;rsquo;t work well in standard email clients. I will post an update on my thoughts when I have been using it for a while but so far I am quite happy.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-07-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4"
+>A little bit more security&lt;/a>&lt;/td>
+&lt;td>A quick guide on how to enable default malware policy for Office 365&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://robservatory.com/16gb-of-ram-and-75-open-appswhat-could-go-wrong/"
+>16GB of RAM and 75 open apps&lt;/a>&lt;/td>
+&lt;td>Stress testing an M1 MacBook Pro&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 08/12/2020</title><link href="http://localhost/posts/2020-12-08-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-08-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="email-pains">
+Email Pains
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#email-pains" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Email Pains" href="#email-pains">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Today has been a painful day trying to resolve an issue with Mail rules in Exchange Online. Yesterday I switched on a Malware Policy to block certain files types after reading &lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4"
+>this article.&lt;/a> All seemed fine but then first thing this morning I received a number of calls from users unable to email Helpdesk calls to our Helpdesk system (&lt;a
+class="gblog-markdown__link"
+href="https://www.freshdesk.com"
+>Freshdesk&lt;/a>). It seems as though the change I made yesterday had triggered a mail rule setup to block users autoforwarding emails externally into action that must not have been working before.&lt;/p>
+&lt;p>To log calls with Freshdesk by email you send to a specific email address that is created when Freshdesk is configured. To make things easy for my organisations users I had setup a shared mailbox with the email address support@xxxx and instructed them to log calls by emailing this address. The shared mailbox was then set to autoforward to the Freshdesk email address. This autoforward was now broken and so users were unable to log calls or reply to existing ones.&lt;/p>
+&lt;p>Unfortunately trying to fix mail rules in Exchange is made more difficult due to the very long time it takes for changes made to become operational. According to &lt;a
+class="gblog-markdown__link"
+href="https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_exchon-mso_o365b/dlp-and-mail-transport-rules-in-eac/75486160-ee0e-4cc2-a9cb-a9311630cf83"
+>Lance Cal in this Microsoft Community thread&lt;/a> changes can take up to 12 hours to become active. Thats a whole working day before I can see if the change I made to fix our issue works and during which time our IT Helpdesk that relies on email autoforward rules to operate remains unusable.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="update">
+Update
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-08-daily-post/#update" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Update" href="#update">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>It seems that Exchange mail rules is not what I should have been looking at after all. What I discovered was that the mail rule I thought was blocking the autoforward was not being triggered at all. I found this by running the mail rule report ( shown highlighted in red in diagram below )&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/mail-rule-report.jpg"
+alt=""
+title="Mail rule report"
+/>&lt;/p>
+&lt;p>Once I could see that no emails were matching the rule I started looking for other places where autoforwarding might be blocked. I had suspected there was probably something in the 365 Security and Compliance site that was responsible and the obvious culprit was in the &lt;a
+class="gblog-markdown__link"
+href="https://protection.office.com/antispam"
+>Anti-Spam&lt;/a> settings. What I found here was that the &amp;ldquo;Automatic forwarding&amp;rdquo; setting was set to &amp;ldquo;Automatic - System-controlled&amp;rdquo;. Changing this to &amp;ldquo;On - Forwarding is enabled&amp;rdquo; immediately resolved the issue I was having but of course at the same time changed the default policy for all users to allow auto-forwarding externally.&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/outboundspam.jpg"
+alt=""
+title="Outbound spam filter policy"
+/>&lt;/p>
+&lt;p>To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.&lt;/p>
+&lt;p>&lt;img
+src="/images/2020-12-08-daily-post/outboundrule.jpg"
+alt=""
+title="Additional outbound rule"
+/>&lt;/p>
+&lt;p>A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p></content><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 09/12/2020</title><link href="http://localhost/posts/2020-12-09-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2020-12-09-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://code.visualstudio.com/"
+>Visual Studio Code&lt;/a> is now my preferred text editor for updating this Jekyll blog. The built in Github connectivity and excellent Markdown plugins for previewing posts before they are committed combine to make it one of the simplest ways to create new content.&lt;/p>
+&lt;p>I have tried &lt;a
+class="gblog-markdown__link"
+href="https://prose.io"
+>Prose.io&lt;/a> (&lt;a
+class="gblog-markdown__link"
+href="http://ukmac.net/2020/10/prose.io/"
+>see my post from October&lt;/a>) a lovely simple to use web editor for static content Github hosted sites such as Jekyll. The main limitation of Prose for me is the lack of any way to upload and link to images in my posts. This may or may not be an issue depending on the type of content you need to post but personally I do want a way to upload and link to screenshots within my posts.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2020-12-09-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-available-this-week-in-microsoft-teams/ba-p/1968481"
+>Teams Breakout Rooms&lt;/a>&lt;/td>
+&lt;td>Microsoft have announced that Teams will be getting breakout rooms feature starting this week&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="http://feedproxy.google.com/~r/TheIphoneBlog/~3/PPuDkRXT4Uc/whatsapp-wants-apples-privacy-labels-apply-imessage-well"
+>Whatsapp unhappy with Apple privacy labels&lt;/a>&lt;/td>
+&lt;td>iMore article regarding recent complaint from Whatsapp. As much as I dislike Facebook and Whatsapp I tend to agree with the author that they do have a point here. &lt;em>Update&amp;hellip; Apple has confirmed the privacy labels will apply to built in apps as well so that steals Whatsapps thunder a little (&lt;a
+class="gblog-markdown__link"
+href="https://www.macrumors.com/2020/12/09/apple-responds-to-whatsapp-app-store-privacy/"
+>link&lt;/a>)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://pusherofpedals.com/2020/12/09/christmas-gift-guide/"
+>Xmas Gift Guide for Cyclists&lt;/a>&lt;/td>
+&lt;td>Some gift ideas for the cyclist(s) in your household&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Teams" term="Teams" label="Teams"/><category scheme="http://localhost/tags/Microsoft" term="Microsoft" label="Microsoft"/><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://localhost/tags/Jekyll" term="Jekyll" label="Jekyll"/><category scheme="http://localhost/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Daily Post - 11/09/21</title><link href="http://localhost/posts/2021-09-11-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-09-11-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Whew..&lt;/p>
+&lt;p>Relaxing on the decking with a well deserved beer after a busy Saturday. Badminton at Oakengates Leisure Centre with the kids this morning then a trip over to eldest&amp;rsquo;s new house to help with sorting the garden which was a tad overgrown.&lt;/p>
+&lt;p>Still loving the iPad Pro and Apple Magic keyboard and so glad I finally overcame the reservations over price and bought one ( though it was helped by the fact that I got mine for half price as a second user unit through Amazon ). I am looking forward to the forthcoming release of macOS Monterey and the new Universal Control feature.&lt;/p>
+&lt;p>I finished the Stephen King&amp;rsquo;s new book, Billy Summers on Audible on the drive to Yorkshire this week. Unusual for King that there is no supernatural or horror element ( apart from a few very brief references to The Shining ) but I really enjoyed it none the less. One of those Audible books that I couldn&amp;rsquo;t wait to get into the car to carry on listening to and was gutted when it finished.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2021-09-11-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks"
+>Get the fucking vaccine&lt;/a>&lt;/td>
+&lt;td>Succinct !&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://how-i-experience-web-today.com/"
+>How I Experience The Web&lt;/a>&lt;/td>
+&lt;td>Try this, its not far from the truth&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 15/08/2021</title><link href="http://localhost/posts/2021-08-15-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-15-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="new-komoot-route">
+New Komoot Route
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#new-komoot-route" class="gblog-post__anchor clip flex align-center" aria-label="Anchor New Komoot Route" href="#new-komoot-route">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>This morning I did a 60K route planned on &lt;a
+class="gblog-markdown__link"
+href="https://www.komoot.com/"
+>Komoot&lt;/a> &lt;a
+class="gblog-markdown__link"
+href="https://www.komoot.com/tour/454744827?ref=itd"
+>see this link&lt;/a> for the full route. I really enjoyed this ride, most of the lanes were very quiet and I hardly saw any cars at all until I was quite close to home which was really nice. Komoot is a great way to plan a route into areas that you are not familiar with as it does a very good job of keeping you away from roads that have lots of those big metal boxes shooting up and down&amp;hellip;&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="iphone-plans">
+iPhone plans
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#iphone-plans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor iPhone plans" href="#iphone-plans">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>I made the mistake last night of openly talking about my iPhone ( an iPhone 11 bought in October 2019 ) and saying I thought I would probably need to upgrade later this year. I think it heard me because when I came to take a photo of &lt;a
+class="gblog-markdown__link"
+href="https://en.m.wikipedia.org/wiki/Norbury_Junction"
+>Norbury Junction&lt;/a> during my ride this morning I was greeted with an error message informing me that there was not enough storage left to perform the operation. I&amp;rsquo;ve always been convinced of electronic equipments ability to know when its planned replacement is being discussed having fallen foul of this sort of thing on many occasions previously, todays event just confirms my suspicion ( they are listening ! )&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="edge-grumbles">
+Edge Grumbles
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-15-daily-post/#edge-grumbles" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Edge Grumbles" href="#edge-grumbles">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>I like Edge ( the new one ). I started using it early in the beta and immediately decided it was the way forward for myself and my work ( I pushed it out to all PCs early too ), but on my iPad there are things that bug me. The big one is when I create a new tab and start typing a URL or search term only to look at the screen and see nothing has appeared because I haven&amp;rsquo;t selected the address field ( clicked into it or pressed CMD-L ). Not sure if its me but if you open a tab in a browser what else would you normally do but enter a URL or search term ? Why can&amp;rsquo;t it select the address bar ready without having to manually select it ? Come on Microsoft this isn&amp;rsquo;t really difficult is it ?&lt;/p></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 19/08/2021</title><link href="http://localhost/posts/2021-08-19-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-19-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="st-albans">
+St Albans
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-19-daily-post/#st-albans" class="gblog-post__anchor clip flex align-center" aria-label="Anchor St Albans" href="#st-albans">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>On site at St Albans today and Watford tomorrow so overnight stay for first time in a while. I am staying at the Jury&amp;rsquo;s Inn in Watford and just back from evening meal in the bar that was pretty rubbish. I ordered burger and chips for £15. The burger was overcooked, dry and tasteless and the chips had been covered in salt ( which I dont eat on food ) so were pretty much inedible. I should have taken myself out into town to find somewhere to eat but after an early start and a long day I couldn&amp;rsquo;t be bothered and opted for the easy option of eating in the hotel. I&amp;rsquo;ll never learn, hotel food is generally pretty meh and often worse than that. Would have been better off with a McDonalds !&lt;/p></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry><entry><title>Daily Post - 2/7/2021</title><link href="http://localhost/posts/2021-07-02-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-07-02-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Klaus_Schulze"
+>Klaus Schulze&lt;/a> is one of my regular favourites.&lt;/p>
+&lt;p>This week I managed to get hold of a copy of his &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/The_Ultimate_Edition"
+>Ultimate Edition&lt;/a> 50 CD box set in FLAC format that I needed to convert to import into Apple Music for playback. Today I came across a nice conversion tool &lt;a
+class="gblog-markdown__link"
+href="https://tmkk.undo.jp/xld/index_e.html"
+>XLD&lt;/a> that I have used to split the single .flac files into seperate Apple Lossless files. If you have flac files with accompanying .cue files XLD will open the cue file and transcode the source file into seperate files quickly and easily. Its a pretty basic application (when you launch it there isn&amp;rsquo;t even a gui interface displayed, just a set of menu options on the menu bar) but is still updated and the latest version even has native Apple Silicon support. There is also a command line version of the app for those who prefer to work in a terminal window.&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2021-07-02-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://tmkk.undo.jp/xld/index_e.html"
+>XLD&lt;/a>&lt;/td>
+&lt;td>X Lossless Decoder (XLD) is a simple tool for Macs to decode/convert/play lossless audio files. GUI and CLI tool&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://readme.so/editor"
+>readme.so&lt;/a>&lt;/td>
+&lt;td>Readme.so is a very simple web site for creating readme.md files quickly and easily. A generic version of this site with user definable blocks would be a great way of creating standard template documents of all sorts.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://pandoc.org"
+>pandoc&lt;/a>&lt;/td>
+&lt;td>Want to convert a markup file to a different format ? Pandoc is your tool&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/><category scheme="http://localhost/tags/Apps" term="Apps" label="Apps"/><category scheme="http://localhost/tags/Apple-Music" term="Apple-Music" label="Apple Music"/></entry><entry><title>Daily Post - 28/08/21</title><link href="http://localhost/posts/2021-08-28-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2021-08-28-daily-post/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="more-obsidian-testing">
+More Obsidian testing
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-28-daily-post/#more-obsidian-testing" class="gblog-post__anchor clip flex align-center" aria-label="Anchor More Obsidian testing" href="#more-obsidian-testing">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>Today I came across this article on &lt;a
+class="gblog-markdown__link"
+href="https://www.macstories.net/ios/my-markdown-writing-and-collaboration-workflow-powered-by-working-copy-3-6-icloud-drive-and-github/"
+>MacStories&lt;/a> in which Federico Vittici describes how he uses Working Copy and GitHub to manage his writing with &lt;a
+class="gblog-markdown__link"
+href="https://apps.apple.com/gb/app/ia-writer/id775737172"
+>iA Writer&lt;/a> and &lt;a
+class="gblog-markdown__link"
+href="https://apps.apple.com/gb/app/pretext/id1347707000"
+>Pretext&lt;/a>.&lt;/p>
+&lt;p>While I have been testing Working Copy I have tried creating a synced folder with the local Obsidian app folders and also with the Obsidians folder in iCloud. Both seemed to work fine but I was a bit unsure whether syncing with iCloud was recommended and hadn’t found any articles to confirm this was something you should do (in the past this sort of approach would have been a recipe for duplicated files and other odd issues). Anyway I am pleased that Federico’s article confirmed that this was ok and in fact makes editing in-place with multiple editors easy (I am writing this in iA Writer and the file is in the Obsidian iCloud folder which is synced to GitHub with Working Copy so there you are…)&lt;/p>
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="daily-links">
+Daily Links
+&lt;a data-clipboard-text="http://localhost/posts/2021-08-28-daily-post/#daily-links" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Daily Links" href="#daily-links">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a
+class="gblog-markdown__link"
+href="https://9to5mac.com/2021/08/25/icloud-custom-email-domains-now-available-in-beta-heres-how-to-use-them/"
+>Custom email domains in iCloud Mail&lt;/a>&lt;/td>
+&lt;td>This is an interesting development. I have been thinking about moving to a family subscription of Windows 365 from my current Google apps for Domains setup but now I have a third option for hosting the families email and this one comes free ( well as part of our iCloud subscription at least )&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content><category scheme="http://localhost/tags/Daily-Post" term="Daily-Post" label="Daily Post"/></entry></feed>

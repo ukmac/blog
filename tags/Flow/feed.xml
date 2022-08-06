@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Flow on Ukmac.net</title><link href="http://localhost/tags/Flow/" rel="alternate" type="text/html" title="HTML"/><link href="http://localhost/tags/Flow/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-06T22:05:39+00:00</updated><id>http://localhost/tags/Flow/</id><entry><title>Adaptive Cards for Beginners</title><link href="http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/" rel="alternate" type="text/html" hreflang="en"/><id>http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;div class="gblog-post__anchorwrap">
+&lt;h2 id="teams-and-flow">
+Teams and Flow
+&lt;a data-clipboard-text="http://localhost/posts/2019-08-21-adaptive-cards-for-beginners/#teams-and-flow" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Teams and Flow" href="#teams-and-flow">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;/div>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com"
+>Regarding365.com&lt;/a> has this very neat how to article on creating an Adaptive Card in Teams when someone sends a specific Tweet.&lt;/p>
+&lt;p>I&amp;rsquo;ve not seen the adaptive card designer mentioned in the post but will check it out as this looks pretty useful.&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link"
+href="https://regarding365.com/adaptive-cards-for-beginners-monitor-a-hashtag-on-twitter-1b9c1ea6e56f"
+>Adaptive Cards for Beginners- Monitor a Hashtag on Twitter&lt;/a>&lt;/p></content><category scheme="http://localhost/tags/Office-365" term="Office-365" label="Office 365"/><category scheme="http://localhost/tags/Flow" term="Flow" label="Flow"/></entry></feed>
