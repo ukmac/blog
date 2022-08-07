@@ -1,15 +1,11 @@
 ---
-
+date: "2015-06-19T00:00:00Z"
 title: Say no to Pakisaurus - Hilarious Rant by Guzzy Bear
-post_id: 124
-categories: 
-- Tech
 tags:
 - Videos
-- Humour
 ---
 
-[embed]https://youtu.be/xd4ygI0GHV8[/embed]
+{{< youtube xd4ygI0GHV8 >}}
 
 UPDATE: I should apologise in advance for the non-Appleiness of this post, it seems I am in a sharing mood today !
 

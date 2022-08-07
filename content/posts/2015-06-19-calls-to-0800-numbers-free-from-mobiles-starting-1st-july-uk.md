@@ -1,9 +1,6 @@
 ---
-
+date: "2015-06-19T00:00:00Z"
 title: Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)
-post_id: 121
-categories: 
-- Tech
 tags:
 - Hints and tips
 ---

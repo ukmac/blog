@@ -1,10 +1,8 @@
 ---
-
+date: "2015-06-1700:00:00Z"
 title: Hackers find way of breaking out of Apple's sand box ( OS X and iOS )
-post_id: 114
-categories: 
-  - Apple
 tags:
+  - Apple
   - Security
 ---
 

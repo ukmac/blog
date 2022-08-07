@@ -1,11 +1,7 @@
 ---
-
+date: "2015-06-24T00:00:00Z"
 title: How to Access Magazines on Zinio for Free
-post_id: 112
-categories: 
-- Apple
 tags:
-- Apps
 - Hints and tips
 ---
 

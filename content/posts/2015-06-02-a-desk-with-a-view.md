@@ -1,15 +1,10 @@
 ---
-
+date: "2015-06-02T00:00:00Z"
 title: A Minimal Desk With A View
-post_id: 106
-categories: 
-- Apple
 tags:
-- Mac Setups
+- Apple
 ---
-
-[caption id="attachment_107" align="alignnone" width="300"]
-[![roomwithaview](http://ukmac.net/wp-content/uploads/2015/06/roomwithaview.jpg)](http://eclecticdaze.com/post/67474888057) Click to view original article[/caption]
+![roomwithaview](http://ukmac.net/wp-content/uploads/2015/06/roomwithaview.jpg)](http://eclecticdaze.com/post/67474888057) Click to view original article
 
 This minimal office space looks like it has an amazing view !
 

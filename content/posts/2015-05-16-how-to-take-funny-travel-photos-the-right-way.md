@@ -1,9 +1,6 @@
 ---
-
+date: "2015-06-16T00:00:00Z"
 title: How to Take Funny Travel Photos - The Right Way
-post_id: 96
-categories: 
-- Tech
 tags:
 - Photography
 ---

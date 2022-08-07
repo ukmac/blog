@@ -1,11 +1,8 @@
 ---
-
+date: "2015-05-16T00:00:00Z"
 title: Minimal Desk with iMac
-post_id: 92
-categories: 
-- Apple
 tags:
-- Mac Setups
+- Apple
 ---
 
 ![](http://40.media.tumblr.com/aa81494a424019f49fd4b6226b03c098/tumblr_mrxc9f4Gr71rqeb09o1_1280.jpg)
