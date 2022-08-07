@@ -1,11 +1,8 @@
 ---
-
+date: "2015-05-13T00:00:00Z"
 title: Cablox Cable Organiser
-post_id: 86
-categories: 
-- Apple
 tags:
-- Mac Setups
+- Apple
 ---
 
 [![Cablox-Cable-Organizer](http://ukmac.net/wp-content/uploads/2015/05/Cablox-Cable-Organizer.jpg)](http://ukmac.net/wp-content/uploads/2015/05/Cablox-Cable-Organizer.jpg)

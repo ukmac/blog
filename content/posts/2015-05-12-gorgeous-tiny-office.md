@@ -1,11 +1,8 @@
 ---
-
+date: "2015-05-12T00:00:00Z"
 title: Gorgeous Tiny Office
-post_id: 77
-categories: 
-- Apple
 tags:
-- Mac Setups
+- Apple
 ---
 
 [![joeys-studio-3](http://ukmac.net/wp-content/uploads/2015/05/joeys-studio-3-200x300.jpg)](http://tinyhouseswoon.com/joeys-studio/)

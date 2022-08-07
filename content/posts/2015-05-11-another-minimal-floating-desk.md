@@ -1,11 +1,8 @@
 ---
-
+date: "2015-05-11T00:00:00Z"
 title: Another Minimal Floating Desk
-post_id: 70
-categories: 
-- Apple
 tags:
-- Mac Setups
+- Apple
 ---
 
 [![Floating desk](http://ukmac.net/wp-content/uploads/2015/05/floatingdesk.jpg)](http://theultralinx.com/2013/02/minimal-floating-wall-desk/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20Ultralinx%20(UltraLinx))
