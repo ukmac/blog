@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-date: "2015-11-02T00:00:00Z"
-=======
 date: “2015-11-02T00:00:00Z”
->>>>>>> 0f1b21df94d3923d17453f7d340272101eb0e221
 title: ISS Celebrates 15 Years Orbiting The Earth
 tags:
 - Videos
