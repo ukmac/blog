@@ -1,12 +1,8 @@
 ---
-
-title: Using Duet Display As A Primary Monitor
-post_id: 226
-categories: 
-- Apple
+date: "2016-01-03T00:00:00Z"
+title: Using Duet Display As A Primary Monitor 
 tags:
-- Apps
-- Hints and tips
+- Apple
 ---
 
 [Duet Display](https://geo.itunes.apple.com/gb/app/duet-display/id935754064?mt=8&at=1000lbQg) is a slick app developed by ex-Apple employees designed to allow your iPad to function as a second monitor on your laptop or iMac using a lightning or iPad 30 pin cable ( for older iPads ). The application works extremely well with none of the lag or latency in display refresh experienced by some of the alternative apps that use the iPads WiFi connection to transfer screen updates.

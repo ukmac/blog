@@ -1,12 +1,8 @@
 ---
-
+date: "2015-10-24T00:00:00Z"
 title: Dual Screen Wallpapers for Macs
-post_id: 185
-categories: 
-- Apple
 tags:
-- Mac Setups
-- Photography
+- Apple
 ---
 
 Twelve South are a brand well known to Mac users for their laptop and iPhone/iPad stands 

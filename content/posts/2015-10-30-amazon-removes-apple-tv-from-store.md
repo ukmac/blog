@@ -1,11 +1,8 @@
 ---
-
+date: "2015-10-30T00:00:00Z"
 title: Amazon Removes Apple TV From Store
-post_id: 207
-categories: 
-- Apple
 tags:
-- Apple TV
+- Apple
 ---
 
 It seems that Amazon was serious with recent threats to pull ads for media streaming devices that don't support their own 

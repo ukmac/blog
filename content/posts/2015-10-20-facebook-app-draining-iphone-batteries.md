@@ -1,12 +1,8 @@
 ---
-
+date: "2015-07-28T00:00:00Z"
 title: Facebook App Draining iPhone Batteries
-post_id: 173
-categories: 
-- Apple
 tags:
-- Apps
-- iPhone
+- Apple
 ---
 
 According to 

@@ -1,12 +1,8 @@
 ---
-
+date: "2015-07-26T00:00:00Z"
 title: How do you backup your digital data ?
-post_id: 146
-categories: 
-- Apple
 tags:
-- Apps
-- Hints and tips
+- Apple
 ---
 
 Unless you have a background in IT the chances are that the only time you have ever considered backups of your information was just after you found out you had lost something precious ? Perhaps it was a bunch of irretrievable photos lost when your hard drive suddenly and inexplicably died ? Or maybe it was your lifetimes collection of music or movies, carefully downloaded and collated onto that 4TB external hard drive connected to your desktop computer that you hadn't noticed had been accidentally deleted ?

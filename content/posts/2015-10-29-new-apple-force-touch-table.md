@@ -1,12 +1,8 @@
 ---
-
+date: "2015-10-29T00:00:00Z"
 title: New Apple Force Touch Table
-post_id: 203
-categories: 
-- Apple
 tags:
 - Apple
-- iPhone
 ---
 
 This is actually pretty cool looking....

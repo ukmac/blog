@@ -1,12 +1,8 @@
 ---
-
+date: "2015-10-30T00:00:00Z"
 title: Animated History Of Steve Jobs
-post_id: 212
-categories: 
-- Apple
 tags:
 - Apple
-- Videos
 ---
 
 The team in the marketing department at 

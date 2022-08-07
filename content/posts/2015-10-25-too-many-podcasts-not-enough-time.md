@@ -1,8 +1,7 @@
 ---
-
+date: "2015-10-25T00:00:00Z"
 title: Too Many Podcasts, Not Enough Time
-post_id: 195
-categories: 
+tags: 
 - Apple
 ---
 

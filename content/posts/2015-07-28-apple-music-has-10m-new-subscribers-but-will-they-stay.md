@@ -1,11 +1,8 @@
 ---
-
+date: "2015-07-28T00:00:00Z"
 title: Apple Music has 10M new subscribers but will they stay ?
-post_id: 154
-categories: 
-- Apple
 tags:
-- Apple Music
+- Apple
 ---
 
 According to many popular sites it is being reported that Apple Music has already reached 10 million subscribers ( 
