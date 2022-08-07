@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Ukmac.net</title><link href="https://ukmac.github.io/blog/" rel="alternate" type="text/html" title="HTML"/><link href="https://ukmac.github.io/blog/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-07T10:32:20+00:00</updated><id>https://ukmac.github.io/blog/</id><entry><title>Daily Post - 27/12/21</title><link href="https://ukmac.github.io/blog/posts/2021-12-27-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2021-12-27-daily-post/</id><published>2021-12-27T00:00:00+00:00</published><updated>2021-12-27T00:00:00+00:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><title>Ukmac.net</title><link href="https://ukmac.github.io/blog/" rel="alternate" type="text/html" title="HTML"/><link href="https://ukmac.github.io/blog/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><updated>2022-08-07T10:48:56+00:00</updated><id>https://ukmac.github.io/blog/</id><entry><title>Daily Post - 27/12/21</title><link href="https://ukmac.github.io/blog/posts/2021-12-27-daily-post/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2021-12-27-daily-post/</id><published>2021-12-27T00:00:00+00:00</published><updated>2021-12-27T00:00:00+00:00</updated><content type="html">
 &lt;p>Over the Christmas break I have been testing out a few different Linux Distros on a Microsoft Surface Go Laptop. This laptop was my test machine for Windows 11 but the experience was less than favourable, slow, unresponsive and noisy as the fan seemed to run pretty constantly.&lt;/p>
 &lt;p>After a brief test of &lt;a
 class="gblog-markdown__link"
@@ -76,7 +76,111 @@ href="Veloviewer"
 &lt;td>Veloviewer is a great site for visualising all your Strava activity data&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content><category scheme="https://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Cablox Cable Organiser</title><link href="https://ukmac.github.io/blog/posts/2015-05-13-cablox-cable-organiser/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-13-cablox-cable-organiser/</id><published>2015-05-13T00:00:00+00:00</published><updated>2015-05-13T00:00:00+00:00</updated><content type="html">
+&lt;/table></content><category scheme="https://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>How to Access Magazines on Zinio for Free</title><link href="https://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/</id><published>2015-06-24T00:00:00+00:00</published><updated>2015-06-24T00:00:00+00:00</updated><content type="html">
+&lt;p>In the days before the Internet I was a regular magazine subscriber and the shelves in my home office used to groan under the weight of all those glossy pages. My magazine buying days have long since gone, replaced by a diet of online news delivered first by USENET followed by online forums, web sites and most recently RSS feeds read through services like
+&lt;a
+class="gblog-markdown__link"
+href="http://feedly.com"
+>Feedly.com&lt;/a> or apps like
+&lt;a
+class="gblog-markdown__link"
+href="https://flipboard.com"
+>Flipboard&lt;/a>.&lt;/p>
+&lt;p>Earlier this year I started a volunteer role at my local library to show local residents how to use the library computers or if they prefer their own devices to get more out of the Internet and PC and tablet applications. It was during my familiarisation with the library services on their web site that I came across
+&lt;a
+class="gblog-markdown__link"
+href="http://www.telford.gov.uk/info/1012/libraries/668/emagazines"
+>this page&lt;/a> ! Basically library members can register for FREE to access a range of magazines through the popular service 
+&lt;a
+class="gblog-markdown__link"
+href="http://zinio.com"
+>Zinio.com&lt;/a>. Zinio has been around for a long time and I had looked at the magazines available through the service over the years, in fact before I spotted the library link I had been debating subscribing to National Geographic for cash ! So glad I didn&amp;rsquo;t now as the Nat Geo is one of the magazines available through the Telford library service for free.&lt;/p>
+&lt;p>All that is needed to take advantage of the deal is a library membership card ( available for free to local residents ). Once you are a member you can register through the link on the library web site which gives you access to select from the range of magazines that the library make available ( currently 31 titles at Telford ) and download to your tablet/desktop Zinio reader app or to read online through the Zinio web site.&lt;/p>
+&lt;p>Since signing up for this service I have spoken with a variety of friends and work colleagues and told them how I can access magazines online for free. When we have looked at the services available from their local libraries ( Birmingham, Wolverhampton, Walsall etc ) we have discovered that they also offer the same sort of service. In fact most of them have a wider range of magazine titles available than my library in Telford !&lt;/p>
+&lt;p>If you would like to subscribe to this service head over to your local library web site and do a search for Zinio, I am betting that you will find there is a free service available to you that you didn&amp;rsquo;t know was there !&lt;/p>
+&lt;p>Enjoy,&lt;/p>
+&lt;p> &lt;/p>
+&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>Super Minimal Mac Pro Setup</title><link href="https://ukmac.github.io/blog/posts/2015-06-21-super-minimal-mac-pro-setup/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-21-super-minimal-mac-pro-setup/</id><published>2015-06-21T00:00:00+00:00</published><updated>2015-06-21T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;a
+class="gblog-markdown__link--raw"
+href="http://ukmac.net/wp-content/uploads/2015/06/jqo0E6V1.jpg"
+>&lt;img
+src="http://ukmac.net/wp-content/uploads/2015/06/jqo0E6V1-300x200.jpg"
+alt="Minimal Desk"
+/>&lt;/a>&lt;/p>
+&lt;p>This
+&lt;a
+class="gblog-markdown__link"
+href="http://imgur.com/a/5oy5T"
+>super minimal dual screen setup &lt;/a>does a great job of creating a work space in what looks like an opening in a corridor.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple" term="Apple" label="Apple"/></entry><entry><title>Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/</id><published>2015-06-19T00:00:00+00:00</published><updated>2015-06-19T00:00:00+00:00</updated><content type="html">
+&lt;p>I just happened across this tidbit and though its not really Mac or Apple related I thought it was worth posting a quick note about it because I expect many people in the UK may not be aware of the forthcoming changes to telephone call charges that come into force on 1st July 2015.&lt;/p>
+&lt;p>All the information you need can be found at
+&lt;a
+class="gblog-markdown__link"
+href="http://ukcalling.info"
+>http://ukcalling.info&lt;/a>. There are a range of changes being made to make the charges for 08 numbers clearer to UK residents amongst which is the change that makes 0800 and 0808 calls free to mobiles as well as landlines.&lt;/p>
+&lt;p>Good news for many people I would think.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>For Sales...</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-for-sales/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-for-sales/</id><published>2015-06-19T00:00:00+00:00</published><updated>2015-06-19T00:00:00+00:00</updated><content type="html">
+&lt;p>I am currently advertising my
+&lt;a
+class="gblog-markdown__link"
+href="http://www.ebay.co.uk/itm/261929731627?ssPageName=STRK:MESELX:IT&amp;amp;_trksid=p3984.m1555.l2649"
+>Apple Bluetooth Keyboard&lt;/a> and
+&lt;a
+class="gblog-markdown__link"
+href="http://www.ebay.co.uk/itm/261929736347?ssPageName=STRK:MESELX:IT&amp;amp;_trksid=p3984.m1555.l2649"
+>Apple Trackpad&lt;/a> on
+&lt;a
+class="gblog-markdown__link"
+href="http://ebay.co.uk"
+>eBay&lt;/a> if anyone is interested. Both in good working order.&lt;/p>
+&lt;p>Auction ends Sunday so be quick !&lt;/p>
+&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple" term="Apple" label="Apple"/></entry><entry><title>Say no to Pakisaurus - Hilarious Rant by Guzzy Bear</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-say-no-to-pakisaurus-hilarious-rant-by-guzzy-bear/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-say-no-to-pakisaurus-hilarious-rant-by-guzzy-bear/</id><published>2015-06-19T00:00:00+00:00</published><updated>2015-06-19T00:00:00+00:00</updated><content type="html">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/xd4ygI0GHV8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>UPDATE: I should apologise in advance for the non-Appleiness of this post, it seems I am in a sharing mood today !&lt;/p>
+&lt;p>I have a friend who shall remain nameless who constantly sends me awful Youtube clips but today he out did himself when he sent me this one ! This is an hilarious rant by
+&lt;a
+class="gblog-markdown__link"
+href="https://www.youtube.com/channel/UCv2i0uRFPpPS_1d60ziunEA"
+>Youtuber Guzzy Bear Oh Yeh!&lt;/a> about a section of the new Jurassic World film that somehow got through editing without anyone spotting the fairly obvious racist connotations !&lt;/p>
+&lt;p>In case you wondered the friend who sent me this is asian&amp;hellip;&lt;/p>
+&lt;p>Watch this, I was in stitches.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Videos" term="Videos" label="Videos"/></entry><entry><title>How to Take Funny Travel Photos - The Right Way</title><link href="https://ukmac.github.io/blog/posts/2015-05-16-how-to-take-funny-travel-photos-the-right-way/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-16-how-to-take-funny-travel-photos-the-right-way/</id><published>2015-06-16T00:00:00+00:00</published><updated>2015-06-16T00:00:00+00:00</updated><content type="html">
+&lt;p>If you have a Facebook or Twitter account you can&amp;rsquo;t have missed
+&lt;a
+class="gblog-markdown__link"
+href="https://bgr.com/2015/04/28/eiffel-tower-photoshop-fail-trolled-hilarious-4chan/"
+>seeing this article&lt;/a> or one of the many variants reported all over the web in the last week or so. A Dutch food blogger named Sid Frisjes made the mistake of posting his failed attempt at the classic photo of himself pointing at the top of the Eiffel tower on Reddit and asking for some help to fix the original. The resulting stream of hilarious mickey takes quickly spread and was widely reported.&lt;/p>
+&lt;p>&lt;img
+src="https://boygeniusreport.files.wordpress.com/2015/04/eifel-tower-4chan.jpg?w=622&amp;amp;h=283"
+alt=""
+/>&lt;/p>
+&lt;p>If you want to avoid becoming the subject of world wide ridicule like Sid you might be advised to check out
+&lt;a
+class="gblog-markdown__link"
+href="http://www.lifehack.org/articles/lifestyle/ultimate-guide-taking-funny-photos-for-every-traveller.html"
+>this article&lt;/a> from Lifehack.org which was put together to help travellers to make the most of their photo opportunities and nab those funny pics first time, without the use of photo editing tools ( or Reddit ! )&lt;/p>
+&lt;p>&lt;a
+class="gblog-markdown__link--raw"
+href="http://www.lifehack.org/articles/lifestyle/ultimate-guide-taking-funny-photos-for-every-traveller.html"
+>&lt;img
+src="http://cdn-media-1.lifehack.org/wp-content/files/2015/04/tourist-shot-manual-presentation.jpg"
+alt=""
+/>&lt;/a>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Photography" term="Photography" label="Photography"/></entry><entry><title>A Minimal Desk With A View</title><link href="https://ukmac.github.io/blog/posts/2015-06-02-a-desk-with-a-view/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-02-a-desk-with-a-view/</id><published>2015-06-02T00:00:00+00:00</published><updated>2015-06-02T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;img
+src="http://ukmac.net/wp-content/uploads/2015/06/roomwithaview.jpg"
+alt="roomwithaview"
+/>](&lt;a
+class="gblog-markdown__link"
+href="http://eclecticdaze.com/post/67474888057"
+>http://eclecticdaze.com/post/67474888057&lt;/a>) Click to view original article&lt;/p>
+&lt;p>This minimal office space looks like it has an amazing view !&lt;/p>
+&lt;p>It must be fantastic to sit down to work with a panoramic view like this.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple" term="Apple" label="Apple"/></entry><entry><title>Minimal Desk with iMac</title><link href="https://ukmac.github.io/blog/posts/2015-05-16-minimal-desk-with-imac/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-16-minimal-desk-with-imac/</id><published>2015-05-16T00:00:00+00:00</published><updated>2015-05-16T00:00:00+00:00</updated><content type="html">
+&lt;p>&lt;img
+src="http://40.media.tumblr.com/aa81494a424019f49fd4b6226b03c098/tumblr_mrxc9f4Gr71rqeb09o1_1280.jpg"
+alt=""
+/>&lt;/p>
+&lt;p>A nice simple use of trestle legs and a small section of worktop to make a smart minimal desk space. An iMac finishes off the combo !&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple" term="Apple" label="Apple"/></entry><entry><title>Cablox Cable Organiser</title><link href="https://ukmac.github.io/blog/posts/2015-05-13-cablox-cable-organiser/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-13-cablox-cable-organiser/</id><published>2015-05-13T00:00:00+00:00</published><updated>2015-05-13T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link--raw"
 href="http://ukmac.net/wp-content/uploads/2015/05/Cablox-Cable-Organizer.jpg"
@@ -230,17 +334,7 @@ title="Route"
 class="gblog-markdown__link"
 href="https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/What-s-New-in-Microsoft-Teams-Ignite-2019/ba-p/937025"
 >What’s New in Microsoft Teams- Ignite 2019&lt;/a>&lt;/p>
-&lt;p>This is a LONG list of new and improved features for Microsoft Teams. Excited to see a lot of these, especially things such as Private Channels and Planner/To Do integration&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Teams" term="Teams" label="Teams"/></entry><entry><title>A Minimal Desk With A View</title><link href="https://ukmac.github.io/blog/posts/2015-06-02-a-desk-with-a-view/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-02-a-desk-with-a-view/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>[caption id=&amp;ldquo;attachment_107&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]
-&lt;a
-class="gblog-markdown__link--raw"
-href="http://eclecticdaze.com/post/67474888057"
->&lt;img
-src="http://ukmac.net/wp-content/uploads/2015/06/roomwithaview.jpg"
-alt="roomwithaview"
-/>&lt;/a> Click to view original article[/caption]&lt;/p>
-&lt;p>This minimal office space looks like it has an amazing view !&lt;/p>
-&lt;p>It must be fantastic to sit down to work with a panoramic view like this.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Mac-Setups" term="Mac-Setups" label="Mac Setups"/></entry><entry><title>Adaptive Cards for Beginners</title><link href="https://ukmac.github.io/blog/posts/2019-08-21-adaptive-cards-for-beginners/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-08-21-adaptive-cards-for-beginners/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>This is a LONG list of new and improved features for Microsoft Teams. Excited to see a lot of these, especially things such as Private Channels and Planner/To Do integration&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Teams" term="Teams" label="Teams"/></entry><entry><title>Adaptive Cards for Beginners</title><link href="https://ukmac.github.io/blog/posts/2019-08-21-adaptive-cards-for-beginners/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-08-21-adaptive-cards-for-beginners/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;div class="gblog-post__anchorwrap">
 &lt;h2 id="teams-and-flow">
 Teams and Flow
@@ -356,14 +450,7 @@ href="https://www.macworld.com/article/3449239/apple-warns-homepod-users-of-pote
 class="gblog-markdown__link"
 href="https://github.com/dwarvesf/blurred"
 >GitHub - dwarvesf/blurred: A macOS utility that helps reduce distraction by dimming your inactive noise&lt;/a>&lt;/p>
-&lt;p>There are a number of apps in the store that will blur the background windows that aren&amp;rsquo;t in focus as Blurred does. Unlike Blurred most of them are paid for apps. Blurred is free and does its job well.&lt;/p></content></entry><entry><title>Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>I just happened across this tidbit and though its not really Mac or Apple related I thought it was worth posting a quick note about it because I expect many people in the UK may not be aware of the forthcoming changes to telephone call charges that come into force on 1st July 2015.&lt;/p>
-&lt;p>All the information you need can be found at
-&lt;a
-class="gblog-markdown__link"
-href="http://ukcalling.info"
->http://ukcalling.info&lt;/a>. There are a range of changes being made to make the charges for 08 numbers clearer to UK residents amongst which is the change that makes 0800 and 0808 calls free to mobiles as well as landlines.&lt;/p>
-&lt;p>Good news for many people I would think.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>CarPlay in iOS 13</title><link href="https://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>There are a number of apps in the store that will blur the background windows that aren&amp;rsquo;t in focus as Blurred does. Unlike Blurred most of them are paid for apps. Blurred is free and does its job well.&lt;/p></content></entry><entry><title>CarPlay in iOS 13</title><link href="https://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-08-25-carplay-in-ios-13/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
 href="https://www.macstories.net/stories/carplay-in-ios-13-a-big-leap-forward"
@@ -970,22 +1057,7 @@ class="gblog-markdown__link"
 href="http://techcrunch.com/2015/10/15/facebook-working-on-fix-for-ios-app-battery-drain-issue/"
 >this article&lt;/a>on TechCrunch Facebook have confirmed that they are aware of a problem with their iOS app causing excessive battery drain even when the app has background refresh disabled.&lt;/p>
 &lt;p>If you are experiencing issues with decreased battery life recently and have the Facebook app installed you could try deleting the app and using Safari to access the site until a fix is released.&lt;/p>
-&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="https://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>For Sales...</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-for-sales/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-for-sales/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>I am currently advertising my
-&lt;a
-class="gblog-markdown__link"
-href="http://www.ebay.co.uk/itm/261929731627?ssPageName=STRK:MESELX:IT&amp;amp;_trksid=p3984.m1555.l2649"
->Apple Bluetooth Keyboard&lt;/a> and
-&lt;a
-class="gblog-markdown__link"
-href="http://www.ebay.co.uk/itm/261929736347?ssPageName=STRK:MESELX:IT&amp;amp;_trksid=p3984.m1555.l2649"
->Apple Trackpad&lt;/a> on
-&lt;a
-class="gblog-markdown__link"
-href="http://ebay.co.uk"
->eBay&lt;/a> if anyone is interested. Both in good working order.&lt;/p>
-&lt;p>Auction ends Sunday so be quick !&lt;/p>
-&lt;p> &lt;/p></content></entry><entry><title>For You Disappearing from iTunes after recent update</title><link href="https://ukmac.github.io/blog/posts/2015-07-15-for-you-disappearing-from-itunes-after-recent-update/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-07-15-for-you-disappearing-from-itunes-after-recent-update/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="https://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>For You Disappearing from iTunes after recent update</title><link href="https://ukmac.github.io/blog/posts/2015-07-15-for-you-disappearing-from-itunes-after-recent-update/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-07-15-for-you-disappearing-from-itunes-after-recent-update/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Last night my MacBook&amp;rsquo;s iTunes was updated with the latest release ( 12.2.1.16 ) and when it restarted I was prompted with the invitation to Join Apple Music trial. As I had already signed up I ignored this prompt and clicked through to iTunes assuming it was some sort of error, however what I noticed then was the For You and New sections at the top of the iTunes window were now missing.&lt;/p>
 &lt;p>Restarting iTunes didn&amp;rsquo;t resolve this, nor did logging out of the the Store and back in again. After a number of attempts to recover the missing sections I went into the iTunes Store and clicked onto the 90 Day Trial link ( at the very bottom left of the store ) and hey presto the missing sections re-appeared again !&lt;/p>
 &lt;p>Anyone else experienced this or was this a one off for me ?&lt;/p>
@@ -1043,7 +1115,7 @@ class="gblog-markdown__link"
 href="http://arstechnica.com/security/2015/06/serious-os-x-and-ios-flaws-let-hackers-steal-keychain-1password-contents/"
 >this article from Ars Technica&lt;/a> shows the bad guys ( or good guys if they are doing this to expose weaknesses to the vendors rather than using for personal gain ) continue to find ways around and through the barriers.&lt;/p>
 &lt;p>Apple have long claimed that their operating systems and software are best in class as far as security is concerned, but as we all know these sort of claims are only going to encourage hackers to prove them wrong, more so over recent years as Apples market share has grown.&lt;/p>
-&lt;p>Hopefully steps are already in place to fix this latest vulnerability.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Security" term="Security" label="Security"/></entry><entry><title>Hidden Bar - menu bar management for macOS</title><link href="https://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>Hopefully steps are already in place to fix this latest vulnerability.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple" term="Apple" label="Apple"/><category scheme="https://ukmac.github.io/blog/tags/Security" term="Security" label="Security"/></entry><entry><title>Hidden Bar - menu bar management for macOS</title><link href="https://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-12-27-hidden-bar/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Mac menu bar utiities are great for quick access to apps that perform simple tasks and that don&amp;rsquo;t need to sit in the dock or occupy space on your desktop however they do tend to proliferate and before you know it the list of little icons at the top right of your menu bar can get out of control.&lt;/p>
 &lt;p>There are a couple of utilities that aim to help with this. &lt;a
 class="gblog-markdown__link"
@@ -1085,58 +1157,13 @@ href="www.backblaze.com"
 class="gblog-markdown__link"
 href="https://secure.backblaze.com/r/00isdf"
 >months free trial by clicking on this link&lt;/a>.&lt;/p>
-&lt;p>This post is not sponsored by Backblaze it is purely my personal choice of backup service and something that I recommend to friends and relatives when the subject arises. Please try it out, you may thank me one day !&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>How to Access Magazines on Zinio for Free</title><link href="https://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>In the days before the Internet I was a regular magazine subscriber and the shelves in my home office used to groan under the weight of all those glossy pages. My magazine buying days have long since gone, replaced by a diet of online news delivered first by USENET followed by online forums, web sites and most recently RSS feeds read through services like
-&lt;a
-class="gblog-markdown__link"
-href="http://feedly.com"
->Feedly.com&lt;/a> or apps like
-&lt;a
-class="gblog-markdown__link"
-href="https://flipboard.com"
->Flipboard&lt;/a>.&lt;/p>
-&lt;p>Earlier this year I started a volunteer role at my local library to show local residents how to use the library computers or if they prefer their own devices to get more out of the Internet and PC and tablet applications. It was during my familiarisation with the library services on their web site that I came across
-&lt;a
-class="gblog-markdown__link"
-href="http://www.telford.gov.uk/info/1012/libraries/668/emagazines"
->this page&lt;/a> ! Basically library members can register for FREE to access a range of magazines through the popular service 
-&lt;a
-class="gblog-markdown__link"
-href="http://zinio.com"
->Zinio.com&lt;/a>. Zinio has been around for a long time and I had looked at the magazines available through the service over the years, in fact before I spotted the library link I had been debating subscribing to National Geographic for cash ! So glad I didn&amp;rsquo;t now as the Nat Geo is one of the magazines available through the Telford library service for free.&lt;/p>
-&lt;p>All that is needed to take advantage of the deal is a library membership card ( available for free to local residents ). Once you are a member you can register through the link on the library web site which gives you access to select from the range of magazines that the library make available ( currently 31 titles at Telford ) and download to your tablet/desktop Zinio reader app or to read online through the Zinio web site.&lt;/p>
-&lt;p>Since signing up for this service I have spoken with a variety of friends and work colleagues and told them how I can access magazines online for free. When we have looked at the services available from their local libraries ( Birmingham, Wolverhampton, Walsall etc ) we have discovered that they also offer the same sort of service. In fact most of them have a wider range of magazine titles available than my library in Telford !&lt;/p>
-&lt;p>If you would like to subscribe to this service head over to your local library web site and do a search for Zinio, I am betting that you will find there is a free service available to you that you didn&amp;rsquo;t know was there !&lt;/p>
-&lt;p>Enjoy,&lt;/p>
-&lt;p> &lt;/p>
-&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>How to add an item to specific Reminders list AND set a reminder time? - Ask Different</title><link href="https://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>This post is not sponsored by Backblaze it is purely my personal choice of backup service and something that I recommend to friends and relatives when the subject arises. Please try it out, you may thank me one day !&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apps" term="Apps" label="Apps"/><category scheme="https://ukmac.github.io/blog/tags/Hints-and-tips" term="Hints-and-tips" label="Hints and tips"/></entry><entry><title>How to add an item to specific Reminders list AND set a reminder time? - Ask Different</title><link href="https://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2018-10-07-siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Siri: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
 — Read on
 &lt;a
 class="gblog-markdown__link"
 href="https://apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time"
->apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&lt;/a>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>How to Take Funny Travel Photos - The Right Way</title><link href="https://ukmac.github.io/blog/posts/2015-05-16-how-to-take-funny-travel-photos-the-right-way/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-16-how-to-take-funny-travel-photos-the-right-way/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>If you have a Facebook or Twitter account you can&amp;rsquo;t have missed
-&lt;a
-class="gblog-markdown__link"
-href="https://bgr.com/2015/04/28/eiffel-tower-photoshop-fail-trolled-hilarious-4chan/"
->seeing this article&lt;/a> or one of the many variants reported all over the web in the last week or so. A Dutch food blogger named Sid Frisjes made the mistake of posting his failed attempt at the classic photo of himself pointing at the top of the Eiffel tower on Reddit and asking for some help to fix the original. The resulting stream of hilarious mickey takes quickly spread and was widely reported.&lt;/p>
-&lt;p>&lt;img
-src="https://boygeniusreport.files.wordpress.com/2015/04/eifel-tower-4chan.jpg?w=622&amp;amp;h=283"
-alt=""
-/>&lt;/p>
-&lt;p>If you want to avoid becoming the subject of world wide ridicule like Sid you might be advised to check out
-&lt;a
-class="gblog-markdown__link"
-href="http://www.lifehack.org/articles/lifestyle/ultimate-guide-taking-funny-photos-for-every-traveller.html"
->this article&lt;/a> from Lifehack.org which was put together to help travellers to make the most of their photo opportunities and nab those funny pics first time, without the use of photo editing tools ( or Reddit ! )&lt;/p>
-&lt;p>&lt;a
-class="gblog-markdown__link--raw"
-href="http://www.lifehack.org/articles/lifestyle/ultimate-guide-taking-funny-photos-for-every-traveller.html"
->&lt;img
-src="http://cdn-media-1.lifehack.org/wp-content/files/2015/04/tourist-shot-manual-presentation.jpg"
-alt=""
-/>&lt;/a>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Photography" term="Photography" label="Photography"/></entry><entry><title>iCloud Upgrade Day..</title><link href="https://ukmac.github.io/blog/posts/2018-09-08-icloud-upgrade-day/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2018-09-08-icloud-upgrade-day/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+>apple.stackexchange.com/questions/235719/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time&lt;/a>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/></entry><entry><title>iCloud Upgrade Day..</title><link href="https://ukmac.github.io/blog/posts/2018-09-08-icloud-upgrade-day/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2018-09-08-icloud-upgrade-day/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>A long time coming but I have finally had to make the jump to the next level of iCloud storage ( 2TB ). The 200Mb subscription has lasted a while but has finally been absorbed by the families Messages, Photos and others. At least I have plenty of head room to grow into now.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Apple-Miscellany" term="Apple-Miscellany" label="Apple Miscellany"/></entry><entry><title>Infinite Loop - Lovely Relaxing Game for iOS</title><link href="https://ukmac.github.io/blog/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-25-inifinite-loop-lovely-relaxing-game-for-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>&lt;a
 class="gblog-markdown__link"
@@ -1250,12 +1277,7 @@ href="http://arstechnica.com/apple/2016/01/microsofts-clever-curved-keyboard-for
 &lt;p>&lt;img
 src="http://cdn.arstechnica.net/wp-content/uploads/2016/01/ioswordflow-22.0.0.jpg"
 alt=""
-/>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="https://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Minimal Desk with iMac</title><link href="https://ukmac.github.io/blog/posts/2015-05-16-minimal-desk-with-imac/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-05-16-minimal-desk-with-imac/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>&lt;img
-src="http://40.media.tumblr.com/aa81494a424019f49fd4b6226b03c098/tumblr_mrxc9f4Gr71rqeb09o1_1280.jpg"
-alt=""
-/>&lt;/p>
-&lt;p>A nice simple use of trestle legs and a small section of worktop to make a smart minimal desk space. An iMac finishes off the combo !&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Mac-Setups" term="Mac-Setups" label="Mac Setups"/></entry><entry><title>Minimal Mistakes Blogs</title><link href="https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+/>&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/iOS" term="iOS" label="iOS"/><category scheme="https://ukmac.github.io/blog/tags/iPhone" term="iPhone" label="iPhone"/></entry><entry><title>Minimal Mistakes Blogs</title><link href="https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2020-07-21-minimal-mistakes-blogs/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Now I have got a barebones Jekyll site running, DNS sorted and old Wordpress posts migrated its time to do a bit of personalisation. Like a lot of Jekyll blogs I have started with the &lt;a
 class="gblog-markdown__link"
 href="https://mmistakes.github.io/minimal-mistakes"
@@ -1533,16 +1555,7 @@ href="https://ukmac.net/feed.xml"
 class="gblog-markdown__link"
 href="http://www.macrumors.com/2016/03/22/new-ultra-thin-13-15-macbooks-june-july/?utm_source=feedly&amp;amp;utm_medium=webfeeds"
 >Interesting&lt;/a>rumour from MacRumors.com&lt;/p>
-&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware"/></entry><entry><title>Say no to Pakisaurus - Hilarious Rant by Guzzy Bear</title><link href="https://ukmac.github.io/blog/posts/2015-06-19-say-no-to-pakisaurus-hilarious-rant-by-guzzy-bear/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-19-say-no-to-pakisaurus-hilarious-rant-by-guzzy-bear/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>[embed]https://youtu.be/xd4ygI0GHV8[/embed]&lt;/p>
-&lt;p>UPDATE: I should apologise in advance for the non-Appleiness of this post, it seems I am in a sharing mood today !&lt;/p>
-&lt;p>I have a friend who shall remain nameless who constantly sends me awful Youtube clips but today he out did himself when he sent me this one ! This is an hilarious rant by
-&lt;a
-class="gblog-markdown__link"
-href="https://www.youtube.com/channel/UCv2i0uRFPpPS_1d60ziunEA"
->Youtuber Guzzy Bear Oh Yeh!&lt;/a> about a section of the new Jurassic World film that somehow got through editing without anyone spotting the fairly obvious racist connotations !&lt;/p>
-&lt;p>In case you wondered the friend who sent me this is asian&amp;hellip;&lt;/p>
-&lt;p>Watch this, I was in stitches.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Videos" term="Videos" label="Videos"/><category scheme="https://ukmac.github.io/blog/tags/Humour" term="Humour" label="Humour"/></entry><entry><title>Setting Lock Screen Wallpaper with InTune</title><link href="https://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p> &lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Mac-Hardware" term="Mac-Hardware" label="Mac Hardware"/></entry><entry><title>Setting Lock Screen Wallpaper with InTune</title><link href="https://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2019-09-02-setting-lock-screen-wallpaper-with-intune/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>Just found
 &lt;a
 class="gblog-markdown__link"
@@ -1700,19 +1713,7 @@ href="https://en.wikipedia.org/wiki/Weald_Moors"
 src="/images/2021-05-03-sunny-ride/wrekin.png"
 alt=""
 />&lt;/p>
-&lt;p>It was a very cold start but I soon warmed up and was enjoying the clear air, lack of cars on the roads and the beautiful Shropshire countryside. Not a bad start to the day.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Super Minimal Mac Pro Setup</title><link href="https://ukmac.github.io/blog/posts/2015-06-21-super-minimal-mac-pro-setup/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2015-06-21-super-minimal-mac-pro-setup/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
-&lt;p>&lt;a
-class="gblog-markdown__link--raw"
-href="http://ukmac.net/wp-content/uploads/2015/06/jqo0E6V1.jpg"
->&lt;img
-src="http://ukmac.net/wp-content/uploads/2015/06/jqo0E6V1-300x200.jpg"
-alt="Minimal Desk"
-/>&lt;/a>&lt;/p>
-&lt;p>This
-&lt;a
-class="gblog-markdown__link"
-href="http://imgur.com/a/5oy5T"
->super minimal dual screen setup &lt;/a>does a great job of creating a work space in what looks like an opening in a corridor.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Mac-Setups" term="Mac-Setups" label="Mac Setups"/></entry><entry><title>Swapping Between Hardware and On Screen Keyboards on iOS</title><link href="https://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
+&lt;p>It was a very cold start but I soon warmed up and was enjoying the clear air, lack of cars on the roads and the beautiful Shropshire countryside. Not a bad start to the day.&lt;/p></content><category scheme="https://ukmac.github.io/blog/tags/Cycling" term="Cycling" label="Cycling"/></entry><entry><title>Swapping Between Hardware and On Screen Keyboards on iOS</title><link href="https://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/" rel="alternate" type="text/html" hreflang="en"/><id>https://ukmac.github.io/blog/posts/2016-04-03-swapping-between-hardware-and-on-screen-keyboards-on-ios/</id><published>0001-01-01T00:00:00+00:00</published><updated>0001-01-01T00:00:00+00:00</updated><content type="html">
 &lt;p>I recently bought the excellent
 &lt;a
 class="gblog-markdown__link"
